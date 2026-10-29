@@ -1,0 +1,78 @@
+# Government and the Founder
+
+> Sources: Giglos Wiki Source, 2026-10-29
+> Raw: [Giglos Wiki Source § Government, the Founder, elites](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Government%2C%20the%20Founder%2C%20elites); [Chat B transcript](../../raw/chats/2026-10-05-chat-B.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md)
+> Updated: 2026-10-29
+> Kind: draft
+
+## Overview
+
+The state is a [city-state-corporation run as a direct line of control from the Founder](#^state). [The original founder no longer exists](#^founder-def); [rank tracks split distance](#^rank). The current ruler [holds memory but has lost skill](#^ruler), which the regime [restores by skill harvest](#^restore). [Removing the Founder runs through a council vote](#^council). The founding origin is tentative [Z?]. The Founder lore is in tension with the original game premise (T1).
+
+## Canon
+
+- The state is a city-state-corporation run as a direct line of control from the Founder, a title held by whichever living descendant is fewest splits from the original. [Z] (B, C) ^state
+
+### The Founder
+
+- The original founder no longer exists; "the Founder" is whichever descendant is fewest splits from the original. [Z] (C) ^founder-def
+
+> **Status: Disputed**
+> T1: the original game premise has the founder closest to the first split splitting into fascist and weak halves ([premise](../game/premise-and-protagonist.md)). Recorded in [tensions](../meta/tensions.md), unresolved.
+
+- The chain of command follows split distance: the founder mitosed, the subordinate half mitosed further, and so on, so rank tracks how many iterations you are from the original. [Z] (B) ^rank
+- The Founder is spoken of as a mythological figure still in power. In reality mitosis slowly degrades the original ambition and memory. [Z] (C)
+- The current ruler holds most of the original's memory thanks to careful splitting, but splits strip learned ability and training needed to run the state. If unrest or infighting (caused by the protagonist) reveals the ruler has no real skill left, only the founder's record of experience and ideas, then as new ideas gain popularity in the inner circle the Founder could be labeled a fraud or a puppet. [Z] (C) ^ruler
+- Skill restoration: fuse the ruler with a sacrificial, highly skilled member of the inner circle, then mitose again and split off the rest of that person as waste. [Z] (C) Donor rules: see [state repression](state-repression.md). ^restore
+- The founding era was laser-focused on bureaucracy and progression; the Founder treats religion and doctrine as silly and contains it without banning it. [Z] (F)
+
+### Elites and knowledge
+
+- Everyone in power is the "purest", because the state is a direct line to the founder. [Z] (C)
+- Elites know clean splitting because the founder had to mitose to plan the city and learned it well. Knowledge is graded: leaders get the memory and skill as backup, workers are not given it. [Z] (C)
+- Leaders likely know what the main pain medicine does (tobacco-industry style) but keep plausible deniability, since they rarely had to work for their position and can claim no memory of its effects beyond covered-up recreational-use scandals. Only a token few loyal climbers from below know firsthand. [Z] (C)
+- Fusion within the inner circle brings inbreeding. [Z] (C)
+
+### Governance structure
+
+- Removing the Founder runs through a council vote, not a democratic election. [Z] (F) ^council
+- Ousting the top levels, up to the Founder seat, requires replacing enough of the rest of government to veto or impeach them. [Z] (F)
+
+## Tentative
+
+- Founding origin (not final): a settling party arrived, and the founder betrayed and slaughtered them at an opportune time so they could be the sole seed of the civilization. [Z?] (C)
+
+## Unconfirmed
+
+- "Memory laundering": a leader splits before a dirty decision and casts off the half that knows. [C] (C)
+- Authorship (remembering intent) vs competence (running the state) as two separate kinds of legitimacy; "puppet" (useful figurehead) vs "fraud" (discarded) as different accusations. [C] (C)
+- Someone else must perform the ruler's splits, so they may be curating what "the Founder remembers". [C] (C)
+- The regime has a skill clock: each purge spends the ruler's own skill; collateral lines may hold more of the original than the official ruler. [C] (C)
+- Ruler copies as stand-ins and succession backup; the ruler's split history classified. [C] (C)
+- After many harvests the ruler becomes a composite of everyone consumed. [C] (C)
+- Inbreeding shows as growth-control failure (a Habsburg-jaw analog). [C] (C)
+- Veto player theory (Tsebelis) as framing. [C] (F)
+- Recordkeepers who certify lineage as a hidden veto point. [C] (F)
+
+## Open questions
+
+- Who performs the ruler's splits, and does the ruler know they might be edited? [OPEN] (C)
+- Does the regime know its skill is running out? [OPEN] (C)
+- How is the council seated (lineage, appointment, co-option), and can members be recalled? [OPEN] (F)
+- Is the impeachment threshold a seat count, or specific offices (records, courts, council) agreeing? [OPEN] (F)
+- The original founder's motive in detail. [OPEN] (B, C)
+
+## History
+
+- A democratic election as the peaceful target [X] (F). Replaced by: a council vote; veto or impeachment by replacing office-holders.
+
+## See Also
+
+- [Premise and protagonist](../game/premise-and-protagonist.md)
+- [State repression](state-repression.md)
+- [Resistance](resistance.md)
+- [The city](the-city.md)
+- [Education and clean splitting](education-and-clean-splitting.md)
+- [Medicine and drugs](medicine-and-drugs.md)
+- [History and timeline](../world/history-and-timeline.md)
+- [Fusion](../biology/fusion.md)
