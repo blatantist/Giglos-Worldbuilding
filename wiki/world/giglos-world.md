@@ -9,7 +9,7 @@
 
 Stub. What exists elsewhere: "Third moon of Giglos" ([naming](naming-and-terminology.md)), a very humid atmosphere ([ecology](ecology-and-evolution.md)), and open desert at the city edge ([the city](../society/the-city.md)). The last two are in tension (T6, see [tensions](../meta/tensions.md)).
 
-Chat J started on astronomy and climate. Zach's one firm constraint so far is that [overly long days and nights would push temperatures to extremes](#^long-nights), that [an atmosphere helps trap and propagate heat](#^atmo-heat), and he was already assuming a [dense (more than Earth, less than Venus) and damp atmosphere](#^dense-damp), alongside the existing [very humid atmosphere](ecology-and-evolution.md#^humid). His sideways moon orbit and far orbit are tentative ([Z?]). Everything on eclipses, tidal lock, orbit distance and how a long night stays mild is Claude's unconfirmed physics ([C]), and day length, tidal lock and eclipse seasons remain [OPEN].
+Chat J started on astronomy and climate. Zach's one firm constraint so far is that [overly long days and nights would push temperatures to extremes](#^long-nights), that [an atmosphere helps trap and propagate heat](#^atmo-heat), and he was already assuming a [dense (more than Earth, less than Venus) and damp atmosphere](#^dense-damp), alongside the existing [very humid atmosphere](ecology-and-evolution.md#^humid). He also wants [no constant rain](#^no-constant-rain) and a [tilted orbit so total eclipses are rare](#^tilted-orbit). His sideways moon orbit, far orbit, high cloud cover and a ~5–6 day day and night are tentative ([Z?]). Everything on eclipses, tidal lock, orbit distance and how a long night stays mild is Claude's unconfirmed physics ([C]), and day length, tidal lock and eclipse seasons remain [OPEN].
 
 ## Canon
 
@@ -19,10 +19,15 @@ Chat J started on astronomy and climate. Zach's one firm constraint so far is th
 - Multiple week or month long nights mean temperatures dropping, and the inverse in the day, to extremes. [Z] (J)
 - Zach was already assuming a dense (not as dense as Venus, but more than Earth) and damp atmosphere. [Z] (J) ^dense-damp
   - Related, kept separate: the very humid atmosphere line in [ecology](ecology-and-evolution.md#^humid).
+- The damp works well with the fungal flora. [Z] (J)
+- Zach does not want it to be constantly raining. [Z] (J) ^no-constant-rain
+- Zach wants a tilted orbit so total eclipses are rare. [Z] (J) ^tilted-orbit
 
 ## Tentative
 
 - Sideways moon orbit: the moon's orbit "perpendicular to normal, so the ring is tangent to the planet orbit" ("idk if those are the right words"), so that as the planet orbits, it never eclipses the sun from the moon. [Z?] (J)
+- Lots of clouds that stretch high up so there's rarely clear sky, just soft light and occasional shafts of light ("idk i like there being lots of clouds but i want them to stretch high up"). [Z?] (J)
+- Day and night of "~5-6 day" (asked in passing; whether that is each half or the whole cycle was not stated in J9). [Z?] (J)
 - Far orbit: with a far orbit the shadow cone is small and the moon is mostly in sun, and it rotates with the orbit under tidal lock; asked whether that gives enough sides of the moon illumination. [Z?] (J)
 
 ## Unconfirmed
@@ -88,6 +93,28 @@ Chat J started on astronomy and climate. Zach's one firm constraint so far is th
 - Holding a thick, warm, wet atmosphere needs a fairly large moon, or a magnetic field to shield it; Titan manages with low gravity only because it's very cold; a warm Giglos would need to be bigger, perhaps closer to Mars or Earth size. [C] (J)
 - A close-ish orbit with a day–night cycle of a few days each fits what Zach already has. [C] (J)
 
+### Weather cycle and seasons (Chat J)
+
+- Rain comes in bursts tied to the time of day, not all the time, under a nearly permanent high cloud cover. [C] (J)
+- Claude assumed about 5–6 days of light and then 5–6 days of dark, so roughly an 11-day orbit. [C] (J)
+- Dawn (about day 1): coldest, foggiest time; low cloud and fog left over from the night slowly lift. [C] (J)
+- Morning (days 1–3): the ground warms and water evaporates; clouds thicken and rise; mostly dry, under a soft overcast. [C] (J)
+- Afternoon (days 3–5): peak heat; tall storm clouds build and bring the main rain, in bursts rather than nonstop. [C] (J)
+- Dusk: storms fade; strong winds blow toward the night side; breaks in the cloud let shafts of light through most often here. [C] (J)
+- Night (days 6–11): steady cooling; clouds settle lower, with drizzle and dew early on and thick fog late; mostly calm. [C] (J)
+- Most of the cycle is dry and overcast, and the heavy rain falls in a few afternoon days. [C] (J)
+- Since Giglos turns slowly, the pattern moves around the moon; every place goes through the same sequence once per orbit. [C] (J)
+- A warm, dense, damp atmosphere is tall, so clouds can stack high; a thin, high layer that almost never clears gives soft, even light. [C] (J)
+- The high cover blocks some sunlight, which calms the afternoon storms and helps with "not constantly raining". [C] (J)
+- Shafts of light come through gaps between cloud layers, mostly around dusk and after storms; fully clear sky would be rare, maybe only in dry regions. [C] (J)
+- Fungal spores could be what clouds form around, the way dust is on Earth, so the fungi would be helping make the sky. [C] (J)
+- Seasons from the planet's year: the moon gets the planet's seasons; if the planet is tilted, summer brings stronger afternoon storms and taller clouds, and winter brings more fog, drizzle and grey days, with fewer breaks. [C] (J)
+- A long planet year means long seasons. [C] (J)
+- With the tilted orbit, eclipses can only happen in two short "eclipse seasons" per planet year, when the tilt lines up with the sun; outside those, none. [C] (J)
+- During an eclipse season the sun can go dark for a couple of hours in the middle of the day, causing a quick temperature drop and gusty winds; probably a big cultural event. [C] (J)
+- A close moon sits in a wide planet shadow, so when an eclipse does happen it's usually total; making total eclipses rare means keeping eclipse seasons short (more tilt) and few. [C] (J)
+- A planet year several Earth years long helps: eclipse seasons then come only every few years. [C] (J)
+
 ## Open questions
 
 - Whether Giglos is the planet, the moon, or the city-state is not pinned down. [OPEN] (source stub list)
@@ -97,6 +124,9 @@ Chat J started on astronomy and climate. Zach's one firm constraint so far is th
 - How long a day and night should Giglians have? [OPEN] (J)
 - Are there eclipse seasons? [OPEN] (J)
 - How tilted is the moon's orbit compared to the planet's path around the sun? [OPEN] (J)
+- Is 5–6 days the length of the daylight, or of the whole cycle? [OPEN] (J)
+- About how long is the planet's year? [OPEN] (J)
+- Is the planet tilted? [OPEN] (J)
 - Should Giglians have a day–night cycle their bodies are built around, or a mild one that stays in the background? [OPEN] (J)
 
 ## See Also
