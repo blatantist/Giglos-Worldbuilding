@@ -48,6 +48,7 @@ Chat codes like `(C)`, `(A, D)`, `(M)` that follow a claim in the source are sou
   A [C] line stays its own line even if a [Z] line says something similar.
 - Prose in Overview sections may only describe [Z] and [C+] claims, and must link to the claim line.
   Anything resting on [Z?], [C], or [OPEN] must say so inline.
+- Close [OPEN] questions once answered, so `Open questions` holds only live ones: move the line, unchanged, to the page's `History` section with a sub-bullet `Resolved YYYY-MM-DD: see [^anchor](#^anchor) (turn)`. Partly answered questions stay open. During session drafting, propose the closure in PROPOSAL.md; it is applied at wrap-up.
 - Only I change a tag. When I say "promote X to [Z]", change the tag, append `(was [C], promoted YYYY-MM-DD)`, log it.
 - A new claim must never cite a [C] line as its basis without that dependency stated in the claim.
 

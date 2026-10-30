@@ -65,3 +65,8 @@
 - Chat K was a second final capture of the same session (turns 0–35 duplicated J). At Zach's request, the old chat J transcript was deleted and chat K's transcript renamed to raw/chats/2026-10-30-chat-J.md; only its header fields (source_code, title, heading) were changed, transcript body untouched
 - Turn refs J0–J35 unchanged; K36/K37 above are now J36/J37
 - Citations (K) → (J) in language/conlang; row K removed from meta/sources; index sources row now A–J
+
+## [2026-10-30] schema | Close resolved open questions (Zach's request)
+- CLAUDE.md: answered [OPEN] lines now move unchanged to the page's History section with a "Resolved" sub-bullet; partly answered ones stay open
+- world/giglos-world: 9 resolved [OPEN] moved to History (5 remain open)
+- language/phonology: 1 resolved [OPEN] (m/n without a nose) moved to History (2 remain open)

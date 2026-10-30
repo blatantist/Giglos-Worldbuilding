@@ -80,6 +80,9 @@ Chat J added a teaser, not an inventory: [G-type sounds are common](#^g-common),
 
 - Phoneme inventory, phonotactics, romanization. [OPEN] (source stub list)
 - Can the pad bulge independently at several points (palatal vs velar contrast), and can it seal against the palate or does it flutter? [OPEN] (E)
+
+## History
+
 - How are m and n "adapted" without a nose: deliberately non-nasal (as Claude suggests), or something else? [OPEN] (J)
   - Resolved 2026-10-30: see [^romanized](#^romanized) and [^canada](#^canada) (J33); m and n are romanized to the closest IPA sounds. No tension with "no nose".
 

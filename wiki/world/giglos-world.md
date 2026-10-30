@@ -236,11 +236,17 @@ Detail deferred to late polish passes ([deferral](#^weather-deferred)).
 - Whether Giglos is the planet, the moon, or the city-state is not pinned down. [OPEN] (source stub list)
 - Moon habitability: not answered. [OPEN] (source stub list)
 - Missing: planet vs moon vs city naming, astronomy, geography, climate, water cycle. [OPEN] (source stub list)
+- Are there eclipse seasons? [OPEN] (J)
+- Should Giglians have a day–night cycle their bodies are built around, or a mild one that stays in the background? [OPEN] (J)
+
+## History
+
+- Sideways moon orbit: the moon's orbit "perpendicular to normal, so the ring is tangent to the planet orbit" ("idk if those are the right words"), so that as the planet orbits, it never eclipses the sun from the moon. [X] (J) (was [Z?], changed 2026-10-30) Reason: Zach later read "tangent" as an orbit around a meridian line and went equatorial (J19), then settled the 30°-tilted planet (J21). Replaced by: the [equatorial orbit](#^equatorial) around a [planet rotated 30 degrees](#^planet-tilt-30). See [rejected-ideas row 30](../meta/rejected-ideas.md).
+- Far orbit: with a far orbit the shadow cone is small and the moon is mostly in sun, and it rotates with the orbit under tidal lock; asked whether that gives enough sides of the moon illumination. [X] (J) (was [Z?], changed 2026-10-30) Reason: superseded by the 11-day cycle and ~11-day moon orbit (J11, J14). Replaced by: the [11 day total cycle](#^eleven-day) and ~11 day moon orbit. See [rejected-ideas row 31](../meta/rejected-ideas.md).
 - Is Giglos tidally locked? If so, the orbit length sets how long day and night are. [OPEN] (J)
   - Resolved 2026-10-30: see [^tidal-lock](#^tidal-lock) (J26).
 - How long a day and night should Giglians have? [OPEN] (J)
   - Resolved 2026-10-30: see [^eleven-day](#^eleven-day) (J11).
-- Are there eclipse seasons? [OPEN] (J)
 - How tilted is the moon's orbit compared to the planet's path around the sun? [OPEN] (J)
   - Resolved 2026-10-30: see [^tilt-30](#^tilt-30) (J14).
 - Is 5–6 days the length of the daylight, or of the whole cycle? [OPEN] (J)
@@ -255,12 +261,6 @@ Detail deferred to late polish passes ([deferral](#^weather-deferred)).
   - Resolved 2026-10-30: see [^ring-layout](#^ring-layout) (J24).
 - Should Giglos orbit around its planet's equator, Saturn–Titan style (so the 30° tilt also gives strong seasons, with eclipses only around the equinoxes)? [OPEN] (J)
   - Resolved 2026-10-30: see [^equatorial](#^equatorial) (J19) and [^planet-tilt-30](#^planet-tilt-30) (J21).
-- Should Giglians have a day–night cycle their bodies are built around, or a mild one that stays in the background? [OPEN] (J)
-
-## History
-
-- Sideways moon orbit: the moon's orbit "perpendicular to normal, so the ring is tangent to the planet orbit" ("idk if those are the right words"), so that as the planet orbits, it never eclipses the sun from the moon. [X] (J) (was [Z?], changed 2026-10-30) Reason: Zach later read "tangent" as an orbit around a meridian line and went equatorial (J19), then settled the 30°-tilted planet (J21). Replaced by: the [equatorial orbit](#^equatorial) around a [planet rotated 30 degrees](#^planet-tilt-30). See [rejected-ideas row 30](../meta/rejected-ideas.md).
-- Far orbit: with a far orbit the shadow cone is small and the moon is mostly in sun, and it rotates with the orbit under tidal lock; asked whether that gives enough sides of the moon illumination. [X] (J) (was [Z?], changed 2026-10-30) Reason: superseded by the 11-day cycle and ~11-day moon orbit (J11, J14). Replaced by: the [11 day total cycle](#^eleven-day) and ~11 day moon orbit. See [rejected-ideas row 31](../meta/rejected-ideas.md).
 
 ## See Also
 

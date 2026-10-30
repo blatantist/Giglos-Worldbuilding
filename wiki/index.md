@@ -16,7 +16,7 @@ The setting beyond Giglian bodies: names, planet, ecology.
 | Article | Summary | Updated |
 |---------|---------|---------|
 | [Ecology and Deep-Time Evolution](world/ecology-and-evolution.md) | Speciation by mergeability, fungal flora, genome as vocabulary. 6 [Z], 1 [C+], 17 [C], 2 [OPEN] | 2026-10-30 |
-| [Giglos as a World](world/giglos-world.md) | Astronomy (tidal lock, 11-day cycle, 30° tilt, ring and moons), exonym, dense damp atmosphere, weather. 27 [Z], 2 [Z?], 9 [C+], 121 [C], 2 [X], 14 [OPEN] (10 resolved) | 2026-10-30 |
+| [Giglos as a World](world/giglos-world.md) | Astronomy (tidal lock, 11-day cycle, 30° tilt, ring and moons), exonym, dense damp atmosphere, weather. 27 [Z], 2 [Z?], 9 [C+], 121 [C], 2 [X], 5 [OPEN], 9 closed | 2026-10-30 |
 | [History and Timeline](world/history-and-timeline.md) | Stub. Eras and founding events. 1 [OPEN] | 2026-10-29 |
 | [Naming and Terminology](world/naming-and-terminology.md) | Placeholder name, glaggle origin, Giglos exonym, fixed terms. 19 [Z], 1 [C+], 1 [C], 1 [X] | 2026-10-30 |
 | [Other Cities and Unincorporated Lands](world/other-cities.md) | Stub. Other founder-seeded cities, unincorporated land. 2 [OPEN] | 2026-10-29 |
@@ -64,7 +64,7 @@ Conlang, phonology and naming.
 |---------|---------|---------|
 | [Giglian Conlang](language/conlang.md) | Stub. Conlang scope and method; influences (glaggle-speak, Dutch). 7 [Z], 1 [Z?], 8 [C], 4 [OPEN] | 2026-10-30 |
 | [Endonym and Place Names](language/endonym-and-place-names.md) | Stub. Species endonym and place names; names as altered exonyms. 1 [Z], 1 [Z?], 2 [C], 2 [OPEN] | 2026-10-30 |
-| [Phonology](language/phonology.md) | Stub. Mouth physiology; G-type sounds, posh center, romanized m/n. 16 [Z], 4 [Z?], 22 [C], 3 [OPEN] (1 resolved) | 2026-10-30 |
+| [Phonology](language/phonology.md) | Stub. Mouth physiology; G-type sounds, posh center, romanized m/n. 16 [Z], 4 [Z?], 22 [C], 2 [OPEN], 1 closed | 2026-10-30 |
 
 ## game
 
