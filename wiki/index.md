@@ -104,5 +104,5 @@ Wiki bookkeeping: sources, tensions, rejected ideas, glossary.
 |---------|---------|---------|
 | [Glossary](meta/glossary.md) | Term definitions for linking. 26 [Z], 1 [C+], 3 [C] | 2026-10-29 |
 | [Rejected Ideas](meta/rejected-ideas.md) | [X] registry, 31 rows. | 2026-10-30 |
-| [Sources](meta/sources.md) | Chat codes A–K and memory notes. | 2026-10-30 |
+| [Sources](meta/sources.md) | Chat codes A–J and memory notes. | 2026-10-30 |
 | [Tensions](meta/tensions.md) | Contradiction registry, T1–T8 unresolved. | 2026-10-29 |

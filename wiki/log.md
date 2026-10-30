@@ -60,3 +60,8 @@
 ## [2026-10-30] lint | 14 issues found, 0 auto-fixed
 - 14 fidelity suspects: 10 pre-existing; 4 new are 2026-10-30 decision/resolution dates (giglos-world, phonology, rejected-ideas, sources), same kind as the 2026-10-29 retag dates
 - 0 evidence errors, 0 unreferenced raw files, 0 broken links
+
+## [2026-10-30] raw | Chat K merged into chat J (Zach's request)
+- Chat K was a second final capture of the same session (turns 0–35 duplicated J). At Zach's request, the old chat J transcript was deleted and chat K's transcript renamed to raw/chats/2026-10-30-chat-J.md; only its header fields (source_code, title, heading) were changed, transcript body untouched
+- Turn refs J0–J35 unchanged; K36/K37 above are now J36/J37
+- Citations (K) → (J) in language/conlang; row K removed from meta/sources; index sources row now A–J

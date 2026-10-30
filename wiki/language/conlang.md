@@ -1,13 +1,13 @@
 # Giglian Conlang
 
-> Sources: Giglos Wiki Source, 2026-10-29; Chat J transcript, 2026-10-30; Chat K transcript, 2026-10-30
-> Raw: [Giglos Wiki Source § Language, phonology, conlang](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Language%2C%20phonology%2C%20conlang); [Giglos Wiki Source § Stub pages](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Stub%20pages%20%28little%20or%20no%20material%20yet%29); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md); [Chat K transcript](../../raw/chats/2026-10-30-chat-K.md)
+> Sources: Giglos Wiki Source, 2026-10-29; Chat J transcript, 2026-10-30
+> Raw: [Giglos Wiki Source § Language, phonology, conlang](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Language%2C%20phonology%2C%20conlang); [Giglos Wiki Source § Stub pages](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Stub%20pages%20%28little%20or%20no%20material%20yet%29); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md)
 > Updated: 2026-10-30
 > Kind: stub
 
 ## Overview
 
-Stub (method only, no phonemes, grammar or lexicon yet). Zach wants [a full conlang derived from anatomy, grown alongside history and narrative](#^goal); it is [a worldbuilding tool, while the game ships in English](#^english). As a teaser of influences (J), the language [shares some resemblance to glaggle-speak](#^glaggle-speak); sound details are on [Phonology](phonology.md). Dutch is a possible influence on the vibe (K), tentative ([Z?]).
+Stub (method only, no phonemes, grammar or lexicon yet). Zach wants [a full conlang derived from anatomy, grown alongside history and narrative](#^goal); it is [a worldbuilding tool, while the game ships in English](#^english). As a teaser of influences (J), the language [shares some resemblance to glaggle-speak](#^glaggle-speak); sound details are on [Phonology](phonology.md). Dutch is a possible influence on the vibe (J), tentative ([Z?]).
 
 ## Canon
 
@@ -27,7 +27,7 @@ Stub (method only, no phonemes, grammar or lexicon yet). Zach wants [a full conl
 
 ## Tentative
 
-- Dutch is a possible influence for the conlang vibe ("silly english" is what Dutch is often called, from thinking about "silly englishmen"). [Z?] (K) ^dutch
+- Dutch is a possible influence for the conlang vibe ("silly english" is what Dutch is often called, from thinking about "silly englishmen"). [Z?] (J) ^dutch
   - Related: the posh-center "very silly posh englishmen" accent on [Phonology ^posh-center](phonology.md#^posh-center).
 
 ## Unconfirmed
