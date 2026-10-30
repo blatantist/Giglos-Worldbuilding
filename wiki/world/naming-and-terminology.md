@@ -2,7 +2,7 @@
 
 > Sources: Giglos Wiki Source, 2026-10-29; Chat J transcript, 2026-10-30
 > Raw: [Giglos Wiki Source § Naming, terminology, setting basics](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Naming%2C%20terminology%2C%20setting%20basics); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat B transcript](../../raw/chats/2026-10-05-chat-B.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md)
-> Updated: 2026-10-29
+> Updated: 2026-10-30
 > Kind: draft
 
 ## Overview
@@ -17,7 +17,8 @@
   - The language also resembles glaggle-speak: see [conlang ^glaggle-speak](../language/conlang.md#^glaggle-speak).
 - The glaggle look (round head, no arms, tall black eyes, big smile) is what a smiley looks like, and Zach uses it as the Giglian base form or head, not as a costume. [Z] (A)
 - Where they live: original notes say Giglians are "from the third moon of giglos". [Z] (A, M3)
-- For now Giglos is used as an exonym for both the system and the 3rd moon itself; the planet and sun are left unnamed until Zach works out the language. See [Giglos as a world](giglos-world.md#^exonym). [Z] (J)
+- Giglos is used as an exonym for both the system and the 3rd moon itself. See [Giglos as a world](giglos-world.md#^exonym). [Z] (J)
+- For now the planet and sun are left unnamed until Zach works out the language. See [Giglos as a world](giglos-world.md#^unnamed). [Z] (J)
 - The name Giglos is also used for the government and the setting as a whole. [Z] (A)
 - Glaggleland echo: the death-spiral or euthanasia rollercoaster joke (Giglians ride lethal rides for fun because they have no bloodflow to be hurt by G-forces) is part of Zach's original notes. [Z] (A, M3)
 

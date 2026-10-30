@@ -1,13 +1,13 @@
 # Rejected Ideas
 
-> Sources: Giglos Wiki Source, 2026-10-29; Chat H "Wiki planning and agent design follow-up", 2026-10-29
-> Raw: [Giglos Wiki Source § Rejected or superseded ideas](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Rejected%20or%20superseded%20ideas); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat G transcript](../../raw/chats/2026-10-27-chat-G.md); [Chat H transcript](../../raw/chats/2026-10-29-chat-H.md)
-> Updated: 2026-10-29
+> Sources: Giglos Wiki Source, 2026-10-29; Chat H "Wiki planning and agent design follow-up", 2026-10-29; Chat J transcript, 2026-10-30
+> Raw: [Giglos Wiki Source § Rejected or superseded ideas](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Rejected%20or%20superseded%20ideas); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat G transcript](../../raw/chats/2026-10-27-chat-G.md); [Chat H transcript](../../raw/chats/2026-10-29-chat-H.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md)
+> Updated: 2026-10-30
 > Kind: draft
 
 ## Overview
 
-Registry of [X] items. Check here before writing any new claim; a match gets flagged to Zach, not added. Rows 1–27 are seeded from the source table; rows 28–29 come from inline [X] lines and Zach's first-ingest decisions.
+Registry of [X] items. Check here before writing any new claim; a match gets flagged to Zach, not added. Rows 1–27 are seeded from the source table; rows 28–29 come from inline [X] lines and Zach's first-ingest decisions; rows 30–31 from Zach's chat J wrap-up answers.
 
 ## Registry
 
@@ -42,6 +42,8 @@ Registry of [X] items. Check here before writing any new claim; a match gets fla
 | 27 | Talk of the Town realization paper as the key reference | Zach found it basic; belief and memory papers suggested instead | (G) | rejected | [prior-art](../project/prior-art.md) |
 | 28 | Jev as the speech-act picker (inline [X] in the source, not in its table) | Choices run on GOAP confidence values | (C, G) | rejected | [dialogue-interpreter](../agents/dialogue-interpreter.md) |
 | 29 | Two numbers per belief, probability and precision (was [C] and [C+]) | Evidence-anchored, not strongly probabilistic belief model | (G, H) | rejected by Zach, 2026-10-29 | [reflection-and-persuasion](../agents/reflection-and-persuasion.md) |
+| 30 | Sideways moon orbit, ring "tangent" to the planet orbit (was [Z?]) | Equatorial orbit around a planet rotated 30 degrees | (J) | rejected by Zach, 2026-10-30 | [giglos-world](../world/giglos-world.md) |
+| 31 | Far orbit with a small shadow cone (was [Z?]) | 11 day total cycle, ~11 day moon orbit | (J) | rejected by Zach, 2026-10-30 | [giglos-world](../world/giglos-world.md) |
 
 ## See Also
 

@@ -2,14 +2,14 @@
 
 > Sources: Giglos Wiki Source, 2026-10-29; Chat J transcript, 2026-10-30
 > Raw: [Giglos Wiki Source § Language, phonology, conlang](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Language%2C%20phonology%2C%20conlang); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md)
-> Updated: 2026-10-29
+> Updated: 2026-10-30
 > Kind: stub
 
 ## Overview
 
 Stub (physiology only, no inventory yet). [Phonology comes from physiology](#^physiology): a [fused tongue that makes the mouth a variable-length tube](#^tube), [no nose](#^no-nose), and [speech that sounds like talking with the tongue held back](#^sound). The beak is tentative [Z?].
 
-Chat J added a teaser, not an inventory: [G-type sounds are common](#^g-common), because Zach [speaks "like a giglian" with the tongue in the back of the throat](#^tongue-back), with [m, n, t, s adapted to the middle/front palate](#^adapted) and [T and S kept back from the palatal ridge](#^ts). The language [resembles glaggle-speak](conlang.md#^glaggle-speak). The posh-sounding center is tentative [Z?]. How m and n work without a nose was raised as [OPEN]; Zach then said [sounds their biology doesn't support are romanized to the closest IPA sounds](#^romanized) for human readers, and [his held-nose tests](#^canada) show a short m and a passing n still work.
+Chat J added a teaser, not an inventory: [G-type sounds are common](#^g-common), because Zach [speaks "like a giglian" with the tongue in the back of the throat](#^tongue-back), with [m, n, t, s adapted to the middle/front palate](#^adapted) and [T and S kept back from the palatal ridge](#^ts). The language [resembles glaggle-speak](conlang.md#^glaggle-speak). The posh-sounding center is tentative [Z?]. How m and n work without a nose was raised as [OPEN] (now resolved); Zach then said [sounds their biology doesn't support are romanized to the closest IPA sounds](#^romanized) for human readers, and [his held-nose tests](#^canada) show a short m and a passing n still work.
 
 ## Canon
 
@@ -81,11 +81,11 @@ Chat J added a teaser, not an inventory: [G-type sounds are common](#^g-common),
 - Phoneme inventory, phonotactics, romanization. [OPEN] (source stub list)
 - Can the pad bulge independently at several points (palatal vs velar contrast), and can it seal against the palate or does it flutter? [OPEN] (E)
 - How are m and n "adapted" without a nose: deliberately non-nasal (as Claude suggests), or something else? [OPEN] (J)
-  - Addressed in J33: see [romanized](#^romanized) [Z] and [held-nose tests](#^canada) [Z]. Left open for Zach to mark resolved.
+  - Resolved 2026-10-30: see [^romanized](#^romanized) and [^canada](#^canada) (J33); m and n are romanized to the closest IPA sounds. No tension with "no nose".
 
 ## See Also
 
-- [Conlang](conlang.md)
+- [Conlang](conlang.md) (Dutch as a possible influence, K)
 - [Endonym and place names](endonym-and-place-names.md)
 - [Organs](../biology/organs.md)
 - [Joy and mood](../society/joy-and-mood.md)

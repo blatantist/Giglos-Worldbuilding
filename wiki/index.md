@@ -15,10 +15,10 @@ The setting beyond Giglian bodies: names, planet, ecology.
 
 | Article | Summary | Updated |
 |---------|---------|---------|
-| [Ecology and Deep-Time Evolution](world/ecology-and-evolution.md) | Speciation by mergeability, fungal flora, genome as vocabulary. 6 [Z], 1 [C+], 17 [C], 2 [OPEN] | 2026-10-29 |
-| [Giglos as a World](world/giglos-world.md) | Stub. Planet vs moon vs city-state; climate. 1 [C], 3 [OPEN] | 2026-10-29 |
+| [Ecology and Deep-Time Evolution](world/ecology-and-evolution.md) | Speciation by mergeability, fungal flora, genome as vocabulary. 6 [Z], 1 [C+], 17 [C], 2 [OPEN] | 2026-10-30 |
+| [Giglos as a World](world/giglos-world.md) | Astronomy (tidal lock, 11-day cycle, 30° tilt, ring and moons), exonym, dense damp atmosphere, weather. 27 [Z], 2 [Z?], 9 [C+], 121 [C], 2 [X], 14 [OPEN] (10 resolved) | 2026-10-30 |
 | [History and Timeline](world/history-and-timeline.md) | Stub. Eras and founding events. 1 [OPEN] | 2026-10-29 |
-| [Naming and Terminology](world/naming-and-terminology.md) | Placeholder name, glaggle origin, fixed terms. 17 [Z], 1 [C+], 1 [C], 1 [X] | 2026-10-29 |
+| [Naming and Terminology](world/naming-and-terminology.md) | Placeholder name, glaggle origin, Giglos exonym, fixed terms. 19 [Z], 1 [C+], 1 [C], 1 [X] | 2026-10-30 |
 | [Other Cities and Unincorporated Lands](world/other-cities.md) | Stub. Other founder-seeded cities, unincorporated land. 2 [OPEN] | 2026-10-29 |
 | [Other Species and Flora](world/other-species-and-flora.md) | Stub. Non-Giglian life, bird-like analog. 2 [OPEN] | 2026-10-29 |
 | [Public Works and Entertainment](world/public-works-and-entertainment.md) | Stub. Public works and spectacle culture. 1 [OPEN] | 2026-10-29 |
@@ -42,7 +42,7 @@ Giglian mind, culture, city, state and resistance.
 
 | Article | Summary | Updated |
 |---------|---------|---------|
-| [Center Entrance Evaluation](society/center-entrance-evaluation.md) | Stub. What the center entrance evaluation tests. 2 [OPEN] | 2026-10-29 |
+| [Center Entrance Evaluation](society/center-entrance-evaluation.md) | Stub. What the center entrance evaluation tests. 2 [OPEN] | 2026-10-30 |
 | [Doctrine Camps](society/doctrine-camps.md) | Stub. Names and number of doctrine camps. 2 [OPEN] | 2026-10-29 |
 | [Re-education and Clean Splitting](society/education-and-clean-splitting.md) | Post-split re-education; elite clean splits. 6 [Z], 13 [C], 2 [OPEN] | 2026-10-29 |
 | [Government and the Founder](society/government-and-founder.md) | The Founder title, skill loss, council. 13 [Z], 1 [Z?], 9 [C], 1 [X], 5 [OPEN] | 2026-10-29 |
@@ -62,9 +62,9 @@ Conlang, phonology and naming.
 
 | Article | Summary | Updated |
 |---------|---------|---------|
-| [Giglian Conlang](language/conlang.md) | Stub. Conlang scope and method. 6 [Z], 8 [C], 4 [OPEN] | 2026-10-29 |
-| [Endonym and Place Names](language/endonym-and-place-names.md) | Stub. Species endonym and place names. 1 [Z], 2 [OPEN] | 2026-10-29 |
-| [Phonology](language/phonology.md) | Stub. Mouth physiology; phonetic predictions. 6 [Z], 1 [Z?], 8 [C], 2 [OPEN] | 2026-10-29 |
+| [Giglian Conlang](language/conlang.md) | Stub. Conlang scope and method; influences (glaggle-speak, Dutch). 7 [Z], 1 [Z?], 8 [C], 4 [OPEN] | 2026-10-30 |
+| [Endonym and Place Names](language/endonym-and-place-names.md) | Stub. Species endonym and place names; names as altered exonyms. 1 [Z], 1 [Z?], 2 [C], 2 [OPEN] | 2026-10-30 |
+| [Phonology](language/phonology.md) | Stub. Mouth physiology; G-type sounds, posh center, romanized m/n. 16 [Z], 4 [Z?], 22 [C], 3 [OPEN] (1 resolved) | 2026-10-30 |
 
 ## game
 
@@ -103,6 +103,6 @@ Wiki bookkeeping: sources, tensions, rejected ideas, glossary.
 | Article | Summary | Updated |
 |---------|---------|---------|
 | [Glossary](meta/glossary.md) | Term definitions for linking. 26 [Z], 1 [C+], 3 [C] | 2026-10-29 |
-| [Rejected Ideas](meta/rejected-ideas.md) | [X] registry, 29 rows. | 2026-10-29 |
-| [Sources](meta/sources.md) | Chat codes A–I and memory notes. | 2026-10-29 |
+| [Rejected Ideas](meta/rejected-ideas.md) | [X] registry, 31 rows. | 2026-10-30 |
+| [Sources](meta/sources.md) | Chat codes A–K and memory notes. | 2026-10-30 |
 | [Tensions](meta/tensions.md) | Contradiction registry, T1–T8 unresolved. | 2026-10-29 |

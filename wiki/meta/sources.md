@@ -1,13 +1,13 @@
 # Sources
 
-> Sources: Giglos Wiki Source, 2026-10-29; Chat H "Wiki planning and agent design follow-up", 2026-10-29
-> Raw: [Giglos Wiki Source § Source chats](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Source%20chats%20%28chronological%29); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat B transcript](../../raw/chats/2026-10-05-chat-B.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat G transcript](../../raw/chats/2026-10-27-chat-G.md); [Chat H transcript](../../raw/chats/2026-10-29-chat-H.md); [Chat I transcript](../../raw/chats/2026-10-07-chat-I.md)
-> Updated: 2026-10-29
+> Sources: Giglos Wiki Source, 2026-10-29; Chat H "Wiki planning and agent design follow-up", 2026-10-29; Chat J transcript, 2026-10-30; Chat K transcript, 2026-10-30
+> Raw: [Giglos Wiki Source § Source chats](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Source%20chats%20%28chronological%29); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat B transcript](../../raw/chats/2026-10-05-chat-B.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat G transcript](../../raw/chats/2026-10-27-chat-G.md); [Chat H transcript](../../raw/chats/2026-10-29-chat-H.md); [Chat I transcript](../../raw/chats/2026-10-07-chat-I.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md); [Chat K transcript](../../raw/chats/2026-10-30-chat-K.md)
+> Updated: 2026-10-30
 > Kind: draft
 
 ## Overview
 
-Chat codes used in claim lines. Codes A–G and M1–M4 come from the source's chat table; H and I were added by Zach at first ingest. M1–M4 are memory notes and are not in raw/.
+Chat codes used in claim lines. Codes A–G and M1–M4 come from the source's chat table; H and I were added by Zach at first ingest; J and K are Claude Code sessions in this folder. M1–M4 are memory notes and are not in raw/.
 
 ## Chats
 
@@ -22,8 +22,10 @@ Chat codes used in claim lines. Codes A–G and M1–M4 come from the source's c
 | G | [GOAP agent system design](https://claude.ai/chat/accdad1c-0120-4a13-a21c-ec12384d4033) | 2026-10-27 | Full agent architecture, staged toy society, Boeda paper, reflection, doctrine rigidity, two-axis reactions, confidence costs, communication as action, prosody vector, recruitment loop, identical agents, status, belief provenance, gist memory, prior art | yes |
 | H | Wiki planning and agent design follow-up (claude.ai chat in the Giglos project; the transcript's own title is "Project wiki source document") | 2026-10-29 | Ryan 2016b assessment, hierarchical memory, hierarchical dialogue planning, evidence-anchored belief model | yes |
 | I | [GOAP FSM with Jev decisions](https://claude.ai/chat/f289b997-5a4f-4e27-88b5-9f5a4ee4e660) (outside the Giglos project) | 2026-10-07 | Jev as GOAP decision-maker; per-step precondition choice | yes |
+| J | [Giglos astronomy, climate and language teaser](../../raw/chats/2026-10-30-chat-J.md) (Claude Code session in this folder) | 2026-10-30 | Tidal lock, 11-day cycle, 30° tilt, ~4-year planet orbit, ring and moons, exonym, weather, glaggle-speak, posh center, romanized m/n | yes |
+| K | [Dutch influence note](../../raw/chats/2026-10-30-chat-K.md) (continuation capture of chat J) | 2026-10-30 | Turns 0–35 duplicate J; adds Zach's answers to wrap-up questions and the Dutch influence note | yes |
 
-Transcripts for A–I are in `raw/chats/` and are the primary sources. The compiled source in `raw/giglos/` is derived from them.
+Transcripts for A–K are in `raw/chats/` and are the primary sources. The compiled source in `raw/giglos/` is derived from them.
 
 ## Memory notes
 

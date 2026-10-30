@@ -2,14 +2,14 @@
 
 > Sources: Giglos Wiki Source, 2026-10-29; Chat J transcript, 2026-10-30
 > Raw: [Giglos Wiki Source § Naming, terminology, setting basics](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Naming%2C%20terminology%2C%20setting%20basics); [Giglos Wiki Source § Stub pages](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Stub%20pages%20%28little%20or%20no%20material%20yet%29); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md)
-> Updated: 2026-10-29
-> Kind: stub
+> Updated: 2026-10-30
+> Kind: draft
 
 ## Overview
 
-Stub. What existed before Chat J: "Third moon of Giglos" ([naming](naming-and-terminology.md)), a very humid atmosphere ([ecology](ecology-and-evolution.md)), and open desert at the city edge ([the city](../society/the-city.md)). The last two are in tension (T6, see [tensions](../meta/tensions.md)).
+What existed before Chat J: "Third moon of Giglos" ([naming](naming-and-terminology.md)), a very humid atmosphere ([ecology](ecology-and-evolution.md)), and open desert at the city edge ([the city](../society/the-city.md)). The last two are in tension (T6, see [tensions](../meta/tensions.md)).
 
-Chat J covered astronomy and climate. Zach's starting constraints: [overly long days and nights would push temperatures to extremes](#^long-nights), [an atmosphere helps trap and propagate heat](#^atmo-heat), and he was already assuming a [dense (more than Earth, less than Venus) and damp atmosphere](#^dense-damp), alongside the existing [very humid atmosphere](ecology-and-evolution.md#^humid). He settled an [11 day total day–night cycle](#^eleven-day), that Giglos is [tidally locked](#^tidal-lock), [no constant rain](#^no-constant-rain), and a [tilted orbit so total eclipses are rare](#^tilted-orbit): a [~30 degree tilt](#^tilt-30), with the moon orbiting the equator of a [planet rotated 30 degrees](#^planet-tilt-30), a [~4 year planet orbit](#^year-4) and a [brighter sun](#^brighter-sun). The layout is [a ring, then two smaller moons, then Giglos third](#^ring-layout). Naming: the [planet and sun stay unnamed for now](#^unnamed), and [Giglos is an exonym for the system and the third moon](#^exonym). He agreed to a [planet year of a few Earth years](#^planet-year) ([C+]) and likes Claude's time-of-day weather ideas for now ([C+], at his request), with [detail deferred to the late polish passes](#^weather-deferred). The [spore-rhythm idea](#^spore-rhythm) is noted as a possible background idea only, explicitly not canon yet ([C+]). His sideways moon orbit, far orbit and high cloud cover are tentative ([Z?]). Everything on eclipses, orbit distance and how a long night stays mild is Claude's unconfirmed physics ([C]). Several earlier [OPEN]s are answered in Chat J but kept until wrap-up.
+Chat J covered astronomy and climate. Zach's starting constraints: [overly long days and nights would push temperatures to extremes](#^long-nights), [an atmosphere helps trap and propagate heat](#^atmo-heat), and he was already assuming a [dense (more than Earth, less than Venus) and damp atmosphere](#^dense-damp), alongside the existing [very humid atmosphere](ecology-and-evolution.md#^humid). He settled an [11 day total day–night cycle](#^eleven-day), that Giglos is [tidally locked](#^tidal-lock), [no constant rain](#^no-constant-rain), and a [tilted orbit so total eclipses are rare](#^tilted-orbit): a [~30 degree tilt](#^tilt-30), with the moon orbiting the equator of a [planet rotated 30 degrees](#^planet-tilt-30), a [~4 year planet orbit](#^year-4) and a [brighter sun](#^brighter-sun). The layout is [a ring, then two smaller moons, then Giglos third](#^ring-layout). Naming: the [planet and sun stay unnamed for now](#^unnamed), and [Giglos is an exonym for the system and the third moon](#^exonym). He agreed to a [planet year of a few Earth years](#^planet-year) ([C+]) and likes Claude's time-of-day weather ideas for now ([C+], at his request), with [detail deferred to the late polish passes](#^weather-deferred). The [spore-rhythm idea](#^spore-rhythm) is noted as a possible background idea only, explicitly not canon yet ([C+]). He wants [high clouds, so there's rarely clear sky](#^high-clouds). His earlier sideways moon orbit and far orbit are superseded ([X], see History). Everything on eclipses, orbit distance and how a long night stays mild is Claude's unconfirmed physics ([C]). Several earlier [OPEN]s are answered in Chat J and marked resolved; the lines stay.
 
 ## Canon
 
@@ -24,7 +24,12 @@ Chat J covered astronomy and climate. Zach's starting constraints: [overly long 
 - Zach wants a tilted orbit so total eclipses are rare. [Z] (J) ^tilted-orbit
 - An 11 day total day–night cycle ("correct, 11 day total cycle", confirming Claude's reading of "~5-6 day day and night" as about 5–6 days of light then 5–6 of dark). [Z] (J) ^eleven-day
 - The atmosphere is already damp, warm, and dense, so clouds are bound to form. [Z] (J)
+- Lots of clouds that stretch high up so there's rarely clear sky, just soft light and occasional shafts of light ("idk i like there being lots of clouds but i want them to stretch high up"). [Z] (J) (was [Z?], changed 2026-10-30) ^high-clouds
 - Planet year of a few Earth years ("yea a few earth years sounds about right", agreeing with Claude's "several Earth years"). [C+] (J) ^planet-year
+
+> **Status: Outdated** (2026-10-30)
+> Firmed up later in Chat J: Zach set a ["~4 year planet orbit"](#^year-4) [Z] (J).
+
 - Moon orbit tilt of ~30 degrees ("so i agree, ~30 degree tilt"). [Z] (J) ^tilt-30
 - Planet orbit of ~4 years ("~4 year planet orbit"). [Z] (J) ^year-4
 - Moon orbit of ~11 days ("~11 day moon orbit"). [Z] (J)
@@ -59,8 +64,6 @@ Detail deferred to late polish passes ([deferral](#^weather-deferred)).
 
 ## Tentative
 
-- Sideways moon orbit: the moon's orbit "perpendicular to normal, so the ring is tangent to the planet orbit" ("idk if those are the right words"), so that as the planet orbits, it never eclipses the sun from the moon. [Z?] (J)
-- Lots of clouds that stretch high up so there's rarely clear sky, just soft light and occasional shafts of light ("idk i like there being lots of clouds but i want them to stretch high up"). [Z?] (J)
 - Day and night of "~5-6 day" (asked in passing; whether that is each half or the whole cycle was not stated in J9). [Z?] (J)
 
 > **Status: Outdated** (2026-10-29)
@@ -70,8 +73,6 @@ Detail deferred to late polish passes ([deferral](#^weather-deferred)).
 
 > **Status: Outdated** (2026-10-29)
 > Firmed up later in Chat J: Zach chose ["a ring with the two smaller moons beyond, then the 3rd, giglos, farther out"](#^ring-layout) [Z] (J), i.e. the true-ring option rather than a belt containing the two bodies.
-
-- Far orbit: with a far orbit the shadow cone is small and the moon is mostly in sun, and it rotates with the orbit under tidal lock; asked whether that gives enough sides of the moon illumination. [Z?] (J)
 
 ## Unconfirmed
 
@@ -236,16 +237,30 @@ Detail deferred to late polish passes ([deferral](#^weather-deferred)).
 - Moon habitability: not answered. [OPEN] (source stub list)
 - Missing: planet vs moon vs city naming, astronomy, geography, climate, water cycle. [OPEN] (source stub list)
 - Is Giglos tidally locked? If so, the orbit length sets how long day and night are. [OPEN] (J)
+  - Resolved 2026-10-30: see [^tidal-lock](#^tidal-lock) (J26).
 - How long a day and night should Giglians have? [OPEN] (J)
+  - Resolved 2026-10-30: see [^eleven-day](#^eleven-day) (J11).
 - Are there eclipse seasons? [OPEN] (J)
 - How tilted is the moon's orbit compared to the planet's path around the sun? [OPEN] (J)
+  - Resolved 2026-10-30: see [^tilt-30](#^tilt-30) (J14).
 - Is 5–6 days the length of the daylight, or of the whole cycle? [OPEN] (J)
+  - Resolved 2026-10-30: see [^eleven-day](#^eleven-day) (J11).
 - About how long is the planet's year? [OPEN] (J)
+  - Resolved 2026-10-30: see [^year-4](#^year-4) (J14).
 - Is the planet tilted? [OPEN] (J)
+  - Resolved 2026-10-30: see [^planet-tilt-30](#^planet-tilt-30) (J21).
 - Which body carries the name Giglos, the planet or the moon? ("third moon of Giglos" makes Giglos the planet's name; Zach also called the moon Giglos.) [OPEN] (J)
+  - Resolved 2026-10-30: see [^exonym](#^exonym) and [^unnamed](#^unnamed) (J24).
 - Which belt version: a true ring close to the planet, a haze shed by a volcanic moon, or small companion moons sharing an orbit? [OPEN] (J)
+  - Resolved 2026-10-30: see [^ring-layout](#^ring-layout) (J24).
 - Should Giglos orbit around its planet's equator, Saturn–Titan style (so the 30° tilt also gives strong seasons, with eclipses only around the equinoxes)? [OPEN] (J)
+  - Resolved 2026-10-30: see [^equatorial](#^equatorial) (J19) and [^planet-tilt-30](#^planet-tilt-30) (J21).
 - Should Giglians have a day–night cycle their bodies are built around, or a mild one that stays in the background? [OPEN] (J)
+
+## History
+
+- Sideways moon orbit: the moon's orbit "perpendicular to normal, so the ring is tangent to the planet orbit" ("idk if those are the right words"), so that as the planet orbits, it never eclipses the sun from the moon. [X] (J) (was [Z?], changed 2026-10-30) Reason: Zach later read "tangent" as an orbit around a meridian line and went equatorial (J19), then settled the 30°-tilted planet (J21). Replaced by: the [equatorial orbit](#^equatorial) around a [planet rotated 30 degrees](#^planet-tilt-30). See [rejected-ideas row 30](../meta/rejected-ideas.md).
+- Far orbit: with a far orbit the shadow cone is small and the moon is mostly in sun, and it rotates with the orbit under tidal lock; asked whether that gives enough sides of the moon illumination. [X] (J) (was [Z?], changed 2026-10-30) Reason: superseded by the 11-day cycle and ~11-day moon orbit (J11, J14). Replaced by: the [11 day total cycle](#^eleven-day) and ~11 day moon orbit. See [rejected-ideas row 31](../meta/rejected-ideas.md).
 
 ## See Also
 

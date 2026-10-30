@@ -2,7 +2,7 @@
 
 > Sources: Giglos Wiki Source, 2026-10-29
 > Raw: [Giglos Wiki Source § Ecology and deep-time evolution](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Ecology%20and%20deep-time%20evolution); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md)
-> Updated: 2026-10-29
+> Updated: 2026-10-30
 > Kind: draft
 
 ## Overview
@@ -52,7 +52,7 @@ The aim is a feasible account of [speciation among asexual Giglian-like organism
 ## See Also
 
 - [Other species and flora](other-species-and-flora.md)
-- [Giglos as a world](giglos-world.md)
+- [Giglos as a world](giglos-world.md) (damp atmosphere suits the fungal flora, J9)
 - [Fusion](../biology/fusion.md)
 - [Body and growth](../biology/body-and-growth.md)
 - [Technology level](technology-level.md)
