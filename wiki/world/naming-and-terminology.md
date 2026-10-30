@@ -1,7 +1,7 @@
 # Naming and Terminology
 
-> Sources: Giglos Wiki Source, 2026-10-29; Chat J (Claude Code session, live), 2026-10-29
-> Raw: [Giglos Wiki Source § Naming, terminology, setting basics](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Naming%2C%20terminology%2C%20setting%20basics); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat B transcript](../../raw/chats/2026-10-05-chat-B.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat J live transcript](../../raw/_live/407fb4bc-8d57-4e50-b91c-c49b1472c83d.md)
+> Sources: Giglos Wiki Source, 2026-10-29; Chat J transcript, 2026-10-30
+> Raw: [Giglos Wiki Source § Naming, terminology, setting basics](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Naming%2C%20terminology%2C%20setting%20basics); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat B transcript](../../raw/chats/2026-10-05-chat-B.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md)
 > Updated: 2026-10-29
 > Kind: draft
 

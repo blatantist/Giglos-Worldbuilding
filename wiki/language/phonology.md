@@ -1,7 +1,7 @@
 # Phonology
 
-> Sources: Giglos Wiki Source, 2026-10-29; Chat J (Claude Code session, live), 2026-10-29
-> Raw: [Giglos Wiki Source § Language, phonology, conlang](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Language%2C%20phonology%2C%20conlang); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat J live transcript](../../raw/_live/407fb4bc-8d57-4e50-b91c-c49b1472c83d.md)
+> Sources: Giglos Wiki Source, 2026-10-29; Chat J transcript, 2026-10-30
+> Raw: [Giglos Wiki Source § Language, phonology, conlang](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Language%2C%20phonology%2C%20conlang); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md)
 > Updated: 2026-10-29
 > Kind: stub
 
@@ -9,7 +9,7 @@
 
 Stub (physiology only, no inventory yet). [Phonology comes from physiology](#^physiology): a [fused tongue that makes the mouth a variable-length tube](#^tube), [no nose](#^no-nose), and [speech that sounds like talking with the tongue held back](#^sound). The beak is tentative [Z?].
 
-Chat J added a teaser, not an inventory: [G-type sounds are common](#^g-common), because Zach [speaks "like a giglian" with the tongue in the back of the throat](#^tongue-back), with [m, n, t, s adapted to the middle/front palate](#^adapted) and [T and S kept back from the palatal ridge](#^ts). The language [resembles glaggle-speak](conlang.md#^glaggle-speak). The posh-sounding center is tentative [Z?]; how m and n work without a nose is [OPEN].
+Chat J added a teaser, not an inventory: [G-type sounds are common](#^g-common), because Zach [speaks "like a giglian" with the tongue in the back of the throat](#^tongue-back), with [m, n, t, s adapted to the middle/front palate](#^adapted) and [T and S kept back from the palatal ridge](#^ts). The language [resembles glaggle-speak](conlang.md#^glaggle-speak). The posh-sounding center is tentative [Z?]. How m and n work without a nose was raised as [OPEN]; Zach then said [sounds their biology doesn't support are romanized to the closest IPA sounds](#^romanized) for human readers, and [his held-nose tests](#^canada) show a short m and a passing n still work.
 
 ## Canon
 
@@ -28,11 +28,20 @@ Chat J added a teaser, not an inventory: [G-type sounds are common](#^g-common),
   - Compare [no nose](#^no-nose) [Z] (E); see the m/n line under Unconfirmed and the m/n open question.
 - Zach has been making T and S sounds at the palatal ridge, although he tries to keep the tongue farther back than that to simulate a more tubular mouth without teeth/gums to create such a ridge. [Z] (J) ^ts
 
+### Nasals and romanization (J33)
+
+- Nasals and similar sounds that aren't supported by their biology would be adapted, in the sense that they'd be romanized to the closest-sounding IPA sounds for the sake of being readable by a human. [Z] (J) ^romanized
+- For m and n, Zach can still make those sounds while holding his nose and making sure not to inflate his held nose; he can say something like "canada". [Z] (J) ^canada
+- He can't hold the n sound, but he can make the passing consonant. [Z] (J)
+- A short hold for an M sound works if it inflates the cheeks. [Z] (J)
+- A held N doesn't work, because that blocks off the mouth and only reverberates the nose. [Z] (J)
+
 ## Tentative
 
 - No teeth. Probably a cartilaginous beak as part of the lips: mouth corners more flexible, center and behind stiffer so they can bite. Whether they need a hard surface depends on how they eat, still undecided. [Z?] (E)
 - Giglians nearer to the center sound like very silly posh Englishmen. [Z?] (J) ^posh-center
 - The weather actually kinda fits that (the posh-English sound of the center); see [Giglos as a world](../world/giglos-world.md). [Z?] (J)
+- Presumably they'd not only lose some sounds but also gain some new ones, from being more like a pink trombone than the actual human vocal tract. [Z?] (J) ^gain-sounds
 
 ## Unconfirmed
 
@@ -57,11 +66,22 @@ Chat J added a teaser, not an inventory: [G-type sounds are common](#^g-common),
 - The grey, damp, overcast weather adds to the British feel. [C] (J)
 - An accent that changes from the city center outward could tie into the [center/entrance evaluation](../society/center-entrance-evaluation.md). [C] (J)
 
+### From J34 (Claude, on Zach's m/n tests)
+
+- A held "m" with puffed cheeks is a voiced "b" sound stretched out: the voice keeps going while the cheeks inflate to give the air somewhere to go, and stops when they're full. [C] (J)
+- A Giglian could do this better, because their whole mouth-tube can change length and widen. [C] (J)
+- So Giglian "m" is probably a long, soft, cheek-puffed "b" sound, written as "m". [C] (J)
+- The short "n" in "canada": with the nose pinched, the nasal cavity is still there behind the fingers, so a little air and sound can go into it for a moment; that is the brief "n", and why it can't be held. [C] (J)
+- Giglians have no nasal cavity at all (resting on [no nose](#^no-nose) [Z] (E)), so their "n" would be closer to a soft "d" or a "d" further back: the "talking with a cold" sound, "Cadada". [C] (J)
+- Sounds gained (fitting the Pink Trombone comparison): long, cheek-puffed stops like Zach's "m" could be their own type of sound. [C] (J)
+  - J34 also lists sliding tube length (the whole voice gliding deeper or higher mid-word), giggle pulses as syllable cores, and beak taps as clicks ("if the beak becomes canon"); these restate the (E) [C] lines above and are not duplicated.
+
 ## Open questions
 
 - Phoneme inventory, phonotactics, romanization. [OPEN] (source stub list)
 - Can the pad bulge independently at several points (palatal vs velar contrast), and can it seal against the palate or does it flutter? [OPEN] (E)
 - How are m and n "adapted" without a nose: deliberately non-nasal (as Claude suggests), or something else? [OPEN] (J)
+  - Addressed in J33: see [romanized](#^romanized) [Z] and [held-nose tests](#^canada) [Z]. Left open for Zach to mark resolved.
 
 ## See Also
 
