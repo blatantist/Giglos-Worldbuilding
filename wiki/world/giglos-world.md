@@ -9,7 +9,7 @@
 
 Stub. What exists elsewhere: "Third moon of Giglos" ([naming](naming-and-terminology.md)), a very humid atmosphere ([ecology](ecology-and-evolution.md)), and open desert at the city edge ([the city](../society/the-city.md)). The last two are in tension (T6, see [tensions](../meta/tensions.md)).
 
-Chat J started on astronomy and climate. Zach's one firm constraint so far is that [overly long days and nights would push temperatures to extremes](#^long-nights), and that [an atmosphere helps trap and propagate heat](#^atmo-heat). His sideways moon orbit and far orbit are tentative ([Z?]). Everything on eclipses, tidal lock, orbit distance and how a long night stays mild is Claude's unconfirmed physics ([C]), and day length, tidal lock and eclipse seasons remain [OPEN].
+Chat J started on astronomy and climate. Zach's one firm constraint so far is that [overly long days and nights would push temperatures to extremes](#^long-nights), that [an atmosphere helps trap and propagate heat](#^atmo-heat), and he was already assuming a [dense (more than Earth, less than Venus) and damp atmosphere](#^dense-damp), alongside the existing [very humid atmosphere](ecology-and-evolution.md#^humid). His sideways moon orbit and far orbit are tentative ([Z?]). Everything on eclipses, tidal lock, orbit distance and how a long night stays mild is Claude's unconfirmed physics ([C]), and day length, tidal lock and eclipse seasons remain [OPEN].
 
 ## Canon
 
@@ -17,6 +17,8 @@ Chat J started on astronomy and climate. Zach's one firm constraint so far is th
 - The issue with night and day being too long is the environment and temperature on the planet. [Z] (J) ^long-nights
 - An atmosphere helps trap and propagate heat. [Z] (J) ^atmo-heat
 - Multiple week or month long nights mean temperatures dropping, and the inverse in the day, to extremes. [Z] (J)
+- Zach was already assuming a dense (not as dense as Venus, but more than Earth) and damp atmosphere. [Z] (J) ^dense-damp
+  - Related, kept separate: the very humid atmosphere line in [ecology](ecology-and-evolution.md#^humid).
 
 ## Tentative
 
@@ -70,6 +72,21 @@ Chat J started on astronomy and climate. Zach's one firm constraint so far is th
 - A multi-day night could shape life: plants and animals that go dormant at night, or creatures that migrate to follow the edge between day and night. [C] (J)
 - A daily cycle of storms as the dark side cools. [C] (J)
 - Different climates on the planet-facing side and the far side. [C] (J)
+
+### Dense, damp atmosphere (Chat J)
+
+- A dense, damp atmosphere fixes most of the problem; a night of a few days to about a week should stay mild. [C] (J)
+- Water vapor is a strong greenhouse gas, so humid nights cool much less than dry ones; that's why deserts get cold at night and the tropics don't. [C] (J)
+- Condensing water gives off heat: as the night cools, vapor turns into fog, dew and drizzle, and each step releases heat, acting like a brake (the colder it gets, the more heat comes out). [C] (J)
+- Clouds act as a blanket over the night side. [C] (J)
+- Day: water evaporates, clouds build, and big storms come in the afternoon or late in the day. [C] (J)
+- Night: steady fog, dew and drizzle, and the air cools slowly. [C] (J)
+- Dawn and dusk: strong winds as warm air flows from the day side to the night side. [C] (J)
+- With a dense, damp atmosphere, a night of 1 to 7 days is mild, with a swing of maybe 10–20 °C (Claude: "These numbers are estimates."). [C] (J)
+- With a dense, damp atmosphere, a night of 1 to 2 weeks is workable, but needs oceans or heat from the planet's pull. [C] (J)
+- With a dense, damp atmosphere, a night of a month or more is hard: the night side gets cold or icy, and life adapts by going dormant or migrating. [C] (J)
+- Holding a thick, warm, wet atmosphere needs a fairly large moon, or a magnetic field to shield it; Titan manages with low gravity only because it's very cold; a warm Giglos would need to be bigger, perhaps closer to Mars or Earth size. [C] (J)
+- A close-ish orbit with a day–night cycle of a few days each fits what Zach already has. [C] (J)
 
 ## Open questions
 
