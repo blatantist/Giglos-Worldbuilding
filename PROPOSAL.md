@@ -1,10 +1,10 @@
 # PROPOSAL: session J (2026-10-29), astronomy and climate
 
-Draft against the live transcript (`raw/_live/59691e83-65d5-48e6-8f70-1d13f5e27cf8.md`, turns J0–J12 as of this draft). Turn refs use the transcript's turn numbers: J0, J2, J4, J6, J9, J11 Human; J1, J3, J5, J7, J10, J12 Assistant. J8 is a background task notification inside a Human turn, not Zach's words; nothing tagged from it.
+Draft against the live transcript (`raw/_live/59691e83-65d5-48e6-8f70-1d13f5e27cf8.md`, turns J0–J15 as of this draft). Turn refs use the transcript's turn numbers: J0, J2, J4, J6, J9, J11, J14 Human; J1, J3, J5, J7, J10, J12, J15 Assistant. J8 and J13 are background task notifications inside Human turns, not Zach's words; nothing tagged from them. J8 is a background task notification inside a Human turn, not Zach's words; nothing tagged from it.
 
 ## Changed pages
 
-- `wiki/world/giglos-world.md`: Raw/Sources add Chat J live transcript; Overview extended; new Canon (10 [Z], 8 [C+]), Tentative (4 [Z?]), Unconfirmed (76 [C] under six subheads), Open questions (+8 [OPEN]); two `Status: Outdated` blocks added (J10 long-year line, J9 ~5-6 day line); See Also adds other-species-and-flora and tensions. Kind kept `stub`.
+- `wiki/world/giglos-world.md`: Raw/Sources add Chat J live transcript; Overview extended; new Canon (15 [Z], 9 [C+]), Tentative (4 [Z?]), Unconfirmed (85 [C] under seven subheads), Open questions (+8 [OPEN]); two `Status: Outdated` blocks added (J10 long-year line, J9 ~5-6 day line); See Also adds other-species-and-flora and tensions. Kind kept `stub`.
 
 ## Doubtful items
 
@@ -34,4 +34,11 @@ Draft against the live transcript (`raw/_live/59691e83-65d5-48e6-8f70-1d13f5e27c
 24. **"The atmosphere is already damp, warm, and dense, so clouds are bound to form" (J11) → [Z].** Adds "warm" to the J6 dense/damp line. He hedges only about cloud physics ("i admit i don't know the process"), not the atmosphere. Proposed [Z].
 25. **Orbit tilt (~30°).** J12 asks "How tilted do you want the moon's orbit? About 30°..." Existing [OPEN] "How tilted is the moon's orbit…" (J) covers it; not duplicated. The 30° numbers are [C] lines (labelled rough, Jupiter-mass assumption).
 26. **Planet tilt** [OPEN] (J10) still unanswered.
-27. **Unanswered questions [OPEN] (J1, J3, J5, J10):** tidal lock, day/night length, eclipse seasons, orbit tilt, body-clock cycle. Revise if Zach answers later in the session.
+27. **Spore-release rhythm (J12 [C] → [C+], J14).** Zach: "note down the fungal spore release rhythm partially influencing weather as a possible idea, but i'm not calling that final/canon yet ... just a cool background fact for the lore bible". He builds on Claude's J12 idea (adds "partially") but explicitly withholds canon. Drafted as [C+] in Canon with his "not final/canon yet" wording in the line; moved the J12 [C] line rather than duplicating. Alternative: keep [C] in Unconfirmed. Never [Z]. Note the awkwardness: a line Zach calls not-canon sits under the Canon heading because the format files [C+] there.
+28. **"so i agree, ~30 degree tilt, ~4 year planet orbit, ~11 day moon orbit, brighter sun to compensate" (J14) → [Z] ×4.** "i agree" alone would be [C+], but he restates each value as his setup, which reads as clear adoption. Alternative: [C+] for tilt, 4-year orbit and brighter sun (Claude's proposals in J10/J12); the 11-day orbit is his own and already [Z] (J11). Duplicate-ish: "~11 day moon orbit" [Z] (J14) and "11 day total cycle" [Z] (J11) are separate lines (different wording/turns); merge only if Zach wants.
+29. **Planet year [C+] (J11, "a few earth years") vs [Z] (J14, "~4 year planet orbit").** Not contradictory; J14 sharpens J11. Kept both; consider marking J11 line Outdated at wrap-up.
+30. **[OPEN]s now answerable:** "How tilted is the moon's orbit…" (→ ~30°, J14), "About how long is the planet's year?" (→ ~4 years, J14). Kept; resolve at wrap-up along with item 14's two day-length [OPEN]s. Still open: planet axial tilt, eclipse seasons yes/no (implied yes by tilted-orbit physics, never stated by Zach), body-clock question, tidal lock (never stated; the "11 day moon orbit" = "11 day total cycle" match implies lock but Zach hasn't said so).
+31. **"larger orbit makes the large planet at the center make more sense" (J14) → [Z].** Implies the planet is large (Claude's eclipse numbers assumed Jupiter mass, [C]). Zach's "idk if large planet/moon systems close to the sun are common" is a question answered in J15; not [OPEN].
+32. **J15 star figures** are all [C], labelled "rough figures" per the transcript ("Rough figures" heading; "about").
+33. **Pending (not in file yet):** coordinator reports Zach's next turn says the weather ideas are good for now, "still mark it your idea but C+", detail deferred to later polish passes. When it appears: keep the time-of-day table at [C+] and record the deferral (likely as an [OPEN] or a note on the subsection). Not drafted.
+34. **Unanswered questions [OPEN] (J1, J3, J5, J10):** tidal lock, day/night length, eclipse seasons, orbit tilt, body-clock cycle. Revise if Zach answers later in the session.

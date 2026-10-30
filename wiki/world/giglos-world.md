@@ -9,7 +9,7 @@
 
 Stub. What exists elsewhere: "Third moon of Giglos" ([naming](naming-and-terminology.md)), a very humid atmosphere ([ecology](ecology-and-evolution.md)), and open desert at the city edge ([the city](../society/the-city.md)). The last two are in tension (T6, see [tensions](../meta/tensions.md)).
 
-Chat J started on astronomy and climate. Zach's one firm constraint so far is that [overly long days and nights would push temperatures to extremes](#^long-nights), that [an atmosphere helps trap and propagate heat](#^atmo-heat), and he was already assuming a [dense (more than Earth, less than Venus) and damp atmosphere](#^dense-damp), alongside the existing [very humid atmosphere](ecology-and-evolution.md#^humid). He settled an [11 day total day–night cycle](#^eleven-day), wants [no constant rain](#^no-constant-rain) and a [tilted orbit so total eclipses are rare](#^tilted-orbit). He agreed to a [planet year of a few Earth years](#^planet-year) ([C+], awaiting confirmation) and liked most of Claude's time-of-day weather ([C+]). His sideways moon orbit, far orbit and high cloud cover are tentative ([Z?]). Everything on eclipses, tidal lock, orbit distance and how a long night stays mild is Claude's unconfirmed physics ([C]), and day length, tidal lock and eclipse seasons remain [OPEN].
+Chat J started on astronomy and climate. Zach's one firm constraint so far is that [overly long days and nights would push temperatures to extremes](#^long-nights), that [an atmosphere helps trap and propagate heat](#^atmo-heat), and he was already assuming a [dense (more than Earth, less than Venus) and damp atmosphere](#^dense-damp), alongside the existing [very humid atmosphere](ecology-and-evolution.md#^humid). He settled an [11 day total day–night cycle](#^eleven-day), wants [no constant rain](#^no-constant-rain) and a [tilted orbit so total eclipses are rare](#^tilted-orbit). He agreed to a [planet year of a few Earth years](#^planet-year) ([C+], awaiting confirmation), then set a [~30 degree tilt](#^tilt-30), a [~4 year planet orbit](#^year-4) and a [brighter sun](#^brighter-sun). The [spore-rhythm idea](#^spore-rhythm) is noted as a possible background idea only, explicitly not canon yet ([C+]) and liked most of Claude's time-of-day weather ([C+]). His sideways moon orbit, far orbit and high cloud cover are tentative ([Z?]). Everything on eclipses, tidal lock, orbit distance and how a long night stays mild is Claude's unconfirmed physics ([C]), and day length, tidal lock and eclipse seasons remain [OPEN].
 
 ## Canon
 
@@ -25,6 +25,12 @@ Chat J started on astronomy and climate. Zach's one firm constraint so far is th
 - An 11 day total day–night cycle ("correct, 11 day total cycle", confirming Claude's reading of "~5-6 day day and night" as about 5–6 days of light then 5–6 of dark). [Z] (J) ^eleven-day
 - The atmosphere is already damp, warm, and dense, so clouds are bound to form. [Z] (J)
 - Planet year of a few Earth years ("yea a few earth years sounds about right", agreeing with Claude's "several Earth years"). [C+] (J) ^planet-year
+- Moon orbit tilt of ~30 degrees ("so i agree, ~30 degree tilt"). [Z] (J) ^tilt-30
+- Planet orbit of ~4 years ("~4 year planet orbit"). [Z] (J) ^year-4
+- Moon orbit of ~11 days ("~11 day moon orbit"). [Z] (J)
+- A brighter sun to compensate (for the farther planet). [Z] (J) ^brighter-sun
+- A larger orbit makes the large planet at the center make more sense anyways. [Z] (J)
+- Fungal spore release rhythm partially influencing weather: Claude's idea, which Zach asked to note down "as a possible idea, but i'm not calling that final/canon yet"; not really necessary to the game, "just a cool background fact for the lore bible". [C+] (J) ^spore-rhythm
 
 ### Time-of-day weather (Claude's J10 table; Zach: "i like most of your ideas following that, with the weather at times of day")
 
@@ -139,7 +145,6 @@ Chat J started on astronomy and climate. Zach's one firm constraint so far is th
 - Some biological particles, including certain bacteria and fungal spores, are very good at starting ice crystals, often how rain begins, so they can trigger rain. [C] (J)
 - Over the Amazon, fungal spores and other biological particles make up a large share of the airborne particles, and the forest partly seeds its own clouds and rain. [C] (J)
 - A sky full of spores would mean many small droplets, giving persistent, bright, high cloud cover that rains less than expected. [C] (J)
-- The fungi could set the rhythm: spore release at a certain time of day could help trigger the afternoon rains (optional, not required by the physics). [C] (J)
 - The moon's tilted orbit stays pointed the same way in space; twice per planet year its edge lines up with the sun, and during that window (the eclipse season) the moon passes through the planet's shadow on each orbit, every 11 days. [C] (J)
 - The share of time spent in eclipse seasons depends on the tilt and the moon's distance, not on the length of the year; a longer year makes each season longer and the gaps between seasons longer. [C] (J)
 - Rough numbers, assuming a Jupiter-mass planet: with an 11-day orbit, the moon would be about 1.4 million km out. [C] (J)
@@ -147,6 +152,19 @@ Chat J started on astronomy and climate. Zach's one firm constraint so far is th
 - Rough numbers: orbit tilt 30° gives about 2 eclipses per Earth year (average). [C] (J)
 - With a planet year of about 4 Earth years and a 30° tilt: about two eclipse seasons per planet year, each with a handful of eclipses about 11 days apart, then nearly two years with none; that reads as rare (some years have eclipses, most don't); a bigger tilt makes them rarer still. [C] (J)
 - A year of a few Earth years means the planet is farther from its sun; to keep Giglos warm, the sun would need to be a bit brighter than ours, or the thick greenhouse atmosphere and the planet's tidal squeezing make up the difference. [C] (J)
+
+### Star and planet placement (Chat J)
+
+- Giant planets mostly form far from their star, beyond the distance where ice can survive, typically a few times Earth's distance from the sun, with years-long orbits; Jupiter takes 12 years, Saturn 29. [C] (J)
+- Giants close to their star ("hot Jupiters") exist but are uncommon, roughly 1% of sun-like stars, and probably can't hold large moons: the star's pull close in pulls moons away or spirals them into the planet. [C] (J)
+- Large moons form from the disk of ice and gas around a young giant planet, which happens farther out. [C] (J)
+- Giant planets orbiting where liquid water is possible have been found, dozens of them; no moon outside our solar system has been confirmed yet, only disputed candidates, so Giglos is plausible but unproven. [C] (J)
+- Rough figures: the star is somewhat bigger and hotter than ours, about 1.3× the Sun's mass and 2.5× as bright. [C] (J)
+- Rough figures: the planet is about 2.7 times Earth's distance from the sun, with a year of about 4 Earth years. [C] (J)
+- Rough figures: sunlight reaching Giglos is about a third of what Earth gets. [C] (J)
+- A dense, damp, greenhouse atmosphere plus tidal heating is what lets a world stay warm near the cold edge of where liquid water is possible; the atmosphere choice and orbit choice support each other. [C] (J)
+- The star's light is whiter and slightly bluer than ours, with more ultraviolet; the thick cloud cover would screen much of that, which helps fungi and surface life. [C] (J)
+- A brighter star burns out faster: this one would last about 4–5 billion years, roughly enough for complex life by Earth's timeline; a much brighter star would start running out of time. [C] (J)
 
 ## Open questions
 
