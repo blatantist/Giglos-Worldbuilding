@@ -9,7 +9,7 @@
 
 Stub. What exists elsewhere: "Third moon of Giglos" ([naming](naming-and-terminology.md)), a very humid atmosphere ([ecology](ecology-and-evolution.md)), and open desert at the city edge ([the city](../society/the-city.md)). The last two are in tension (T6, see [tensions](../meta/tensions.md)).
 
-Chat J started on astronomy and climate. Zach's one firm constraint so far is that [overly long days and nights would push temperatures to extremes](#^long-nights), that [an atmosphere helps trap and propagate heat](#^atmo-heat), and he was already assuming a [dense (more than Earth, less than Venus) and damp atmosphere](#^dense-damp), alongside the existing [very humid atmosphere](ecology-and-evolution.md#^humid). He settled an [11 day total day–night cycle](#^eleven-day), wants [no constant rain](#^no-constant-rain) and a [tilted orbit so total eclipses are rare](#^tilted-orbit). He agreed to a [planet year of a few Earth years](#^planet-year) ([C+], awaiting confirmation), then set a [~30 degree tilt](#^tilt-30), a [~4 year planet orbit](#^year-4) and a [brighter sun](#^brighter-sun). The [spore-rhythm idea](#^spore-rhythm) is noted as a possible background idea only, explicitly not canon yet ([C+]) and liked most of Claude's time-of-day weather ([C+]). His sideways moon orbit, far orbit and high cloud cover are tentative ([Z?]). He likes Claude's weather ideas for now ([C+], at his request), with [detail deferred to the late polish passes](#^weather-deferred). Everything on eclipses, tidal lock, orbit distance and how a long night stays mild is Claude's unconfirmed physics ([C]), and day length, tidal lock and eclipse seasons remain [OPEN].
+Chat J started on astronomy and climate. Zach's one firm constraint so far is that [overly long days and nights would push temperatures to extremes](#^long-nights), that [an atmosphere helps trap and propagate heat](#^atmo-heat), and he was already assuming a [dense (more than Earth, less than Venus) and damp atmosphere](#^dense-damp), alongside the existing [very humid atmosphere](ecology-and-evolution.md#^humid). He settled an [11 day total day–night cycle](#^eleven-day), wants [no constant rain](#^no-constant-rain) and a [tilted orbit so total eclipses are rare](#^tilted-orbit). He agreed to a [planet year of a few Earth years](#^planet-year) ([C+], awaiting confirmation), then set a [~30 degree tilt](#^tilt-30) (the moon orbits the equator of a [planet rotated 30 degrees](#^planet-tilt-30)), a [~4 year planet orbit](#^year-4) and a [brighter sun](#^brighter-sun). The [spore-rhythm idea](#^spore-rhythm) is noted as a possible background idea only, explicitly not canon yet ([C+]) and liked most of Claude's time-of-day weather ([C+]). His sideways moon orbit, far orbit, high cloud cover and [two inner moons in a belt](#^inner-moons) are tentative ([Z?]). He likes Claude's weather ideas for now ([C+], at his request), with [detail deferred to the late polish passes](#^weather-deferred). Everything on eclipses, tidal lock, orbit distance and how a long night stays mild is Claude's unconfirmed physics ([C]), and day length, tidal lock and eclipse seasons remain [OPEN].
 
 ## Canon
 
@@ -33,6 +33,8 @@ Chat J started on astronomy and climate. Zach's one firm constraint so far is th
 - Zach assumed the moon orbits around the planet's equator ("yea i assumed orbit around the equator, if i'm understanding what you mean"). [Z] (J) ^equatorial
 - The 30 degree tilt is tilted away from the flat orbit, flat meaning coplanar with the planetary orbit. [Z] (J)
 - The earlier "tangent" orientation would mean the moon orbits around a meridian line. [Z] (J)
+- The moon orbit is around the equator of the planet, which is rotated 30 degrees from its orbit. [Z] (J) ^planet-tilt-30
+- Zach has so far been saying "the third moon of giglos". [Z] (J)
 - Fungal spore release rhythm partially influencing weather: Claude's idea, which Zach asked to note down "as a possible idea, but i'm not calling that final/canon yet"; not really necessary to the game, "just a cool background fact for the lore bible". [C+] (J) ^spore-rhythm
 
 - Zach likes Claude's weather ideas "as is good for now"; mark them as Claude's idea, but [C+]. [Z] (J) ^weather-cplus
@@ -60,6 +62,7 @@ Detail deferred to late polish passes ([deferral](#^weather-deferred)).
 > **Status: Outdated** (2026-10-29)
 > Clarified later in Chat J: Zach confirmed an ["11 day total cycle"](#^eleven-day) [Z] (J).
 
+- Two more moons fitted in between Giglos and the planet ("would it make sense to fit 2 more moons in between it and the planet?"), more like a belt/ring containing 2 main large bodies. [Z?] (J) ^inner-moons
 - Far orbit: with a far orbit the shadow cone is small and the moon is mostly in sun, and it rotates with the orbit under tidal lock; asked whether that gives enough sides of the moon illumination. [Z?] (J)
 
 ## Unconfirmed
@@ -193,6 +196,24 @@ Detail deferred to late polish passes ([deferral](#^weather-deferred)).
 - An orbit over a meridian, passing over the poles of an upright planet, wouldn't stay put for a big moon; the bulge would drag it back toward the equator. [C] (J)
 - The natural version of the "tangent" idea is Uranus: the whole planet is tipped about 90°, and its moons still orbit around its equator; Zach's 30° is a milder version of the same thing. [C] (J)
 
+### Inner moons and belt (Chat J)
+
+- Two inner moons fit easily, and they'd help; true rings can't exist where big moons orbit, but a similar look is achievable. [C] (J)
+- Spacing guide, Jupiter's big moons: Io about 420k km out, Europa 670k, Ganymede 1.07M, Callisto 1.88M; Giglos at about 1.4 million km leaves plenty of room inside. [C] (J)
+- Lock the moons into a rhythm, the way Io, Europa and Ganymede are locked at 1 : 2 : 4: each inner moon goes around exactly twice for every orbit of the one outside it. [C] (J)
+- Rough, Jupiter-mass planet: 1st (innermost) moon, orbit about 2.75 days, about 560,000 km. [C] (J)
+- Rough, Jupiter-mass planet: 2nd moon, orbit about 5.5 days, about 880,000 km. [C] (J)
+- Rough, Jupiter-mass planet: 3rd moon, Giglos, orbit 11 days, about 1.4 million km. [C] (J)
+- The inner moons' regular tugs keep Giglos's orbit slightly oval, which keeps the planet's tidal squeezing going and adds internal heat, helping make up for getting only a third of Earth's sunlight. [C] (J)
+- The innermost moon would be squeezed hardest, probably volcanic like Io. [C] (J)
+- A ring only survives close to the planet, inside the zone where tides stop debris from clumping into a moon; at the moons' distances loose material either gathers into a moon or gets swept up. [C] (J)
+- Belt option 1: a true ring close to the planet, inside all three moons, looking like Saturn's. [C] (J)
+- Belt option 2: a haze shed by a moon along its orbit (Io's volcanoes fill a doughnut-shaped cloud around its path; Enceladus's geysers feed a faint ring); a volcanic first moon could leave a glowing, diffuse band along its orbit, a "belt with a big body in it". [C] (J)
+- Belt option 3: small companion moons sharing an orbit, leading and trailing a big moon (Saturn's moon Tethys has two). [C] (J)
+- Option 2 is closest to Zach's "belt containing 2 large bodies". [C] (J)
+- From the near side of Giglos, the planet would span about 6°, roughly 12 times the width of our full Moon, with the inner moons as small discs crossing in front of it. [C] (J)
+- Under the near-permanent high clouds, all of that would be visible only in rare clear breaks, which could make for a strong cultural moment. [C] (J)
+
 ## Open questions
 
 - Whether Giglos is the planet, the moon, or the city-state is not pinned down. [OPEN] (source stub list)
@@ -205,6 +226,8 @@ Detail deferred to late polish passes ([deferral](#^weather-deferred)).
 - Is 5–6 days the length of the daylight, or of the whole cycle? [OPEN] (J)
 - About how long is the planet's year? [OPEN] (J)
 - Is the planet tilted? [OPEN] (J)
+- Which body carries the name Giglos, the planet or the moon? ("third moon of Giglos" makes Giglos the planet's name; Zach also called the moon Giglos.) [OPEN] (J)
+- Which belt version: a true ring close to the planet, a haze shed by a volcanic moon, or small companion moons sharing an orbit? [OPEN] (J)
 - Should Giglos orbit around its planet's equator, Saturn–Titan style (so the 30° tilt also gives strong seasons, with eclipses only around the equinoxes)? [OPEN] (J)
 - Should Giglians have a day–night cycle their bodies are built around, or a mild one that stays in the background? [OPEN] (J)
 
