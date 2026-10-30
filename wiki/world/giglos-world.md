@@ -30,6 +30,9 @@ Chat J started on astronomy and climate. Zach's one firm constraint so far is th
 - Moon orbit of ~11 days ("~11 day moon orbit"). [Z] (J)
 - A brighter sun to compensate (for the farther planet). [Z] (J) ^brighter-sun
 - A larger orbit makes the large planet at the center make more sense anyways. [Z] (J)
+- Zach assumed the moon orbits around the planet's equator ("yea i assumed orbit around the equator, if i'm understanding what you mean"). [Z] (J) ^equatorial
+- The 30 degree tilt is tilted away from the flat orbit, flat meaning coplanar with the planetary orbit. [Z] (J)
+- The earlier "tangent" orientation would mean the moon orbits around a meridian line. [Z] (J)
 - Fungal spore release rhythm partially influencing weather: Claude's idea, which Zach asked to note down "as a possible idea, but i'm not calling that final/canon yet"; not really necessary to the game, "just a cool background fact for the lore bible". [C+] (J) ^spore-rhythm
 
 - Zach likes Claude's weather ideas "as is good for now"; mark them as Claude's idea, but [C+]. [Z] (J) ^weather-cplus
@@ -185,6 +188,10 @@ Detail deferred to late polish passes ([deferral](#^weather-deferred)).
 - With the planet tipped 30°: strong seasons, a bit more pronounced than Earth's (Earth is tilted 23°). [C] (J)
 - With the planet tipped 30°: eclipses only happen around the equinoxes, never at midsummer or midwinter, as with Saturn's moons; over a 4-year planet year, eclipse seasons would come about every 2 years, near the spring and autumn points. [C] (J)
 - Cultures would likely tie eclipses to the turning of the seasons. [C] (J)
+- The 30° tilt measured from the "flat" orbit and "orbiting around the equator" describe the same thing when the planet itself is tipped 30°. [C] (J)
+- A large moon's orbit almost always settles over its planet's equator, because the planet's bulging middle drags it there over time; so a moon tilted 30° from flat means a planet tilted 30° on its axis, like Saturn and Titan. [C] (J)
+- An orbit over a meridian, passing over the poles of an upright planet, wouldn't stay put for a big moon; the bulge would drag it back toward the equator. [C] (J)
+- The natural version of the "tangent" idea is Uranus: the whole planet is tipped about 90°, and its moons still orbit around its equator; Zach's 30° is a milder version of the same thing. [C] (J)
 
 ## Open questions
 
