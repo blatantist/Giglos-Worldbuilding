@@ -1,13 +1,13 @@
 # Giglian Conlang
 
-> Sources: Giglos Wiki Source, 2026-10-29
-> Raw: [Giglos Wiki Source § Language, phonology, conlang](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Language%2C%20phonology%2C%20conlang); [Giglos Wiki Source § Stub pages](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Stub%20pages%20%28little%20or%20no%20material%20yet%29); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md)
+> Sources: Giglos Wiki Source, 2026-10-29; Chat J (Claude Code session, live), 2026-10-29
+> Raw: [Giglos Wiki Source § Language, phonology, conlang](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Language%2C%20phonology%2C%20conlang); [Giglos Wiki Source § Stub pages](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Stub%20pages%20%28little%20or%20no%20material%20yet%29); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat J live transcript](../../raw/_live/407fb4bc-8d57-4e50-b91c-c49b1472c83d.md)
 > Updated: 2026-10-29
 > Kind: stub
 
 ## Overview
 
-Stub (method only, no phonemes, grammar or lexicon yet). Zach wants [a full conlang derived from anatomy, grown alongside history and narrative](#^goal); it is [a worldbuilding tool, while the game ships in English](#^english).
+Stub (method only, no phonemes, grammar or lexicon yet). Zach wants [a full conlang derived from anatomy, grown alongside history and narrative](#^goal); it is [a worldbuilding tool, while the game ships in English](#^english). As a teaser of influences (J), the language [shares some resemblance to glaggle-speak](#^glaggle-speak); sound details are on [Phonology](phonology.md).
 
 ## Canon
 
@@ -20,6 +20,10 @@ Stub (method only, no phonemes, grammar or lexicon yet). Zach wants [a full conl
 - Building the conlang is a main source of fun for Zach. [Z] (F)
 - Method: language, worldbuilding and narrative developed together and piggybacking, so culture shapes how language spreads and changes and vice versa; the full narrative is written so the world breathes rather than sitting as ideas. [Z] (F)
 - A full conlang is necessary for a culture with almost nothing in common with humans besides social order, so the Giglians do not read as "space Germany". Pointy-eared-human elves could do without one. [Z] (F)
+
+### Influences (teaser, J28)
+
+- The language shares some resemblance to the glaggle-speak of the glaggle internet meme: things like "thorn glognut, glaggle, giggler, enphoso", and other kinds of sounds like "gleeberland, thonglornius". See [glaggle origin](../world/naming-and-terminology.md#^glaggle). [Z] (J) ^glaggle-speak
 
 ## Unconfirmed
 

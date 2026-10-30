@@ -1,7 +1,7 @@
 # Giglos as a World
 
 > Sources: Giglos Wiki Source, 2026-10-29; Chat J (Claude Code session, live), 2026-10-29
-> Raw: [Giglos Wiki Source § Naming, terminology, setting basics](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Naming%2C%20terminology%2C%20setting%20basics); [Giglos Wiki Source § Stub pages](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Stub%20pages%20%28little%20or%20no%20material%20yet%29); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat J live transcript](../../raw/_live/59691e83-65d5-48e6-8f70-1d13f5e27cf8.md)
+> Raw: [Giglos Wiki Source § Naming, terminology, setting basics](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Naming%2C%20terminology%2C%20setting%20basics); [Giglos Wiki Source § Stub pages](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Stub%20pages%20%28little%20or%20no%20material%20yet%29); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat J live transcript](../../raw/_live/407fb4bc-8d57-4e50-b91c-c49b1472c83d.md)
 > Updated: 2026-10-29
 > Kind: stub
 
@@ -255,3 +255,4 @@ Detail deferred to late polish passes ([deferral](#^weather-deferred)).
 - [The city](../society/the-city.md)
 - [Technology level](technology-level.md)
 - [Tensions](../meta/tensions.md)
+- [Phonology](../language/phonology.md) (posh-center accent and the weather, J28)

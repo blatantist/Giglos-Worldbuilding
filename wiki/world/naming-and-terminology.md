@@ -1,7 +1,7 @@
 # Naming and Terminology
 
 > Sources: Giglos Wiki Source, 2026-10-29; Chat J (Claude Code session, live), 2026-10-29
-> Raw: [Giglos Wiki Source § Naming, terminology, setting basics](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Naming%2C%20terminology%2C%20setting%20basics); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat B transcript](../../raw/chats/2026-10-05-chat-B.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat J live transcript](../../raw/_live/59691e83-65d5-48e6-8f70-1d13f5e27cf8.md)
+> Raw: [Giglos Wiki Source § Naming, terminology, setting basics](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Naming%2C%20terminology%2C%20setting%20basics); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat B transcript](../../raw/chats/2026-10-05-chat-B.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat J live transcript](../../raw/_live/407fb4bc-8d57-4e50-b91c-c49b1472c83d.md)
 > Updated: 2026-10-29
 > Kind: draft
 
@@ -12,7 +12,9 @@
 ## Canon
 
 - "Giglian" is a placeholder. Calling them Giglians is like calling humans "earthicans". The real endonym will be derived once the phonology exists. [Z] (E) ^placeholder
+  - See [endonym-and-place-names ^origin](../language/endonym-and-place-names.md#^origin): [Z?] (J) idea that Giglos and Giglian originate from the language as altered exonyms.
 - Origin of the concept: inspired by glaggles, the smiley creatures of the "Glaggleland" internet meme. [Z] (A, M3) ^glaggle
+  - The language also resembles glaggle-speak: see [conlang ^glaggle-speak](../language/conlang.md#^glaggle-speak).
 - The glaggle look (round head, no arms, tall black eyes, big smile) is what a smiley looks like, and Zach uses it as the Giglian base form or head, not as a costume. [Z] (A)
 - Where they live: original notes say Giglians are "from the third moon of giglos". [Z] (A, M3)
 - For now Giglos is used as an exonym for both the system and the 3rd moon itself; the planet and sun are left unnamed until Zach works out the language. See [Giglos as a world](giglos-world.md#^exonym). [Z] (J)
