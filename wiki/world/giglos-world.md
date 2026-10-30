@@ -9,7 +9,7 @@
 
 Stub. What exists elsewhere: "Third moon of Giglos" ([naming](naming-and-terminology.md)), a very humid atmosphere ([ecology](ecology-and-evolution.md)), and open desert at the city edge ([the city](../society/the-city.md)). The last two are in tension (T6, see [tensions](../meta/tensions.md)).
 
-Chat J started on astronomy and climate. Zach's one firm constraint so far is that [overly long days and nights would push temperatures to extremes](#^long-nights), that [an atmosphere helps trap and propagate heat](#^atmo-heat), and he was already assuming a [dense (more than Earth, less than Venus) and damp atmosphere](#^dense-damp), alongside the existing [very humid atmosphere](ecology-and-evolution.md#^humid). He also wants [no constant rain](#^no-constant-rain) and a [tilted orbit so total eclipses are rare](#^tilted-orbit). His sideways moon orbit, far orbit, high cloud cover and a ~5–6 day day and night are tentative ([Z?]). Everything on eclipses, tidal lock, orbit distance and how a long night stays mild is Claude's unconfirmed physics ([C]), and day length, tidal lock and eclipse seasons remain [OPEN].
+Chat J started on astronomy and climate. Zach's one firm constraint so far is that [overly long days and nights would push temperatures to extremes](#^long-nights), that [an atmosphere helps trap and propagate heat](#^atmo-heat), and he was already assuming a [dense (more than Earth, less than Venus) and damp atmosphere](#^dense-damp), alongside the existing [very humid atmosphere](ecology-and-evolution.md#^humid). He settled an [11 day total day–night cycle](#^eleven-day), wants [no constant rain](#^no-constant-rain) and a [tilted orbit so total eclipses are rare](#^tilted-orbit). He agreed to a [planet year of a few Earth years](#^planet-year) ([C+], awaiting confirmation) and liked most of Claude's time-of-day weather ([C+]). His sideways moon orbit, far orbit and high cloud cover are tentative ([Z?]). Everything on eclipses, tidal lock, orbit distance and how a long night stays mild is Claude's unconfirmed physics ([C]), and day length, tidal lock and eclipse seasons remain [OPEN].
 
 ## Canon
 
@@ -22,12 +22,29 @@ Chat J started on astronomy and climate. Zach's one firm constraint so far is th
 - The damp works well with the fungal flora. [Z] (J)
 - Zach does not want it to be constantly raining. [Z] (J) ^no-constant-rain
 - Zach wants a tilted orbit so total eclipses are rare. [Z] (J) ^tilted-orbit
+- An 11 day total day–night cycle ("correct, 11 day total cycle", confirming Claude's reading of "~5-6 day day and night" as about 5–6 days of light then 5–6 of dark). [Z] (J) ^eleven-day
+- The atmosphere is already damp, warm, and dense, so clouds are bound to form. [Z] (J)
+- Planet year of a few Earth years ("yea a few earth years sounds about right", agreeing with Claude's "several Earth years"). [C+] (J) ^planet-year
+
+### Time-of-day weather (Claude's J10 table; Zach: "i like most of your ideas following that, with the weather at times of day")
+
+- Rain comes in bursts tied to the time of day, not all the time, under a nearly permanent high cloud cover. [C+] (J)
+- Dawn (about day 1): coldest, foggiest time; low cloud and fog left over from the night slowly lift. [C+] (J)
+- Morning (days 1–3): the ground warms and water evaporates; clouds thicken and rise; mostly dry, under a soft overcast. [C+] (J)
+- Afternoon (days 3–5): peak heat; tall storm clouds build and bring the main rain, in bursts rather than nonstop. [C+] (J)
+- Dusk: storms fade; strong winds blow toward the night side; breaks in the cloud let shafts of light through most often here. [C+] (J)
+- Night (days 6–11): steady cooling; clouds settle lower, with drizzle and dew early on and thick fog late; mostly calm. [C+] (J)
+- Most of the cycle is dry and overcast, and the heavy rain falls in a few afternoon days. [C+] (J)
 
 ## Tentative
 
 - Sideways moon orbit: the moon's orbit "perpendicular to normal, so the ring is tangent to the planet orbit" ("idk if those are the right words"), so that as the planet orbits, it never eclipses the sun from the moon. [Z?] (J)
 - Lots of clouds that stretch high up so there's rarely clear sky, just soft light and occasional shafts of light ("idk i like there being lots of clouds but i want them to stretch high up"). [Z?] (J)
 - Day and night of "~5-6 day" (asked in passing; whether that is each half or the whole cycle was not stated in J9). [Z?] (J)
+
+> **Status: Outdated** (2026-10-29)
+> Clarified later in Chat J: Zach confirmed an ["11 day total cycle"](#^eleven-day) [Z] (J).
+
 - Far orbit: with a far orbit the shadow cone is small and the moon is mostly in sun, and it rotates with the orbit under tidal lock; asked whether that gives enough sides of the moon illumination. [Z?] (J)
 
 ## Unconfirmed
@@ -95,14 +112,7 @@ Chat J started on astronomy and climate. Zach's one firm constraint so far is th
 
 ### Weather cycle and seasons (Chat J)
 
-- Rain comes in bursts tied to the time of day, not all the time, under a nearly permanent high cloud cover. [C] (J)
 - Claude assumed about 5–6 days of light and then 5–6 days of dark, so roughly an 11-day orbit. [C] (J)
-- Dawn (about day 1): coldest, foggiest time; low cloud and fog left over from the night slowly lift. [C] (J)
-- Morning (days 1–3): the ground warms and water evaporates; clouds thicken and rise; mostly dry, under a soft overcast. [C] (J)
-- Afternoon (days 3–5): peak heat; tall storm clouds build and bring the main rain, in bursts rather than nonstop. [C] (J)
-- Dusk: storms fade; strong winds blow toward the night side; breaks in the cloud let shafts of light through most often here. [C] (J)
-- Night (days 6–11): steady cooling; clouds settle lower, with drizzle and dew early on and thick fog late; mostly calm. [C] (J)
-- Most of the cycle is dry and overcast, and the heavy rain falls in a few afternoon days. [C] (J)
 - Since Giglos turns slowly, the pattern moves around the moon; every place goes through the same sequence once per orbit. [C] (J)
 - A warm, dense, damp atmosphere is tall, so clouds can stack high; a thin, high layer that almost never clears gives soft, even light. [C] (J)
 - The high cover blocks some sunlight, which calms the afternoon storms and helps with "not constantly raining". [C] (J)
@@ -114,6 +124,29 @@ Chat J started on astronomy and climate. Zach's one firm constraint so far is th
 - During an eclipse season the sun can go dark for a couple of hours in the middle of the day, causing a quick temperature drop and gusty winds; probably a big cultural event. [C] (J)
 - A close moon sits in a wide planet shadow, so when an eclipse does happen it's usually total; making total eclipses rare means keeping eclipse seasons short (more tilt) and few. [C] (J)
 - A planet year several Earth years long helps: eclipse seasons then come only every few years. [C] (J)
+
+> **Status: Outdated** (2026-10-29)
+> Claude corrected this in the next turn (Chat J): "a long planet year doesn't make eclipses rarer overall. It bunches them into bursts with long gaps in between." See the eclipse-frequency lines below.
+
+### Clouds and eclipse frequency (Chat J)
+
+- Correction: a long planet year doesn't make eclipses rarer overall; it bunches them into bursts with long gaps in between, which may still give the feel Zach wants. [C] (J)
+- Clouds form when air rises (sun-warmed ground, wind up a slope, or a cold air mass sliding under it), cools, and can't hold all its water vapor. [C] (J)
+- Vapor condenses into droplets only onto a surface: each droplet starts on a tiny airborne particle (sea salt, dust, smoke, pollen, bacteria, spores), called cloud condensation nuclei. [C] (J)
+- Particles are so common that the limit on clouds is almost always moisture and rising air, not particles; clouds would form on Giglos anyway. [C] (J)
+- Lots of particles: water spreads over many tiny droplets; clouds are brighter and longer-lasting, and rain less. [C] (J)
+- Few particles: fewer, bigger droplets; clouds rain sooner and break up faster. [C] (J)
+- Some biological particles, including certain bacteria and fungal spores, are very good at starting ice crystals, often how rain begins, so they can trigger rain. [C] (J)
+- Over the Amazon, fungal spores and other biological particles make up a large share of the airborne particles, and the forest partly seeds its own clouds and rain. [C] (J)
+- A sky full of spores would mean many small droplets, giving persistent, bright, high cloud cover that rains less than expected. [C] (J)
+- The fungi could set the rhythm: spore release at a certain time of day could help trigger the afternoon rains (optional, not required by the physics). [C] (J)
+- The moon's tilted orbit stays pointed the same way in space; twice per planet year its edge lines up with the sun, and during that window (the eclipse season) the moon passes through the planet's shadow on each orbit, every 11 days. [C] (J)
+- The share of time spent in eclipse seasons depends on the tilt and the moon's distance, not on the length of the year; a longer year makes each season longer and the gaps between seasons longer. [C] (J)
+- Rough numbers, assuming a Jupiter-mass planet: with an 11-day orbit, the moon would be about 1.4 million km out. [C] (J)
+- Rough numbers: orbit tilt 10° gives about 6 eclipses per Earth year (average). [C] (J)
+- Rough numbers: orbit tilt 30° gives about 2 eclipses per Earth year (average). [C] (J)
+- With a planet year of about 4 Earth years and a 30° tilt: about two eclipse seasons per planet year, each with a handful of eclipses about 11 days apart, then nearly two years with none; that reads as rare (some years have eclipses, most don't); a bigger tilt makes them rarer still. [C] (J)
+- A year of a few Earth years means the planet is farther from its sun; to keep Giglos warm, the sun would need to be a bit brighter than ours, or the thick greenhouse atmosphere and the planet's tidal squeezing make up the difference. [C] (J)
 
 ## Open questions
 
