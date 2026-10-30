@@ -4,7 +4,7 @@ Draft against the live transcript (`raw/_live/59691e83-65d5-48e6-8f70-1d13f5e27c
 
 ## Changed pages
 
-- `wiki/world/giglos-world.md`: Raw/Sources add Chat J live transcript; Overview extended; new Canon (10 [Z], 8 [C+]), Tentative (4 [Z?]), Unconfirmed (71 [C] under six subheads), Open questions (+8 [OPEN]); two `Status: Outdated` blocks added (J10 long-year line, J9 ~5-6 day line); See Also adds other-species-and-flora and tensions. Kind kept `stub`.
+- `wiki/world/giglos-world.md`: Raw/Sources add Chat J live transcript; Overview extended; new Canon (10 [Z], 8 [C+]), Tentative (4 [Z?]), Unconfirmed (76 [C] under six subheads), Open questions (+8 [OPEN]); two `Status: Outdated` blocks added (J10 long-year line, J9 ~5-6 day line); See Also adds other-species-and-flora and tensions. Kind kept `stub`.
 
 ## Doubtful items
 
