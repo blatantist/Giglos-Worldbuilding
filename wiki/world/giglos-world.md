@@ -9,7 +9,7 @@
 
 Stub. What exists elsewhere: "Third moon of Giglos" ([naming](naming-and-terminology.md)), a very humid atmosphere ([ecology](ecology-and-evolution.md)), and open desert at the city edge ([the city](../society/the-city.md)). The last two are in tension (T6, see [tensions](../meta/tensions.md)).
 
-Chat J started on astronomy and climate. Zach's one firm constraint so far is that [overly long days and nights would push temperatures to extremes](#^long-nights), that [an atmosphere helps trap and propagate heat](#^atmo-heat), and he was already assuming a [dense (more than Earth, less than Venus) and damp atmosphere](#^dense-damp), alongside the existing [very humid atmosphere](ecology-and-evolution.md#^humid). He settled an [11 day total day–night cycle](#^eleven-day), wants [no constant rain](#^no-constant-rain) and a [tilted orbit so total eclipses are rare](#^tilted-orbit). He agreed to a [planet year of a few Earth years](#^planet-year) ([C+], awaiting confirmation), then set a [~30 degree tilt](#^tilt-30), a [~4 year planet orbit](#^year-4) and a [brighter sun](#^brighter-sun). The [spore-rhythm idea](#^spore-rhythm) is noted as a possible background idea only, explicitly not canon yet ([C+]) and liked most of Claude's time-of-day weather ([C+]). His sideways moon orbit, far orbit and high cloud cover are tentative ([Z?]). Everything on eclipses, tidal lock, orbit distance and how a long night stays mild is Claude's unconfirmed physics ([C]), and day length, tidal lock and eclipse seasons remain [OPEN].
+Chat J started on astronomy and climate. Zach's one firm constraint so far is that [overly long days and nights would push temperatures to extremes](#^long-nights), that [an atmosphere helps trap and propagate heat](#^atmo-heat), and he was already assuming a [dense (more than Earth, less than Venus) and damp atmosphere](#^dense-damp), alongside the existing [very humid atmosphere](ecology-and-evolution.md#^humid). He settled an [11 day total day–night cycle](#^eleven-day), wants [no constant rain](#^no-constant-rain) and a [tilted orbit so total eclipses are rare](#^tilted-orbit). He agreed to a [planet year of a few Earth years](#^planet-year) ([C+], awaiting confirmation), then set a [~30 degree tilt](#^tilt-30), a [~4 year planet orbit](#^year-4) and a [brighter sun](#^brighter-sun). The [spore-rhythm idea](#^spore-rhythm) is noted as a possible background idea only, explicitly not canon yet ([C+]) and liked most of Claude's time-of-day weather ([C+]). His sideways moon orbit, far orbit and high cloud cover are tentative ([Z?]). He likes Claude's weather ideas for now ([C+], at his request), with [detail deferred to the late polish passes](#^weather-deferred). Everything on eclipses, tidal lock, orbit distance and how a long night stays mild is Claude's unconfirmed physics ([C]), and day length, tidal lock and eclipse seasons remain [OPEN].
 
 ## Canon
 
@@ -32,7 +32,13 @@ Chat J started on astronomy and climate. Zach's one firm constraint so far is th
 - A larger orbit makes the large planet at the center make more sense anyways. [Z] (J)
 - Fungal spore release rhythm partially influencing weather: Claude's idea, which Zach asked to note down "as a possible idea, but i'm not calling that final/canon yet"; not really necessary to the game, "just a cool background fact for the lore bible". [C+] (J) ^spore-rhythm
 
-### Time-of-day weather (Claude's J10 table; Zach: "i like most of your ideas following that, with the weather at times of day")
+- Zach likes Claude's weather ideas "as is good for now"; mark them as Claude's idea, but [C+]. [Z] (J) ^weather-cplus
+- Working out the exact weather patterns is deferred to "the much, MUCH later polish passes of the game where i make the world pretty". [Z] (J) ^weather-deferred
+
+### Time-of-day weather (Claude's J10 table; Zach: "i like most of your ideas following that, with the weather at times of day"; later "i like your weather ideas as is good for now. still mark it your idea but C+")
+
+Detail deferred to late polish passes ([deferral](#^weather-deferred)).
+
 
 - Rain comes in bursts tied to the time of day, not all the time, under a nearly permanent high cloud cover. [C+] (J)
 - Dawn (about day 1): coldest, foggiest time; low cloud and fog left over from the night slowly lift. [C+] (J)
@@ -166,6 +172,20 @@ Chat J started on astronomy and climate. Zach's one firm constraint so far is th
 - The star's light is whiter and slightly bluer than ours, with more ultraviolet; the thick cloud cover would screen much of that, which helps fungi and surface life. [C] (J)
 - A brighter star burns out faster: this one would last about 4–5 billion years, roughly enough for complex life by Earth's timeline; a much brighter star would start running out of time. [C] (J)
 
+### Orbit stability and planet tilt (Chat J)
+
+- A 4-year orbit is comfortably far: Giglos is deep inside the zone where the planet's gravity outweighs the star's (rough numbers, assuming a Jupiter-mass planet and the star above). [C] (J)
+- At about 2.7 times Earth's distance from the sun, the planet's Hill sphere reaches out about 25 million km; moons orbiting in the same direction as the planet spins stay stable out to about half of that. [C] (J)
+- Giglos is at about 1.4 million km, roughly 5% of the Hill sphere; Callisto sits at about 4% of Jupiter's. [C] (J)
+- The planet could sit much closer to its star and still hold Giglos; the orbit choice is set by warmth and the length of the year, not by stability. [C] (J)
+- Tides tearing the moon apart: the danger line is about 2–3 times the planet's radius; Giglos is about 20 planet radii out, so no concern. [C] (J)
+- The star's pull can slowly stretch and wobble a tilted moon orbit, but only once the tilt passes about 39°; at 30° Giglos is under it. [C] (J)
+- Real-world model: Saturn is tilted about 27°, and Titan orbits around Saturn's equator at about 1.2 million km, once every 16 days, very close to Giglos's setup. [C] (J)
+- If Giglos orbits around its planet's equator, the 30° tilt is really the planet being tipped 30°. [C] (J)
+- With the planet tipped 30°: strong seasons, a bit more pronounced than Earth's (Earth is tilted 23°). [C] (J)
+- With the planet tipped 30°: eclipses only happen around the equinoxes, never at midsummer or midwinter, as with Saturn's moons; over a 4-year planet year, eclipse seasons would come about every 2 years, near the spring and autumn points. [C] (J)
+- Cultures would likely tie eclipses to the turning of the seasons. [C] (J)
+
 ## Open questions
 
 - Whether Giglos is the planet, the moon, or the city-state is not pinned down. [OPEN] (source stub list)
@@ -178,6 +198,7 @@ Chat J started on astronomy and climate. Zach's one firm constraint so far is th
 - Is 5–6 days the length of the daylight, or of the whole cycle? [OPEN] (J)
 - About how long is the planet's year? [OPEN] (J)
 - Is the planet tilted? [OPEN] (J)
+- Should Giglos orbit around its planet's equator, Saturn–Titan style (so the 30° tilt also gives strong seasons, with eclipses only around the equinoxes)? [OPEN] (J)
 - Should Giglians have a day–night cycle their bodies are built around, or a mild one that stays in the background? [OPEN] (J)
 
 ## See Also
