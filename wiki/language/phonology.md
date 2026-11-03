@@ -1,8 +1,8 @@
 # Phonology
 
-> Sources: Giglos Wiki Source, 2026-10-29; Chat J transcript, 2026-10-30
-> Raw: [Giglos Wiki Source § Language, phonology, conlang](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Language%2C%20phonology%2C%20conlang); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md)
-> Updated: 2026-10-30
+> Sources: Giglos Wiki Source, 2026-10-29; Chat J transcript, 2026-10-30; Chat L transcript, 2026-11-02
+> Raw: [Giglos Wiki Source § Language, phonology, conlang](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Language%2C%20phonology%2C%20conlang); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md); [Chat L transcript](../../raw/chats/2026-11-02-chat-L.md)
+> Updated: 2026-11-03
 > Kind: stub
 
 ## Overview
@@ -10,6 +10,8 @@
 Stub (physiology only, no inventory yet). [Phonology comes from physiology](#^physiology): a [fused tongue that makes the mouth a variable-length tube](#^tube), [no nose](#^no-nose), and [speech that sounds like talking with the tongue held back](#^sound). The beak is tentative [Z?].
 
 Chat J added a teaser, not an inventory: [G-type sounds are common](#^g-common), because Zach [speaks "like a giglian" with the tongue in the back of the throat](#^tongue-back), with [m, n, t, s adapted to the middle/front palate](#^adapted) and [T and S kept back from the palatal ridge](#^ts). The language [resembles glaggle-speak](conlang.md#^glaggle-speak). The posh-sounding center is tentative [Z?]. How m and n work without a nose was raised as [OPEN] (now resolved); Zach then said [sounds their biology doesn't support are romanized to the closest IPA sounds](#^romanized) for human readers, and [his held-nose tests](#^canada) show a short m and a passing n still work.
+
+Chat L describes how speech is produced: [giggles are involuntary vocalizations of joy, and speaking shapes the giggle into phonemes](#^shaped-giggle). [Speaking needs enough valence to giggle](#^strained); low valence sounds strained, and [high valence makes tone erratic, up to stifling a laugh](#^high-valence). Breaking into giggles mid-sentence is [C+]. Tone is [grammatical only](conlang.md#^grammatical-tone). The mouth is also the body's exhaust ([organs](../biology/organs.md#^mouth-exhaust)).
 
 ## Canon
 
@@ -36,12 +38,26 @@ Chat J added a teaser, not an inventory: [G-type sounds are common](#^g-common),
 - A short hold for an M sound works if it inflates the cheeks. [Z] (J)
 - A held N doesn't work, because that blocks off the mouth and only reverberates the nose. [Z] (J)
 
+### Speech as a shaped giggle (L4–L20)
+
+- Giggles are involuntary vocalizations of joy, and speaking is controlling/shaping the giggle into phonemes, into speech. [Z] (L) ^shaped-giggle
+- They would at least still giggle, as a literal giggle sound (the uncontrolled vocalization). [Z] (L)
+- Speaking requires high enough valence to giggle; lower valence makes it difficult to force a giggle, and it would sound strained. [Z] (L) ^strained
+- They can get so joyous mid sentence that they start uncontrollably giggling (their version of laughing). [C+] (L)
+  - Claude: very high joy overpowers the filter and speech dissolves into raw giggle mid-sentence (L5); Zach: "Yea I like that" (L6).
+- Giggles are semi-involuntary: high valence/joy causes a giggle to leak out; you can easily induce a giggle, but it is also easier to slip into uncontrolled giggling. [Z] (L)
+- At more neutral valence (calm speech) you put a bit more force in to induce a giggle to use as the source to shape into speech; it is still just force to push you over the edge into the automatic giggle process. [Z] (L)
+- You can learn to toe the line to get controlled prosody. [Z] (L)
+- A high-valence speaker can still shape the phonemes, but their tone will be more erratic; at full-on giggle they'd struggle to keep speaking through it, like stifling a laugh. [Z] (L) ^high-valence
+- Calmer speech has more distinct rhythm and pitch; high-joy giggles are more slurred/erratic. See [conlang ^grammatical-tone](conlang.md#^grammatical-tone). [Z] (L)
+
 ## Tentative
 
 - No teeth. Probably a cartilaginous beak as part of the lips: mouth corners more flexible, center and behind stiffer so they can bite. Whether they need a hard surface depends on how they eat, still undecided. [Z?] (E)
 - Giglians nearer to the center sound like very silly posh Englishmen. [Z?] (J) ^posh-center
 - The weather actually kinda fits that (the posh-English sound of the center); see [Giglos as a world](../world/giglos-world.md). [Z?] (J)
 - Presumably they'd not only lose some sounds but also gain some new ones, from being more like a pink trombone than the actual human vocal tract. [Z?] (J) ^gain-sounds
+- Zach is unsure about going fully into involuntary speech ("idk if I want to go full into involuntary speech"). [Z?] (L)
 
 ## Unconfirmed
 
@@ -76,10 +92,25 @@ Chat J added a teaser, not an inventory: [G-type sounds are common](#^g-common),
 - Sounds gained (fitting the Pink Trombone comparison): long, cheek-puffed stops like Zach's "m" could be their own type of sound. [C] (J)
   - J34 also lists sliding tube length (the whole voice gliding deeper or higher mid-word), giggle pulses as syllable cores, and beak taps as clicks ("if the beak becomes canon"); these restate the (E) [C] lines above and are not duplicated.
 
+### From chat L (Claude)
+
+- No nose means no nasals, pushing toward a bubbly mix of fricatives, liquids and open vowels, with a CV rhythm and reduplication as the native emphasis device. [C] (L)
+  - Compare [romanized m/n](#^romanized) [Z] (J); the [C] line stays separate.
+- Speech as a source-filter system: the giggle is the excitation source, phonemes the shaping, like the glottal buzz and vocal tract in human voicing. [C] (L)
+- Forced excitation at low valence sounds tight, breathy or creaky, with uneven pulse timing; the pulse train doubles as syllable rhythm and gets ragged as valence drops. [C] (L)
+- A window between "can't get the source going" and "can't shape it"; calm, controlled speech is a mark of competence. [C] (L)
+- Speech is bistable: a giggle is an automatic routine, and speaking means nudging yourself over its onset threshold, then steering it; valence sets the distance from the threshold, and fluency is holding the routine at the edge. [C] (L)
+- Tonal inventory defined by pulse patterns (rate, spacing, rising or falling energy) rather than steady pitch glides. [C] (L)
+- Prosody as a gradient over a few categorical anchors; each syllable rides one giggle pulse, so calm speech has a near-isochronous beat and joy speeds and swings the pulses. [C] (L)
+- Clause boundaries marked by a pulse reset, a short pause, or a lengthened final pulse. [C] (L)
+- Phrase boundaries come from needing a maintenance vent rather than from running out of air, so they fall at clause edges in calm speech and come more often under exertion. [C] (L)
+
 ## Open questions
 
 - Phoneme inventory, phonotactics, romanization. [OPEN] (source stub list)
 - Can the pad bulge independently at several points (palatal vs velar contrast), and can it seal against the palate or does it flutter? [OPEN] (E)
+- Is one syllable always exactly one giggle pulse, or can a pulse carry a short cluster or a diphthong? [OPEN] (L)
+- Is the nudge over the giggle threshold a felt physical gesture (a chest or throat squeeze that could become a sound-symbolic root), or purely mental? [OPEN] (L)
 
 ## History
 

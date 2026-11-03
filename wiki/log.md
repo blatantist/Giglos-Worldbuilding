@@ -70,3 +70,21 @@
 - CLAUDE.md: answered [OPEN] lines now move unchanged to the page's History section with a "Resolved" sub-bullet; partly answered ones stay open
 - world/giglos-world: 9 resolved [OPEN] moved to History (5 remain open)
 - language/phonology: 1 resolved [OPEN] (m/n without a nose) moved to History (2 remain open)
+
+## [2026-11-03] ingest | Chat L "Conlang design with Giglian tense" (claude.ai share)
+- Disposition: Update (external ingest; plan and result approved by Zach)
+- Raw: raw/chats/2026-11-02-chat-L.md (from the share snapshot's message data, verbatim text; memory-read tool calls omitted)
+- Code L, not K: K was retired in the chat J merge and still appears in this log and phonology See Also
+- language/conlang: stub → draft; +17 [Z], +1 [Z?], +4 [C+], +50 [C], +7 [OPEN]
+- language/phonology: +8 [Z], +1 [Z?], +1 [C+], +9 [C], +2 [OPEN]
+- biology/organs: stub → draft; respiration; +5 [Z], +5 [Z?], +1 [C+], +23 [C], +1 [X], +2 [OPEN]
+- society/joy-and-mood: +2 [Z], +6 [C]; pressure-as-metaphor line marked Outdated (T9)
+- society/the-city +3 [Z], +3 [Z?], +1 [C]; monks-and-recordkeepers +3 [Z?], +7 [C], +1 [OPEN]; government-and-founder +3 [Z?], +1 [C]; medicine-and-drugs +3 [C], +2 [OPEN]
+- world/other-cities +2 [Z?], +4 [C], +1 [OPEN]; history-and-timeline +1 [OPEN]
+- Meta: sources adds L; rejected-ideas row 32 (mouth never seals); tensions T9 (pressure metaphor vs biology, resolved by Zach 2026-11-03), T10 (founding: slaughter vs split group, unresolved), T2 gains chat L as related evidence
+- Zach's review answers: L8 provenance-first is [C+]; hedged lines are [Z?]; leaky and inflate/aerate are refinements, not tensions
+
+## [2026-11-03] lint | changed pages after chat L ingest
+- 0 evidence errors; new fidelity suspects are the 2026-11-03 review-note dates (organs, joy-and-mood, tensions)
+- Reported, not fixed: sources Overview still says "J and K are Claude Code sessions"; phonology See Also cites "(Dutch as a possible influence, K)"; stubs that could grow: other-cities, combat, skill-tree
+- Still open for Zach: close conlang "Are evidential markers obligatory?" (F) via L10?; Claude's loanword rule (L29) [C] or [X]?; three-layer provenance set [C] vs [C+]

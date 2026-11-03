@@ -1,13 +1,15 @@
 # The City
 
-> Sources: Giglos Wiki Source, 2026-10-29
-> Raw: [Giglos Wiki Source § The city](../../raw/giglos/2026-10-29-giglos-wiki-source.md#The%20city%3A%20founding%2C%20layout%2C%20economy%2C%20food); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md)
-> Updated: 2026-10-29
+> Sources: Giglos Wiki Source, 2026-10-29; Chat L transcript, 2026-11-02
+> Raw: [Giglos Wiki Source § The city](../../raw/giglos/2026-10-29-giglos-wiki-source.md#The%20city%3A%20founding%2C%20layout%2C%20economy%2C%20food); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat L transcript](../../raw/chats/2026-11-02-chat-L.md)
+> Updated: 2026-11-03
 > Kind: draft
 
 ## Overview
 
 The city is a [near-Texas-sized ring city seeded by one founder's repeated mitosis](#^summary). It is [circular, with concentric rings](#^circular): an elite center, a middle ring, a no man's land and an outer ring. [Raw resources flow inward](#^flow) and the [middle ring manages but does not own](#^manages). Food scarcity is [partly real, partly artificial](#^scarcity).
+
+The [game focuses solely on this city-state](#^game-scope). Its location on a semi-isolated, defensible piece of land and a secured border are tentative [Z?] (L). The city's [ring gradient of dialects](../language/conlang.md#^ring-dialects) is on the conlang page.
 
 ## Canon
 
@@ -50,6 +52,18 @@ The city is a [near-Texas-sized ring city seeded by one founder's repeated mitos
 - Middle-ring loyalty is not purely religious; it is a Randian corporate "utopia" myth, in the spirit of "who is John Galt?". [Z] (C)
 - Clarified: not a rhetorical shrug, but a mythological Founder spoken of as still in power, while in reality mitosis slowly degrades the original ambition and memory. [Z] (C)
 
+### Setting and scope (L26–L30)
+
+- The game will focus solely on the main city-state. [Z] (L) ^game-scope
+- Zach will write more mainland lore for the outer ring. [Z] (L)
+- The city's own gradient of dialects/accents in the ring structure matters more for flavor than outer-speak: see [conlang ^ring-dialects](../language/conlang.md#^ring-dialects). [Z] (L)
+
+## Tentative
+
+- Zach doesn't know the continental layout, but imagines the city on a semi-isolated bit of land, not a full island: like the western US coastline, protected by a mountain range, or the Iberian peninsula, with a defensible chokepoint to the mainland. [Z?] (L) ^location
+- There may be migrants or people in the outer ring connected to the outside. [Z?] (L)
+- There wouldn't be much contact with the mainland, as the border would be secured. [Z?] (L)
+
 ## Unconfirmed
 
 - Claude estimated a radius near 250 miles and a 60 to 100 mile center radius, making a core-to-desert trip multi-day. [C] (E)
@@ -67,6 +81,7 @@ The city is a [near-Texas-sized ring city seeded by one founder's repeated mitos
 - Manufactured blights. [C] (C)
 - Calorie licensing cross-checked against registered splits. [C] (C)
 - Fast spoilage keeps the core just-in-time. [C] (C)
+- A chokepoint peninsula gives both isolation and contact; mainland influence reaches the city through migrants, smugglers and border workers, which means the outskirts. [C] (L)
 
 ## Open questions
 

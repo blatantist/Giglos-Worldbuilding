@@ -1,13 +1,13 @@
 # Government and the Founder
 
-> Sources: Giglos Wiki Source, 2026-10-29
-> Raw: [Giglos Wiki Source § Government, the Founder, elites](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Government%2C%20the%20Founder%2C%20elites); [Chat B transcript](../../raw/chats/2026-10-05-chat-B.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md)
-> Updated: 2026-10-29
+> Sources: Giglos Wiki Source, 2026-10-29; Chat L transcript, 2026-11-02
+> Raw: [Giglos Wiki Source § Government, the Founder, elites](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Government%2C%20the%20Founder%2C%20elites); [Chat B transcript](../../raw/chats/2026-10-05-chat-B.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat L transcript](../../raw/chats/2026-11-02-chat-L.md)
+> Updated: 2026-11-03
 > Kind: draft
 
 ## Overview
 
-The state is a [city-state-corporation run as a direct line of control from the Founder](#^state). [The original founder no longer exists](#^founder-def); [rank tracks split distance](#^rank). The current ruler [holds memory but has lost skill](#^ruler), which the regime [restores by skill harvest](#^restore). [Removing the Founder runs through a council vote](#^council). The founding origin is tentative [Z?]. The Founder lore is in tension with the original game premise (T1).
+The state is a [city-state-corporation run as a direct line of control from the Founder](#^state). [The original founder no longer exists](#^founder-def); [rank tracks split distance](#^rank). The current ruler [holds memory but has lost skill](#^ruler), which the regime [restores by skill harvest](#^restore). [Removing the Founder runs through a council vote](#^council). The founding origin is tentative [Z?], with two versions in tension (T10): a betrayal and slaughter of the settling party (C), or a settler group split from the founder that shared its ideals (L). The Founder lore is in tension with the original game premise (T1).
 
 ## Canon
 
@@ -42,6 +42,16 @@ The state is a [city-state-corporation run as a direct line of control from the 
 
 - Founding origin (not final): a settling party arrived, and the founder betrayed and slaughtered them at an opportune time so they could be the sole seed of the civilization. [Z?] (C)
 
+> **Status: Disputed**
+> T10: conflicts with ^split-group below (L). Recorded in [tensions](../meta/tensions.md), unresolved.
+
+- The city-state either settled or colonized the land; it can be imagined as a settler-colonial thing. [Z?] (L) ^settler
+- Perhaps only the monks could remember that; any founder lineage memory of it would be classified or redacted, perhaps via mitosis purge. [Z?] (L)
+- Since they're giglian, not human, the founder wouldn't need to betray the group: the group would just need to be split from the founder so they naturally share ideals, but there probably would still be disagreement, which is punished by the founder. That's for later. [Z?] (L) ^split-group
+
+> **Status: Disputed**
+> T10: conflicts with the betrayal-and-slaughter origin above (C). Recorded in [tensions](../meta/tensions.md), unresolved.
+
 ## Unconfirmed
 
 - "Memory laundering": a leader splits before a dirty decision and casts off the half that knows. [C] (C)
@@ -53,6 +63,7 @@ The state is a [city-state-corporation run as a direct line of control from the 
 - Inbreeding shows as growth-control failure (a Habsburg-jaw analog). [C] (C)
 - Veto player theory (Tsebelis) as framing. [C] (F)
 - Recordkeepers who certify lineage as a hidden veto point. [C] (F)
+- If the settler group split from the founder, they share the trunk, so the founding conflict is between diverging branches, not strangers. [C] (L)
 
 ## Open questions
 
