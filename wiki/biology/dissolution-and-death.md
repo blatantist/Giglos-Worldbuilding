@@ -1,8 +1,8 @@
 # Dissolution and Death
 
-> Sources: Giglos Wiki Source, 2026-10-29
-> Raw: [Giglos Wiki Source § Mitosis, fusion, dissolution and death](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Mitosis%2C%20fusion%2C%20dissolution%20and%20death); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md)
-> Updated: 2026-10-29
+> Sources: Giglos Wiki Source, 2026-10-29; Chat M transcript, 2026-11-04
+> Raw: [Giglos Wiki Source § Mitosis, fusion, dissolution and death](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Mitosis%2C%20fusion%2C%20dissolution%20and%20death); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat M transcript](../../raw/chats/2026-11-04-chat-M.md)
+> Updated: 2026-11-04
 > Kind: draft
 
 ## Overview
@@ -17,6 +17,7 @@ Chronic deflation causes [involuntary "degenerate mitosis"](#^degenerate), which
 - Dissolution is always uncontrolled mitosis down to goop, never a separate process. [Z] (D) ^always-mitosis
 - Collapse sequence: intentional modifications drop, then the base form, leaving a ballish blob with a strained smiley face (baseline expression is a smile, they are far below baseline). The ball looks like the normal head but blobbier and larger, since it holds the whole body's mass. Worse still, form is lost and they split to death. [Z] (D)
 - Starvation alone can also cause the collapse to a ball. [Z] (D)
+- The head is the last form to deform when a giglian disintegrates/deflates their body; first would be the attended growths. [Z] (M) ^head-last
 - Personal collapse through depression is akin to suicide; forced collapse is akin to extreme shock causing a fatal stroke. [Z] (D) ^akin-suicide
 - Suicide (self-inflicted death) is a separate class from depressive degenerate mitosis, and weighs more than for humans because it ends descendants' experience too. [Z] (F) ^suicide-class
 
@@ -27,6 +28,8 @@ Note (Zach, first ingest): the two lines above are compatible, not a tension. "a
 ## Unconfirmed
 
 - The body resorbs into the head on the way down. [C] (D)
+- Under low gravity a depressed or dying giglian sags into the ball more slowly: a visible, drawn-out slump that leaves time to intervene. [C] (M)
+- If the head holds its structure longest, it keeps its own channels open longest, which helps explain why it's the last thing to go. [C] (M)
 - Whether feeding revives a ball distinguishes starvation from pressure failure. [C] (D)
 - Dried remains feed the fungi. [C] (D)
 - Acute goop keeps lumps of frame and trained tissue. [C] (D)

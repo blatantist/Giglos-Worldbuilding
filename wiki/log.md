@@ -88,3 +88,18 @@
 - 0 evidence errors; new fidelity suspects are the 2026-11-03 review-note dates (organs, joy-and-mood, tensions)
 - Reported, not fixed: sources Overview still says "J and K are Claude Code sessions"; phonology See Also cites "(Dutch as a possible influence, K)"; stubs that could grow: other-cities, combat, skill-tree
 - Still open for Zach: close conlang "Are evidential markers obligatory?" (F) via L10?; Claude's loanword rule (L29) [C] or [X]?; three-layer provenance set [C] vs [C+]
+
+## [2026-11-04] ingest | Chat M "Pore respiration, immunity, climate and moon gravity" (Claude Code session)
+- Disposition: Update (session wrap-up; drafted on session/2026-11-04-M, verified, Zach's answers applied)
+- Raw: raw/chats/2026-11-04-chat-M.md (turns M0–M19)
+- biology/organs: +7 [Z], +3 [Z?], +1 [C+], +17 [C], +2 [OPEN]; ^pores promoted [Z?] → [Z] (was [Z?], promoted 2026-11-04)
+- world/giglos-world: +4 [Z], +1 [Z?], +2 [C+], +14 [C] (tall atmosphere, 2/3 radius, 0.66 g, heat spread)
+- world/ecology-and-evolution: +1 [Z] (no deserts); 1 [OPEN] (E) closed via M2
+- society/the-city: +1 [Z?], +2 [C], +1 [OPEN]; "ending in open desert" retagged [X] in History, layout line marked Outdated; 1 [OPEN] (E) closed
+- biology/body-and-growth +1 [Z], +3 [C]; dissolution-and-death +1 [Z], +2 [C]; medicine-and-drugs +2 [C]; fusion +1 [C]
+- Meta: sources adds M; rejected-ideas row 33 (open desert); tensions T6 resolved by Zach (M2), T2 and T7 gain chat M related lines
+- Zach's review answers: the remembered desert discussion was Claude's question in E1; sickness symptoms stay open (Claude's wet-giggle line kept [C], nothing rejected); all else as proposed
+
+## [2026-11-04] lint | changed pages after chat M ingest
+- 0 evidence errors, 0 unreferenced raw files; new fidelity suspects are review and resolution dates and the T6 resolution note
+- check_evidence.py fails on the system Python 3.9 (`str | None` annotation); ran it with postponed annotations. Reported, not fixed

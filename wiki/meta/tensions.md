@@ -1,13 +1,13 @@
 # Tensions
 
-> Sources: Giglos Wiki Source, 2026-10-29; Chat L transcript, 2026-11-02
-> Raw: [Giglos Wiki Source § Tensions to flag, not resolve](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Tensions%20to%20flag%2C%20not%20resolve); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat B transcript](../../raw/chats/2026-10-05-chat-B.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat L transcript](../../raw/chats/2026-11-02-chat-L.md)
-> Updated: 2026-11-03
+> Sources: Giglos Wiki Source, 2026-10-29; Chat L transcript, 2026-11-02; Chat M transcript, 2026-11-04
+> Raw: [Giglos Wiki Source § Tensions to flag, not resolve](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Tensions%20to%20flag%2C%20not%20resolve); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat B transcript](../../raw/chats/2026-10-05-chat-B.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat L transcript](../../raw/chats/2026-11-02-chat-L.md); [Chat M transcript](../../raw/chats/2026-11-04-chat-M.md)
+> Updated: 2026-11-04
 > Kind: draft
 
 ## Overview
 
-Registry of contradictions. Recorded, never resolved. Only Zach marks a tension resolved, and says how. Entries T1–T8 are seeded from the source's "Tensions to flag, not resolve" list; T9–T10 come from chat L.
+Registry of contradictions. Recorded, never resolved. Only Zach marks a tension resolved, and says how. Entries T1–T8 are seeded from the source's "Tensions to flag, not resolve" list; T9–T10 come from chat L. T6 was resolved in chat M.
 
 ## T1. Protagonist premise vs later Founder lore
 
@@ -22,6 +22,7 @@ Registry of contradictions. Recorded, never resolved. Only Zach marks a tension 
 - Claim A [Z] (A): "No veins or bloodflow, which makes them G-force resistant."
 - Claim B [Z] (A): "Zach later allowed that some nutrient and oxidizer carrier must circulate"
 - Related (L): chat L lays circulation out further: "pressure to circulate the diffused air" [Z] (L42), and a sealed skin region supplied by "the circulation under the surface" [Z?] (L44). Zach, 2026-11-03 ingest review: the exact biology and circulatory system still need working out.
+- Related (M): "baseline holding pressure circulated through the porous body tissue, fed by pores in skin" [Z] (M0).
 - Pages: [body-and-growth](../biology/body-and-growth.md), [organs](../biology/organs.md)
 - status: unresolved
 
@@ -52,13 +53,14 @@ Registry of contradictions. Recorded, never resolved. Only Zach marks a tension 
 - Claim A [Z] (C): Very humid atmosphere "is accepted as implied by the ecology"
 - Claim B [Z] (E): the outer ring is "then barracks, slums and markets, ending in open desert"
 - Pages: [ecology-and-evolution](../world/ecology-and-evolution.md), [the-city](../society/the-city.md), [giglos-world](../world/giglos-world.md)
-- status: unresolved
+- status: resolved by Zach, 2026-11-04 (chat M, M2): "The open desert is outdated." The atmosphere is too dense and wet to support a desert; most land would be covered in fungi-like flora. Claim B's desert part is marked Outdated on the-city and listed as rejected-ideas row 33.
 
 ## T7. Base form
 
 - Claim A [Z] (A): "The glaggle look is the base or resting form"
 - Claim B [Z] (D): "Likely a somewhat humanoid base form that can be changed beyond."
 - Source note: Zach treats the ball as the fully relaxed or collapsed state and the glaggle face as the head.
+- Related (M): giglians are supposed to look smooth, "so they can have a head that looks smiley/glaggle-esque" [Z] (M15).
 - Pages: [body-and-growth](../biology/body-and-growth.md)
 - status: unresolved
 

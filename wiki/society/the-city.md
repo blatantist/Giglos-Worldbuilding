@@ -1,8 +1,8 @@
 # The City
 
-> Sources: Giglos Wiki Source, 2026-10-29; Chat L transcript, 2026-11-02
-> Raw: [Giglos Wiki Source § The city](../../raw/giglos/2026-10-29-giglos-wiki-source.md#The%20city%3A%20founding%2C%20layout%2C%20economy%2C%20food); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat L transcript](../../raw/chats/2026-11-02-chat-L.md)
-> Updated: 2026-11-03
+> Sources: Giglos Wiki Source, 2026-10-29; Chat L transcript, 2026-11-02; Chat M transcript, 2026-11-04
+> Raw: [Giglos Wiki Source § The city](../../raw/giglos/2026-10-29-giglos-wiki-source.md#The%20city%3A%20founding%2C%20layout%2C%20economy%2C%20food); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat L transcript](../../raw/chats/2026-11-02-chat-L.md); [Chat M transcript](../../raw/chats/2026-11-04-chat-M.md)
+> Updated: 2026-11-04
 > Kind: draft
 
 ## Overview
@@ -32,8 +32,8 @@ The [game focuses solely on this city-state](#^game-scope). Its location on a se
 - No man's land: a tapering buffer between middle and outer rings. [Z] (E)
 - Outer ring: mainly farming, livestock, mining and drilling, with some material-processing factories on its inner edge, then barracks, slums and markets, ending in open desert. [Z] (E)
 
-> **Status: Disputed**
-> T6: the world has a very humid atmosphere ([ecology](../world/ecology-and-evolution.md)). Recorded in [tensions](../meta/tensions.md), unresolved.
+> **Status: Outdated (2026-11-04)**
+> The "ending in open desert" part only. Zach, chat M (M2): "The open desert is outdated." The atmosphere is too dense and wet for a desert; most land would be covered in fungi-like flora ([ecology ^no-desert](../world/ecology-and-evolution.md#^no-desert)). T6 resolved; see [tensions](../meta/tensions.md) and History below.
 
 - Whole city a bit smaller than Texas. [Z] (E)
 
@@ -63,6 +63,7 @@ The [game focuses solely on this city-state](#^game-scope). Its location on a se
 - Zach doesn't know the continental layout, but imagines the city on a semi-isolated bit of land, not a full island: like the western US coastline, protected by a mountain range, or the Iberian peninsula, with a defensible chokepoint to the mainland. [Z?] (L) ^location
 - There may be migrants or people in the outer ring connected to the outside. [Z?] (L)
 - There wouldn't be much contact with the mainland, as the border would be secured. [Z?] (L)
+- The landmass is likely a peninsula and mainland similar in shape to the Iberian peninsula, with a relatively thin border, like a wide isthmus. [Z?] (M)
 
 ## Unconfirmed
 
@@ -82,11 +83,14 @@ The [game focuses solely on this city-state](#^game-scope). Its location on a se
 - Calorie licensing cross-checked against registered splits. [C] (C)
 - Fast spoilage keeps the core just-in-time. [C] (C)
 - A chokepoint peninsula gives both isolation and contact; mainland influence reaches the city through migrants, smugglers and border workers, which means the outskirts. [C] (L)
+- Passes over the range protecting the peninsula would be colder and drier than the lowlands, but with lower gravity the air thins slowly with height, so the range is more of a strain than a wall. [C] (M)
+  - Claude first called the passes dangerous to cross (M3), then corrected it (M5).
+- Fungal wilds or untamed flora as the outer ring's edge. [C] (M)
 
 ## Open questions
 
-- Where farmland water comes from, given the open-desert edge. [OPEN] (E)
 - How the center verifies identity at the border (papers, memory, tissue). [OPEN] (E)
+- What the outer ring's edge ends in, in place of "ending in open desert". [OPEN] (M)
 - Does the middle ring know the outskirts are starved deliberately? Does the state keep real reserves? [OPEN] (C)
 - What the entrance evaluation tests: see [center entrance evaluation](center-entrance-evaluation.md).
 - Inter-city politics: see [other cities](../world/other-cities.md).
@@ -94,6 +98,9 @@ The [game focuses solely on this city-state](#^game-scope). Its location on a se
 ## History
 
 - A rhetorical "Who is the Founder?" shrug [X] (C). Replaced by: a mythological Founder spoken of as still in power.
+- The outer ring "ending in open desert". [X] (E) (was part of the [Z] outer-ring line under Layout, changed 2026-11-04) Reason: Zach, M2: "The open desert is outdated." Replaced by: [no deserts; most land covered in fungi-like flora](../world/ecology-and-evolution.md#^no-desert). See [rejected-ideas row 33](../meta/rejected-ideas.md).
+- Where farmland water comes from, given the open-desert edge. [OPEN] (E)
+  - Resolved 2026-11-04: see [ecology ^no-desert](../world/ecology-and-evolution.md#^no-desert) (M2); the desert premise is gone.
 
 ## See Also
 

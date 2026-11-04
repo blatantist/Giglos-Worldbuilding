@@ -15,8 +15,8 @@ The setting beyond Giglian bodies: names, planet, ecology.
 
 | Article | Summary | Updated |
 |---------|---------|---------|
-| [Ecology and Deep-Time Evolution](world/ecology-and-evolution.md) | Speciation by mergeability, fungal flora, genome as vocabulary. 6 [Z], 1 [C+], 17 [C], 2 [OPEN] | 2026-10-30 |
-| [Giglos as a World](world/giglos-world.md) | Astronomy (tidal lock, 11-day cycle, 30° tilt, ring and moons), exonym, dense damp atmosphere, weather. 27 [Z], 2 [Z?], 9 [C+], 121 [C], 2 [X], 5 [OPEN], 9 closed | 2026-10-30 |
+| [Ecology and Deep-Time Evolution](world/ecology-and-evolution.md) | Speciation by mergeability, fungal flora, genome as vocabulary, no deserts. 7 [Z], 1 [C+], 17 [C], 1 [OPEN], 1 closed | 2026-11-04 |
+| [Giglos as a World](world/giglos-world.md) | Astronomy (tidal lock, 11-day cycle, 30° tilt, ring and moons), exonym, dense damp atmosphere, weather, size and 0.66 g gravity, heat spread. 31 [Z], 3 [Z?], 11 [C+], 135 [C], 2 [X], 5 [OPEN], 9 closed | 2026-11-04 |
 | [History and Timeline](world/history-and-timeline.md) | Stub. Eras and founding events. 2 [OPEN] | 2026-11-03 |
 | [Naming and Terminology](world/naming-and-terminology.md) | Placeholder name, glaggle origin, Giglos exonym, fixed terms. 19 [Z], 1 [C+], 1 [C], 1 [X] | 2026-10-30 |
 | [Other Cities and Unincorporated Lands](world/other-cities.md) | Stub. Other founder-seeded cities, unincorporated land, the mainland. 2 [Z?], 4 [C], 3 [OPEN] | 2026-11-03 |
@@ -30,11 +30,11 @@ Giglian bodies: tissue, growth, mitosis, fusion, death.
 
 | Article | Summary | Updated |
 |---------|---------|---------|
-| [Body and Growth](biology/body-and-growth.md) | Frame and foam, bioelectric growth, base form, healing. 25 [Z], 1 [Z?], 1 [C], 1 [X], 1 [OPEN] | 2026-10-29 |
-| [Dissolution and Death](biology/dissolution-and-death.md) | Degenerate mitosis, collapse, forensics, suicide. 9 [Z], 5 [C], 3 [X], 3 [OPEN] | 2026-10-29 |
-| [Fusion (Merging)](biology/fusion.md) | Merging, species boundary, skill transplant basis. 2 [Z], 1 [C+], 5 [C] | 2026-10-29 |
+| [Body and Growth](biology/body-and-growth.md) | Frame and foam, bioelectric growth, base form, healing, smooth look. 26 [Z], 1 [Z?], 4 [C], 1 [X], 1 [OPEN] | 2026-11-04 |
+| [Dissolution and Death](biology/dissolution-and-death.md) | Degenerate mitosis, collapse, forensics, suicide, head deforms last. 10 [Z], 7 [C], 3 [X], 3 [OPEN] | 2026-11-04 |
+| [Fusion (Merging)](biology/fusion.md) | Merging, species boundary, skill transplant basis. 2 [Z], 1 [C+], 6 [C] | 2026-11-04 |
 | [Mitosis](biology/mitosis.md) | Split mechanics, uneven psyche split, memory dilution. 12 [Z], 3 [C], 2 [X], 2 [OPEN] | 2026-10-29 |
-| [Giglian Organs](biology/organs.md) | Required organ functions; respiration (pores, mouth exhaust, joy-driven circulation). 6 [Z], 5 [Z?], 1 [C+], 31 [C], 1 [X], 3 [OPEN] | 2026-11-03 |
+| [Giglian Organs](biology/organs.md) | Required organ functions; respiration (pore intake, no gills, mouth exhaust, joy-driven circulation); defense against invaders. 14 [Z], 7 [Z?], 2 [C+], 48 [C], 1 [X], 5 [OPEN] | 2026-11-04 |
 
 ## society
 
@@ -49,12 +49,12 @@ Giglian mind, culture, city, state and resistance.
 | [Identity Metaphysics and Splitting Doctrines](society/identity-doctrines.md) | Continuity vs death-and-birth; doctrine spread. 8 [Z], 8 [C], 3 [X], 4 [OPEN] | 2026-10-29 |
 | [Joy, Mood and Moral Philosophy](society/joy-and-mood.md) | Joy ethic, holding pressure (now literal), leaky, giggling. 16 [Z], 14 [C], 3 [X], 3 [OPEN] | 2026-11-03 |
 | [Law and Courts](society/law-and-courts.md) | Greedy-mitosis law, testimony, corrupt courts. 8 [Z], 14 [C], 5 [OPEN] | 2026-10-29 |
-| [Medicine, Drugs and Early Technology](society/medicine-and-drugs.md) | No anesthesia, herbalism, opioid analog. 9 [Z], 20 [C], 7 [OPEN] | 2026-11-03 |
+| [Medicine, Drugs and Early Technology](society/medicine-and-drugs.md) | No anesthesia, herbalism, opioid analog. 9 [Z], 22 [C], 7 [OPEN] | 2026-11-04 |
 | [Monks and Recordkeepers](society/monks-and-recordkeepers.md) | Long-lived memory holders; the game's monk; shape-holding martial art. 4 [Z], 3 [Z?], 16 [C], 3 [OPEN] | 2026-11-03 |
 | [Religion and History Education](society/religion-and-history.md) | Religion as record-keeping; history class. 4 [Z], 6 [C], 1 [OPEN] | 2026-10-29 |
 | [Resistance and Routes to Power](society/resistance.md) | Revolution vs council route, labeling, infiltration. 12 [Z], 1 [C+], 8 [C], 1 [X], 2 [OPEN] | 2026-10-29 |
 | [State Repression](society/state-repression.md) | Forced splitting, torture, skill harvesting. 10 [Z], 1 [C+], 11 [C], 1 [X], 4 [OPEN] | 2026-10-29 |
-| [The City](society/the-city.md) | Ring layout, resource flow, food scarcity, ideology, location and game scope. 25 [Z], 3 [Z?], 16 [C], 1 [X], 3 [OPEN] | 2026-11-03 |
+| [The City](society/the-city.md) | Ring layout, resource flow, food scarcity, ideology, location and game scope. 25 [Z], 4 [Z?], 18 [C], 2 [X], 3 [OPEN], 1 closed | 2026-11-04 |
 
 ## language
 
@@ -103,6 +103,6 @@ Wiki bookkeeping: sources, tensions, rejected ideas, glossary.
 | Article | Summary | Updated |
 |---------|---------|---------|
 | [Glossary](meta/glossary.md) | Term definitions for linking. 26 [Z], 1 [C+], 3 [C] | 2026-10-29 |
-| [Rejected Ideas](meta/rejected-ideas.md) | [X] registry, 32 rows. | 2026-11-03 |
-| [Sources](meta/sources.md) | Chat codes A–J, L and memory notes. | 2026-11-03 |
-| [Tensions](meta/tensions.md) | Contradiction registry, T1–T8 and T10 unresolved, T9 resolved. | 2026-11-03 |
+| [Rejected Ideas](meta/rejected-ideas.md) | [X] registry, 33 rows. | 2026-11-04 |
+| [Sources](meta/sources.md) | Chat codes A–J, L, M and memory notes. | 2026-11-04 |
+| [Tensions](meta/tensions.md) | Contradiction registry, T1–T5, T7, T8 and T10 unresolved, T6 and T9 resolved. | 2026-11-04 |

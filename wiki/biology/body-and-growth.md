@@ -1,8 +1,8 @@
 # Body and Growth
 
-> Sources: Giglos Wiki Source, 2026-10-29
-> Raw: [Giglos Wiki Source § Giglian biology](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Giglian%20biology); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md)
-> Updated: 2026-10-29
+> Sources: Giglos Wiki Source, 2026-10-29; Chat M transcript, 2026-11-04
+> Raw: [Giglos Wiki Source § Giglian biology](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Giglian%20biology); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat M transcript](../../raw/chats/2026-11-04-chat-M.md)
+> Updated: 2026-11-04
 > Kind: draft
 
 ## Overview
@@ -58,6 +58,8 @@ Giglians are [distributed, slime-mold-like organisms whose growth is consciously
 > T7: vs the glaggle-ball base form above. Recorded in [tensions](../meta/tensions.md), unresolved.
 
 - The base is not fixed for the species; it follows the previous life before the split. [Z] (A)
+- Giglians are supposed to look smooth, so they can have a head that looks smiley/glaggle-esque. [Z] (M)
+  - Context: why they have no gills ([organs ^no-gills](organs.md#^no-gills)).
 
 ### Wounds and healing
 
@@ -72,6 +74,12 @@ Giglians are [distributed, slime-mold-like organisms whose growth is consciously
 ## Unconfirmed
 
 - Claude described salamander blastema regrowth and dedifferentiation, and noted cut nerves block regeneration in newts. [C] (A)
+
+### Low gravity (Chat M; Zach: [lower gravity would suit gelatinous beings](../world/giglos-world.md#^low-g))
+
+- The pressure a body needs to hold its shape grows with gravity × height; at half Earth gravity a giglian of the same height needs about half the holding pressure to stand, leaving more of the budget for circulation, speech and joy. [C] (M)
+- Under low gravity the square-cube squeeze sets in later, which helps a somewhat humanoid base form without a skeleton. [C] (M)
+- Falls hurt less: a gel body hits the ground at lower speed; this changes combat and makes climbing easier. [C] (M)
 
 ## Open questions
 

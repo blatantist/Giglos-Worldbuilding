@@ -1,8 +1,8 @@
 # Giglos as a World
 
-> Sources: Giglos Wiki Source, 2026-10-29; Chat J transcript, 2026-10-30
-> Raw: [Giglos Wiki Source § Naming, terminology, setting basics](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Naming%2C%20terminology%2C%20setting%20basics); [Giglos Wiki Source § Stub pages](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Stub%20pages%20%28little%20or%20no%20material%20yet%29); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md)
-> Updated: 2026-10-30
+> Sources: Giglos Wiki Source, 2026-10-29; Chat J transcript, 2026-10-30; Chat M transcript, 2026-11-04
+> Raw: [Giglos Wiki Source § Naming, terminology, setting basics](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Naming%2C%20terminology%2C%20setting%20basics); [Giglos Wiki Source § Stub pages](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Stub%20pages%20%28little%20or%20no%20material%20yet%29); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md); [Chat M transcript](../../raw/chats/2026-11-04-chat-M.md)
+> Updated: 2026-11-04
 > Kind: draft
 
 ## Overview
@@ -10,6 +10,8 @@
 What existed before Chat J: "Third moon of Giglos" ([naming](naming-and-terminology.md)), a very humid atmosphere ([ecology](ecology-and-evolution.md)), and open desert at the city edge ([the city](../society/the-city.md)). The last two are in tension (T6, see [tensions](../meta/tensions.md)).
 
 Chat J covered astronomy and climate. Zach's starting constraints: [overly long days and nights would push temperatures to extremes](#^long-nights), [an atmosphere helps trap and propagate heat](#^atmo-heat), and he was already assuming a [dense (more than Earth, less than Venus) and damp atmosphere](#^dense-damp), alongside the existing [very humid atmosphere](ecology-and-evolution.md#^humid). He settled an [11 day total day–night cycle](#^eleven-day), that Giglos is [tidally locked](#^tidal-lock), [no constant rain](#^no-constant-rain), and a [tilted orbit so total eclipses are rare](#^tilted-orbit): a [~30 degree tilt](#^tilt-30), with the moon orbiting the equator of a [planet rotated 30 degrees](#^planet-tilt-30), a [~4 year planet orbit](#^year-4) and a [brighter sun](#^brighter-sun). The layout is [a ring, then two smaller moons, then Giglos third](#^ring-layout). Naming: the [planet and sun stay unnamed for now](#^unnamed), and [Giglos is an exonym for the system and the third moon](#^exonym). He agreed to a [planet year of a few Earth years](#^planet-year) ([C+]) and likes Claude's time-of-day weather ideas for now ([C+], at his request), with [detail deferred to the late polish passes](#^weather-deferred). The [spore-rhythm idea](#^spore-rhythm) is noted as a possible background idea only, explicitly not canon yet ([C+]). He wants [high clouds, so there's rarely clear sky](#^high-clouds). His earlier sideways moon orbit and far orbit are superseded ([X], see History). Everything on eclipses, orbit distance and how a long night stays mild is Claude's unconfirmed physics ([C]). Several earlier [OPEN]s are answered in Chat J and marked resolved; the lines stay.
+
+Chat M: Zach called the open desert outdated (T6 resolved; see [ecology](ecology-and-evolution.md#^no-desert)). The [atmosphere is dense and tall, with very tall cloud columns](#^tall-atmo). He set the moon at [about 2/3 Earth's radius and 0.66 g](#^gravity), [more massive than Mars](#^more-than-mars), because [lower gravity suits gelatinous beings](#^low-g). Claude's derived figures (Earth-like density, ~0.29 Earth mass) are [C+]. That the moon heats evenly is Zach's tentative view ([Z?]); Claude's heat-transport and climate explanation is unconfirmed ([C]).
 
 ## Canon
 
@@ -44,6 +46,17 @@ Chat J covered astronomy and climate. Zach's starting constraints: [overly long 
 - For now the planet and sun are left unnamed until Zach works out the language. [Z] (J) ^unnamed
 - Giglos is used as an exonym for both the system and the 3rd moon itself. [Z] (J) ^exonym
 - Giglos is tidally locked ("yes tidally locked, i thought that was a clear result by the numbers so far"). [Z] (J) ^tidal-lock
+### Size, gravity and atmosphere (Chat M)
+
+- The atmosphere is pretty dense and tall, with very tall cloud columns. [Z] (M) ^tall-atmo
+- Lower gravity would suit gelatinous beings. [Z] (M) ^low-g
+- Zach was assuming Giglos is more massive than Mars, because Mars is relatively not-dense compared to its size (~10% the mass and ~half the size of Earth). [Z] (M) ^more-than-mars
+- Around 2/3 Earth's radius, with whatever mass and density would give it 0.66 g. [Z] (M) ^gravity
+- Those numbers work out to an Earth-density moon: radius ~0.67 Earth (~4,250 km), density ~0.99 Earth (about 5.5 g/cm³), mass ~0.29 Earth, escape velocity ~7.4 km/s. [C+] (M)
+  - Claude's arithmetic (M11) for the values Zach asked for ("whatever mass/density would give it 0.66 g").
+- A warm, wet, denser-than-Earth atmosphere suggests a moderate middle ground, roughly Mars to two-thirds of Earth's gravity, not Titan-light. [C+] (M)
+  - Claude (M7); Zach answered "yea i was assuming more massive than mars" (M8).
+
 - Fungal spore release rhythm partially influencing weather: Claude's idea, which Zach asked to note down "as a possible idea, but i'm not calling that final/canon yet"; not really necessary to the game, "just a cool background fact for the lore bible". [C+] (J) ^spore-rhythm
 
 - Zach likes Claude's weather ideas "as is good for now"; mark them as Claude's idea, but [C+]. [Z] (J) ^weather-cplus
@@ -69,6 +82,7 @@ Detail deferred to late polish passes ([deferral](#^weather-deferred)).
 > **Status: Outdated** (2026-10-29)
 > Clarified later in Chat J: Zach confirmed an ["11 day total cycle"](#^eleven-day) [Z] (J).
 
+- Zach doesn't know how much a hot zone like Earth's equator would matter (or what that zone would be on the moon's orbit), because of all that air for light radiation to scatter through; he thinks that'd make the moon heat more evenly. [Z?] (M) ^even-heating
 - Two more moons fitted in between Giglos and the planet ("would it make sense to fit 2 more moons in between it and the planet?"), more like a belt/ring containing 2 main large bodies. [Z?] (J) ^inner-moons
 
 > **Status: Outdated** (2026-10-29)
@@ -77,6 +91,26 @@ Detail deferred to late polish passes ([deferral](#^weather-deferred)).
 ## Unconfirmed
 
 - Moon habitability: Claude noted a moon needs enough gravity or magnetic shielding to hold a thick wet atmosphere, and suggested a Titan-like body with tidal heating. [C] (C)
+
+### Heat spread and climate (Chat M)
+
+- The moon heats fairly evenly, but the main reason is heat transport, not scattering. [C] (M)
+- Scattering and clouds make the light even (soft, shadowless, diffuse brightness, much sunlight reflected off the high cloud tops), but mostly send light up or down, not sideways; the equator still takes in more energy at the top of the atmosphere. [C] (M)
+- A dense atmosphere holds a lot of heat and carries it poleward in large circulation loops; dense air holds more heat per volume, so winds move far more of it. [C] (M)
+- Slow rotation: the 11-day cycle means a weak sideways force, so circulation loops can stretch from equator to pole instead of three bands per hemisphere. [C] (M)
+- Venus (dense, very slow) has almost no temperature difference from equator to pole or day side to night side; Titan (dense, 16-day cycle) differs by only a few degrees. [C] (M)
+- The moon's spin axis is probably tilted about 30° relative to the sun, giving a tropical band roughly ±30° wide, with seasons on the ~4-year planet orbit, softened a lot by thick air. [C] (M)
+- The dry spots are where the big loops sink back down; with pole-spanning loops that is near the poles, and with this much moisture "less wet," not desert. [C] (M)
+- Assumptions: the moon's spin axis lines up with its orbit (normal for tidal locking), and the 11-day cycle is its rotation period. [C] (M)
+
+### Gravity and size (Chat M)
+
+- Low gravity makes a warm, dense atmosphere hard to keep: light moons slowly lose gas to space; Titan manages at 0.14 g only because it's very cold. [C] (M)
+- Mars: about 11% of Earth's mass, a bit over half its radius, about 70% of Earth's density, 0.38 g; surface gravity scales with density × radius. [C] (M)
+- Earth-density options: radius 0.53 gives ~0.15 mass and ~0.53 g; 0.6 gives ~0.22 and ~0.6 g; 0.7 gives ~0.34 and ~0.7 g; the 0.5–0.7 g band suits both gel bodies and holding the atmosphere. [C] (M)
+- A large molten iron core makes a magnetic field more likely, shielding the atmosphere; tidal flexing from the planet would keep the core molten. [C] (M)
+- The planet has to be a giant: Ganymede is about 2.5% of Earth's mass, so a moon of 15–35% Earth mass needs a very large host, likely a gas giant several times Jupiter's mass. [C] (M)
+- The 73% vs 71% density gap is rounding: 0.11 and 0.53 give ~74%, Mars's exact figures (0.107 and 0.532) give ~71%. [C] (M)
 
 ### Shadow and eclipses (Chat J)
 

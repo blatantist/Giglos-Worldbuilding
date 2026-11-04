@@ -1,13 +1,13 @@
 # Ecology and Deep-Time Evolution
 
-> Sources: Giglos Wiki Source, 2026-10-29
-> Raw: [Giglos Wiki Source § Ecology and deep-time evolution](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Ecology%20and%20deep-time%20evolution); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md)
-> Updated: 2026-10-30
+> Sources: Giglos Wiki Source, 2026-10-29; Chat M transcript, 2026-11-04
+> Raw: [Giglos Wiki Source § Ecology and deep-time evolution](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Ecology%20and%20deep-time%20evolution); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat M transcript](../../raw/chats/2026-11-04-chat-M.md)
+> Updated: 2026-11-04
 > Kind: draft
 
 ## Overview
 
-The aim is a feasible account of [speciation among asexual Giglian-like organisms](#^goal). The [species boundary is mergeability](#^mergeability) ([C+]: Claude's proposal, which Zach liked), [dominant flora are fungi](#^fungi), and a [genome fixes the catalog of parts](#^vocab) an individual can arrange. Most of the deep-time mechanism is still Claude's unconfirmed proposal.
+The aim is a feasible account of [speciation among asexual Giglian-like organisms](#^goal). The [species boundary is mergeability](#^mergeability) ([C+]: Claude's proposal, which Zach liked), [dominant flora are fungi](#^fungi), and a [genome fixes the catalog of parts](#^vocab) an individual can arrange. Most of the deep-time mechanism is still Claude's unconfirmed proposal. Chat M: the [atmosphere is too dense and wet for deserts; most land would be covered in fungi-like flora](#^no-desert), which resolves T6.
 
 ## Canon
 
@@ -17,8 +17,10 @@ The aim is a feasible account of [speciation among asexual Giglian-like organism
 - Deep-time lineage of mobile "fungi": free-floating bacteria-like cells, slime-mold-like organisms, proto-plants, many lineages rising and falling over billions of years, larger multicellular slime or fungus-like swimmers and sedentary filter feeders, then plants and animals on land. Order not fixed. [Z] (C)
 - Very humid atmosphere is accepted as implied by the ecology. [Z] (C) ^humid
 
-> **Status: Disputed**
-> T6: the city's outer ring ends in open desert ([the city](../society/the-city.md)). Recorded in [tensions](../meta/tensions.md), unresolved.
+> T6 (vs the city's open-desert edge) resolved by Zach in chat M (M2): "The open desert is outdated." See [tensions](../meta/tensions.md) and [^no-desert](#^no-desert).
+
+- The atmosphere is too dense and wet to support a desert; most land would be covered in fungi-like flora. [Z] (M) ^no-desert
+  - Zach says another previous chat discussed this. Zach, 2026-11-04 wrap-up review: what he remembered was Claude's question in chat E (E1), which noted the humid atmosphere and fungal ecology against the open-desert edge and asked how the desert works.
 
 - Genome as vocabulary: each species' genome fixes which organs and cell types it can grow (a bird analog grows bird eyes and wings; a Giglian grows a Giglian eye, arm and hand). Within that catalog the individual chooses arrangement and count. A bird analog could learn a more hand-shaped wing but stays bounded by its biology. [Z] (D) ^vocab
 - Heredity of learned skill is real for them because they physically inherit the substrate holding experience; Zach agreed this looks Lamarckian but is true given their function. [Z] (C)
@@ -46,8 +48,12 @@ The aim is a feasible account of [speciation among asexual Giglian-like organism
 ## Open questions
 
 - Are there fixed-body ambulating animals (limbs, shells, bones), or does every mobile creature share some plasticity? [OPEN] (C)
-- How the city's surrounding open desert squares with a humid world (rain shadow, water diverted inward, something else). [OPEN] (E)
 - The planet's other species and flora: see [other species and flora](other-species-and-flora.md).
+
+## History
+
+- How the city's surrounding open desert squares with a humid world (rain shadow, water diverted inward, something else). [OPEN] (E)
+  - Resolved 2026-11-04: see [^no-desert](#^no-desert) (M2).
 
 ## See Also
 

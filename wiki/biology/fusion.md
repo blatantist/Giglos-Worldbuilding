@@ -1,8 +1,8 @@
 # Fusion (Merging)
 
-> Sources: Giglos Wiki Source, 2026-10-29
-> Raw: [Giglos Wiki Source § Mitosis, fusion, dissolution and death](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Mitosis%2C%20fusion%2C%20dissolution%20and%20death); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md)
-> Updated: 2026-10-29
+> Sources: Giglos Wiki Source, 2026-10-29; Chat M transcript, 2026-11-04
+> Raw: [Giglos Wiki Source § Mitosis, fusion, dissolution and death](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Mitosis%2C%20fusion%2C%20dissolution%20and%20death); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat M transcript](../../raw/chats/2026-11-04-chat-M.md)
+> Updated: 2026-11-04
 > Kind: draft
 
 ## Overview
@@ -22,6 +22,7 @@ Fusion [allows gene mixing, a marriage analog and inner-circle inbreeding](#^why
 - Monks syncing memory by ritual fusion. [C] (C)
 - Practicing clean splits by splitting then fusing back. [C] (C)
 - Failed fusion leaving a necrotic scar. [C] (C)
+- If immunity is allorecognition, infection is a version of the same problem as fusion: fusion means deliberately suspending the defense that normally kills a foreign body, and failed-fusion scars become immune rejection. [C] (M)
 
 ## See Also
 
