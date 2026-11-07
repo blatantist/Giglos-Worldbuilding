@@ -1,17 +1,21 @@
 # Giglian Organs
 
-> Sources: Giglos Wiki Source, 2026-10-29; Chat L transcript, 2026-11-02; Chat M transcript, 2026-11-04
-> Raw: [Giglos Wiki Source § Giglian biology](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Giglian%20biology); [Giglos Wiki Source § Stub pages](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Stub%20pages%20%28little%20or%20no%20material%20yet%29); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat L transcript](../../raw/chats/2026-11-02-chat-L.md); [Chat M transcript](../../raw/chats/2026-11-04-chat-M.md)
-> Updated: 2026-11-04
+> Sources: Giglos Wiki Source, 2026-10-29; Chat L transcript, 2026-11-02; Chat M transcript, 2026-11-04; Chat N transcript, 2026-11-07
+> Raw: [Giglos Wiki Source § Giglian biology](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Giglian%20biology); [Giglos Wiki Source § Stub pages](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Stub%20pages%20%28little%20or%20no%20material%20yet%29); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat L transcript](../../raw/chats/2026-11-02-chat-L.md); [Chat M transcript](../../raw/chats/2026-11-04-chat-M.md); [Chat N transcript](../../raw/chats/2026-11-07-chat-N.md)
+> Updated: 2026-11-07
 > Kind: draft
 
 ## Overview
 
 Zach has a [required list](#^required) of functions. The phonology work (beak, fused tongue, no nose) partly settles the mouth; see [phonology](../language/phonology.md).
 
-Chat L sketched respiration. [The mouth is the exhaust](#^mouth-exhaust), outgassing byproducts and venting overpressure as an involuntary giggle. [Pressure circulates the diffused air, and that is the Joy mechanism](#^joy-circulation), so breathing is easier when joyous. [Giglians can close their mouth](#^mouth-close), but [holding your breath stops the filtration](#^no-filtration), and [holding it can feign joy, noticeably](#^feign-joy). No lungs, local pore sealing and carbonic-acid buildup are tentative ([Z?]); [pore intake](#^pores) was promoted to [Z] after chat M. The exact circulatory biology is still to be worked out (see T2 in [tensions](../meta/tensions.md)).
+Chat L sketched respiration. [The mouth is the exhaust](#^mouth-exhaust), outgassing byproducts and venting overpressure as an involuntary giggle. [Pressure circulates the diffused air, and that is the Joy mechanism](#^joy-circulation), so breathing is easier when joyous. [Giglians can close their mouth](#^mouth-close), but [holding your breath stops the filtration](#^no-filtration), and [holding it can feign joy, noticeably](#^feign-joy). [No lungs](#^no-lungs) was promoted to [Z] after chat N; local pore sealing and carbonic-acid buildup are tentative ([Z?]); [pore intake](#^pores) was promoted to [Z] after chat M. Circulation was tension T2 in [tensions](../meta/tensions.md); Zach resolved it in chat N.
 
 Chat M firmed up intake. [Baseline holding pressure is circulated through the porous tissue, fed by skin pores](#^holding-pressure). Giglians [have no gills or similar macro-scale structures, so they look smooth](#^no-gills), and Zach chose [pores as the intake system](#^pore-intake). The skin membrane as an entry point for invaders is tentative ([Z?]), and the body [keeps out large debris, then filters out or attacks invading cells](#^defense), whatever their world's [equivalent of bacteria and viruses](#^invaders) is. Skin oxygen exchange and evenly spread pores are tentative ([Z?]). The layered immune system (allorecognition and the rest) is Claude's unconfirmed proposal ([C]).
+
+Chat N settled circulation: [a foam channel circulatory system with pore input and mouth exhaust output](#^foam-circulation). It is [porous tissue that air can flow through in any direction](#^porous), with [constant circulation seeded by pores locally supplying flow](#^local-supply), and [the mouth acts as a filtered pressure relief valve](#^relief-valve). [Pores are an active intake](#^active-intake), [somewhat gated so circulation only promotes intake](#^gated), and [the foam muscle pushes while the exhale pulls](#^push-pull). [Involuntary giggling is part of homeostasis](#^giggle-homeostasis): [holding the valve inflates the body sponge and builds up toxins](#^hold-valve) until [the body forces a giggle](#^forced-giggle). The liquid side, the foam's Plateau borders carrying a plasma-equivalent, is Claude's proposal that Zach liked ([C+], [^plateau](#^plateau)); a heart-like pump organ is tentative ([Z?]).
+
+Speech capacity rests on [three variables](#^three-variables): [held pressure, the tank](#^tank), [circulation skill](#^circ-skill) and [valence, the compressor strength](#^valence-scalar). [Body mass is the literal tank size](#^tank-mass), with [a square-cube size trade-off](#^square-cube). [Faking joy means holding a big breath and dumping it](#^faker), possible by [practicing to disable the giggle reflex, which is dangerous](#^reflex-suppression); [trained circulation lets a giglian talk continuously](#^continuous-speech), but [only as strongly as valence allows](#^valence-compressor).
 
 ## Canon
 
@@ -26,6 +30,8 @@ Chat M firmed up intake. [Baseline holding pressure is circulated through the po
   - Zach, 2026-11-03 ingest review: "inflate" here and "aerate" ([body and growth](body-and-growth.md)) are mostly interchangeable: they inflate by foaming their porous flesh. Not a tension.
 - Holding your breath means the filtration doesn't work. [Z] (L) ^no-filtration
 - A person could feign being more joyous by holding their breath enough to appear higher baseline pressure, but it would of course be noticeable as an act. [Z] (L) ^feign-joy
+- They don't have lungs; rather their tissue is a porous pressure vessel they push fluid and air in (Zach: "idk which makes sense"). [Z] (L) (was [Z?], promoted 2026-11-07) ^no-lungs
+  - Promoted at Zach's say-so in the chat N wrap-up review ("no lungs."), on the strength of [^foam-circulation](#^foam-circulation) and [^porous](#^porous).
 - Pumping gas through the foam is the "pressure", so vigor, valence and ventilation become the same variable. [C+] (L)
   - Claude (L39); Zach built on it in L42 ([^joy-circulation](#^joy-circulation)).
 
@@ -47,9 +53,50 @@ Chat M firmed up intake. [Baseline holding pressure is circulated through the po
 - Incoming external cells and debris would be handled: keeping out large debris, then either filtering out or attacking invading cells. [Z] (M) ^defense
 - The invaders are whatever their world's equivalent of bacteria and viruses is: invading organisms and agents. [Z] (M) ^invaders
 
+### Circulation (N0–N8)
+
+- Tension T2 gets replaced by the foam channel circulatory system with pore input and mouth exhaust output. [Z] (N) ^foam-circulation
+  - Resolves T2 in [tensions](../meta/tensions.md) (Zach, N0).
+- It wouldn't be long channels anyway; it'd be porous tissue that air can flow through in any direction. [Z] (N) ^porous
+- There's constant circulation through the body, seeded by pores locally supplying flow. [Z] (N) ^local-supply
+  - Zach's correction (N4) of Claude's option B; see History.
+- The mouth just acts as a filtered pressure relief valve. [Z] (N) ^relief-valve
+- The pores are an active intake that sucks in air as circulating air rushes past it. [Z] (N) ^active-intake
+- Pores are somewhat gated: the circulation only promotes intake. [Z] (N) ^gated
+- Exhausting would probably help promote circulation: the foam muscle can squeeze air along, but the exhale provides a larger pressure gradient that could help the cycle, like you push with muscle then pull with exhaust. [Z] (N) ^push-pull
+- Involuntary giggling, pressure relief, is part of homeostasis. [Z] (N) ^giggle-homeostasis
+- If they hold the valve for too long, the body sponge inflates from pore intake and toxin buildup happens, which exhausting solves. [Z] (N) ^hold-valve
+- Holding the valve also circulates new air slower, so it is replaced slower. [Z] (N)
+- Holding your breath simply inflates you, until your body forces you to giggle. [Z] (N) ^forced-giggle
+- The foam holds two interleaved networks: gas in the bubbles and channels, and the liquid plasma-equivalent in the Plateau borders (the liquid tubes where three bubble walls meet), moved by the same pressure pulses or by slime-mold-style back-and-forth streaming. [C+] (N) ^plateau
+  - Claude's option C (N3); Zach (N4): "i like the idea of C".
+- Saturated air keeps the Plateau borders from drying out. [C+] (N)
+  - Claude (N3), part of option C, building on Zach's maximum-humidity idea (N2).
+
+### Breath control and speech (N8–N16)
+
+- For feigned joy, you could practice disabling the giggle reflex, like the human gag reflex; which would of course be dangerous. [Z] (N) ^reflex-suppression
+  - Extends [^feign-joy](#^feign-joy).
+- If you practice the other side, the circulation muscles, you could learn to circulate well enough to continue talking continuously, holding up the pressure gradient to the exhaust with strong circulation; similar to learning proper breath support and vocal technique in humans. [Z] (N) ^continuous-speech
+- Valence allows the trained giglian to perform circulation well: even if you can control your muscles well, at low valence you won't be able to send the signals as strong. [Z] (N) ^valence-compressor
+  - Bears on [joy and mood ^vigor](../society/joy-and-mood.md#^vigor).
+- Speaking in bursts, due to valence and circulation control, is like artificial lung size and compressor strength; there are three variables. [Z] (N) ^three-variables
+- Held pressure: the lung/tank, really not size but pressure; it changes size because it's an elastic vessel. This is the overall supply you have to speak. [Z] (N) ^tank
+- Circulation skill: controlling circulation better so it doesn't just locally pool and only circulate at the exhaust, promoting a proper loop through the body instead. [Z] (N) ^circ-skill
+- Valence: lets you put more effort into circulation, the overall compressor strength scalar. [Z] (N) ^valence-scalar
+- Someone feigning valence or skill holds a big, inflated breath, then speaks for a while until they deflate and need to build pressure again; they both over- and under-inflate to speak. [Z] (N) ^faker
+- The feigner can speak as long as a semi-skilled person (one who can't yet circulate well enough to speak continuously), but in a less controlled manner, because it's just a long exhaust from over-pressure to under. [Z] (N)
+- Someone skilled can hold the pressure needed to speak continuously; also healthy, but requires training, and naturally the most controlled and eloquent. [Z] (N)
+- Someone speaking with normal (a bit above neutral) valence speaks in controlled shorter bursts and has to stop to intake, staying at a healthy homeostasis of building and releasing. [Z] (N)
+- Stretch tolerance can be trained. [Z] (N) ^stretch
+- The other scale is literal tank size, meaning body size/mass: a larger giglian can naturally hold more volume. [Z] (N) ^tank-mass
+  - Growth: [body and growth ^eat-grow](body-and-growth.md#^eat-grow).
+- Size trade-off (square-cube): volume grows faster than surface, so a bigger giglian holds much more air but has fewer pores per unit of volume; refilling is relatively slower and the core is farther from fresh air. Big giglians get long phrases but long recoveries, and need more circulation skill to stay healthy, not less. [Z] (N) ^square-cube
+  - Claude's proposal (N15), adopted by Zach in N16: "yep note that size trade off as canon too". Social side: [government ^hedons](../society/government-and-founder.md#^hedons).
+
 ## Tentative
 
-- They don't have lungs; rather their tissue is a porous pressure vessel they push fluid and air in (Zach: "idk which makes sense"). [Z?] (L) ^no-lungs
+- Maybe some other pump organ, kinda like a heart, but idk if that's necessary. [Z?] (N)
 - A giglian can hold their pores shut on a specific part of their body (just tightening the skin). [Z?] (L) ^pore-seal
 - A sealed region can't take in air, but circulation under the surface would supply that region, just not as locally. [Z?] (L) ^sealed-supply
   - Bears on T2 (circulation) in [tensions](../meta/tensions.md).
@@ -119,18 +166,58 @@ Chat M firmed up intake. [Baseline holding pressure is circulated through the po
 - In the tissue, the immune system *is* allorecognition: any cell that isn't "self" gets engulfed (building on the [C] ancestry story in [ecology](../world/ecology-and-evolution.md)). [C] (M)
 - A likely nastiest threat is a free-living cell that joins the body and passes the self-check instead of attacking it: the ancestry story's cheater turned into a disease, close to cancer. [C] (M)
 
+### From chat N: circulation and breath (Claude)
+
+- Water vapor can't carry the plasma-equivalent: dissolved salts, sugars and proteins stay behind when water evaporates. [C] (N)
+- Option A: mist instead of vapor, with the plasma-equivalent dissolved in droplets that stick to the channel walls. [C] (N)
+- In real foams, liquid flows through the connected Plateau borders ("foam drainage"). [C] (N)
+- With option C, no structure is a vessel, so "no veins" survives, and G-force resistance mostly survives because the liquid is spread thin. [C] (N)
+- With option C, collapse floods the Plateau borders as well as closing the gas channels. [C] (N)
+- No heart is needed: the foam muscle is the pump, like *Physarum* shuttle streaming (rhythmic squeezing of its tube walls, reversing every minute or two) or human lymph moved by ordinary muscle movement. [C] (N)
+- A slow, subconscious pulsing of the foam, run by homeostatic control, with movement adding to it; a visible pulse a medic could read. [C] (N)
+- A completely motionless giglian circulates less, so fidgeting, swaying or chatting might help. [C] (N)
+- Damage is local: a crushed or scarred region stops pumping and goes numb. [C] (N)
+- A larger, denser pumping region in the core could feed the brain-analog, as an evolved organ rather than a necessity. [C] (N)
+- Sea sponges (Porifera) as the model: many small intake pores (ostia), a porous body, one large exhaust (osculum), and flow past the exhaust drawing fresh water in (Bernoulli's principle). [C] (N)
+- Talking and laughing are physically good for a giglian: each exhale drives circulation, linking into the joy loop. [C] (N)
+- Suppressing the giggle reflex is like freediving: with the urge gone, nothing warns before failure (shallow-water blackout); a suppressor stays composed while toxins build, then fine control, growth signaling or the whole body fails suddenly; some may have died mid-speech. [C] (N)
+- Trained continuous speech is like circular breathing (didgeridoo players, glassblowers); speech rhythm is audible and marks training and maybe class (orators flow, laborers speak in clipped bursts). [C] (N)
+- Real joy is high pressure and high flow; a reflex suppressor is high pressure, low flow; a trained circulator is moderate-to-high pressure, high flow. [C] (N)
+- Since valence powers circulation, flow is an honest signal: the only way to fake joy is suppression, and a trained ear can hear whether flow is real. [C] (N)
+- A miserable trained orator keeps clean form and phrasing but sounds thin and short-winded. [C] (N)
+- Depression self-reinforces: low valence weakens the signals, circulation drops, toxins build and vigor falls further. [C] (N)
+- The faker's refill is slow too: holding means low circulation and weak pore suction, so the dump is followed by a long, conspicuous pause. [C] (N)
+- Skill without valence: proper loop but weak compressor; continuous speech only quietly, or the normal burst pattern at lower volume. [C] (N)
+- Valence without skill: enthusiastic but choppy speech with loud bursts that run out quickly; suits excited, untrained giglians, maybe the young or recently split. [C] (N)
+- Under exertion an unskilled giglian gets local stale patches where air pools, like a stitch in the side. [C] (N)
+- Size tracks food, and food is political: inner-ring elites are bigger with longer phrases, outer-ring giglians smaller with shorter bursts, so you could hear someone's ring in their speech. [C] (N)
+- Splitting halves your voice: a freshly split giglian speaks in shorter bursts until they eat back up. [C] (N)
+- Mass is the slow, expensive scale (months of food); stretch tolerance is the cheap, trainable one, with a risk ceiling. [C] (N)
+
 ## Open questions
 
 - Missing: decisions on eyes, hearing, digestion, respiration, filtering, waste. [OPEN] (source stub list)
-- Do the internal channels have a deliberate branching structure (larger trunks feeding finer ones, as in insect tracheae), or just the foam's random porosity? [OPEN] (L)
-- Does acid buildup also push involuntary giggling, so that a stifled giggle eventually forces itself out? [OPEN] (L)
 - Do viruses exist the same way when the hosts' cells have no walls? Or is the main threat something that mimics "self" tags? [OPEN] (M)
 - Does venting spread disease? Every giggle exhales the pathogens it cleared, so a crowd laughing together would spread illness. [OPEN] (M)
+- Are the pores gated by physical flaps, or some other way? (Zach: "idk about physical flaps") [OPEN] (N)
+- Does valence weaken all bioelectric signaling (growth, reshaping, healing), or only circulation? [OPEN] (N)
 
 ## History
 
+- Do the internal channels have a deliberate branching structure (larger trunks feeding finer ones, as in insect tracheae), or just the foam's random porosity? [OPEN] (L)
+  - Resolved 2026-11-07: see [^porous](#^porous) (N4)
+- Does acid buildup also push involuntary giggling, so that a stifled giggle eventually forces itself out? [OPEN] (L)
+  - Resolved 2026-11-07: see [^hold-valve](#^hold-valve), [^forced-giggle](#^forced-giggle) (N6, N8)
 - The mouth never seals fully; exhaust stays open regardless, so waste gas still clears even when the skin is closed. [X] (L)
   - Claude's claim (L45). Replaced by: they can close their mouth, at the cost of filtration ([^mouth-close](#^mouth-close), [^no-filtration](#^no-filtration); Zach, L46).
+- One possibility is that it holds air at maximum humidity, with the water/fluid vapor holding plasma equivalent etc. [X] (N)
+  - Zach's hedged idea (N2, was [Z?]); Claude noted vapor can't carry dissolved solutes (N3). Replaced by: the foam's liquid network, option C ([^plateau](#^plateau); Zach, N4).
+- Option B: a thin liquid film on the channel walls carries the plasma, swept only toward the exhaust by the airflow. [X] (N)
+  - Claude (N3). Zach corrected the flow direction: constant circulation seeded locally by pores ([^local-supply](#^local-supply); N4).
+- Pores exchange both ways, leaking waste gas locally, with the mouth only venting excess pressure. [X] (N)
+  - Claude's option 2 (N5). Replaced by: pores as an active intake ([^active-intake](#^active-intake); Zach, N6).
+- Self-limiting intake: as circulation slows, pore suction stalls once inside pressure matches it, so holding the breath plateaus. [X] (N)
+  - Claude's option 2 (N7). Replaced by: holding your breath inflates you until the body forces a giggle ([^forced-giggle](#^forced-giggle); Zach, N8).
 
 ## See Also
 

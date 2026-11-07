@@ -38,6 +38,7 @@ Chat L made pressure more literal. [Speech pressure and body pressure are relate
 
 - Speech/"breath" pressure can be related to body pressure, because valence is also physical vigor. [Z] (L) ^vigor
   - Breathing and joy: [organs ^joy-circulation](../biology/organs.md#^joy-circulation); faking joy by holding your breath: [organs ^feign-joy](../biology/organs.md#^feign-joy).
+  - Valence as the compressor strength of circulation (N): [organs ^valence-compressor](../biology/organs.md#^valence-compressor), [^three-variables](../biology/organs.md#^three-variables).
 - Within the current idea, "leaky" doesn't quite make sense, since an uncontrolled burst is a leak; leaking would be the process of becoming depressed, and strained speech would be strained because they are deflated, low pressure. Zach is not sure how literal that is, but it is at least how it is conceptualized. [Z] (L) ^leak-process
   - Refines [^leaky](#^leaky) (D). Zach, 2026-11-03 ingest review: leaky means someone falling into depression. Not a tension.
   - Bodily deflation as shrinking from atrophy, separate from exhaling: see [conlang ^deflate-vs-exhale](../language/conlang.md#^deflate-vs-exhale).

@@ -103,3 +103,19 @@
 ## [2026-11-04] lint | changed pages after chat M ingest
 - 0 evidence errors, 0 unreferenced raw files; new fidelity suspects are review and resolution dates and the T6 resolution note
 - check_evidence.py fails on the system Python 3.9 (`str | None` annotation); ran it with postponed annotations. Reported, not fixed
+
+## [2026-11-07] ingest | Chat N "Foam circulation, speech breath model and Glasgo's origin" (Claude Code session)
+- Disposition: Update (session wrap-up; drafted on session/2026-11-07-N, verified, Zach's answers applied)
+- Raw: raw/chats/2026-11-07-chat-N.md (turns N0–N36)
+- biology/organs: +25 [Z], +1 [Z?], +2 [C+], +25 [C], +2 [OPEN], +4 [X]; ^no-lungs promoted [Z?] → [Z] (was [Z?], promoted 2026-11-07); 2 [OPEN] (L) closed via N4, N6, N8
+- biology/body-and-growth: +2 [Z], +3 [C]; T2 Disputed blocks replaced by a resolution note; "No veins or bloodflow" marked Outdated (no-bloodflow part), G-force resistance kept
+- biology/mitosis +2 [Z], +2 [Z?]; game/premise-and-protagonist +6 [Z], +3 [C], +1 [X]; society/government-and-founder +9 [Z], +1 [Z?], +1 [C+], +3 [C], +1 [X]
+- game/characters (stub) +3 [Z]; meta/glossary +2 [Z] (Glasgo, Hedons); biology/fusion and government ^restore get Zach's review note on fusion; joy-and-mood cross-link
+- Meta: sources adds N; rejected-ideas rows 34–39; tensions T2 resolved by Zach (N0), T1 and T10 gain chat N related lines
+- Square-cube size trade-off (Claude N15) and the post-split visibility inversion (Claude N29) tagged [Z] at Zach's explicit word (N16, N34)
+- [X] collision flagged and not added: Claude's three RPG speech stats (N17) vs rejected row 9
+- Zach's review answers: Claim A kinda outdated but G-force resistance stays (extreme rollercoaster-like transit, "Glaggleland"); no lungs; iffy on fusion in general (self-recognition would reject it unless close in the mitosis tree), not a tension; glossary entries added; characters stub grown a bit; all else as proposed
+
+## [2026-11-07] lint | changed pages after chat N ingest
+- 0 evidence errors, 0 unreferenced raw files; fidelity suspects are review and resolution dates only
+- check_evidence.py still fails on the system Python 3.9 (`str | None` annotation); ran it with postponed annotations. Reported, not fixed

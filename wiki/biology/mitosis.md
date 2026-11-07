@@ -1,13 +1,13 @@
 # Mitosis
 
-> Sources: Giglos Wiki Source, 2026-10-29
-> Raw: [Giglos Wiki Source § Mitosis, fusion, dissolution and death](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Mitosis%2C%20fusion%2C%20dissolution%20and%20death); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md)
-> Updated: 2026-10-29
+> Sources: Giglos Wiki Source, 2026-10-29; Chat N transcript, 2026-11-07
+> Raw: [Giglos Wiki Source § Mitosis, fusion, dissolution and death](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Mitosis%2C%20fusion%2C%20dissolution%20and%20death); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat N transcript](../../raw/chats/2026-11-07-chat-N.md)
+> Updated: 2026-11-07
 > Kind: draft
 
 ## Overview
 
-[One mechanism](#^one-mechanism), relaxing and re-holding pressure, underlies reproduction, depression and death. A split [needs a lot of food and intense concentration](#^requires), and the [psyche splits unevenly](#^psyche): a half keeps [about half the memories and loses about half the learned skill](#^half). Memory at a split is a recorded tension (T3).
+[One mechanism](#^one-mechanism), relaxing and re-holding pressure, underlies reproduction, depression and death. A split [needs a lot of food and intense concentration](#^requires), and the [psyche splits unevenly](#^psyche): a half keeps [about half the memories and loses about half the learned skill](#^half). Memory at a split is a recorded tension (T3). [Glasgo's split was deliberate and targeted](#^targeted), so it is not a tension with the half-and-half rule; [trimmed parts are usually thrown out](#^thrown-out).
 
 ## Canon
 
@@ -27,6 +27,14 @@
 - Clean (controlled) splits are a learned skill that mostly only elites get trained in. [Z] (C) See [education and clean splitting](../society/education-and-clean-splitting.md).
 - Family history is based on the setting of the split; Giglians far from home slowly diverge from the groupthink. [Z] (A)
 - Culture has a norm for what age or year to mitose, like when to have a baby. [Z] (C)
+- Glasgo's mitose from the founder was deliberate and targeted, so it is not a tension with [^half](#^half). [Z] (N) ^targeted
+  - See [premise ^glasgo-split](../game/premise-and-protagonist.md#^glasgo-split).
+- They usually just throw the trimmed parts out. [Z] (N) ^thrown-out
+
+## Tentative
+
+- Trimming off bad parts surgically is probably a common thing. [Z?] (N)
+- Growing if they eat enough is probably part of the mitosis ritual: get big enough to support two fully grown halves. [Z?] (N)
 
 ## Unconfirmed
 
@@ -37,6 +45,7 @@
 ## Open questions
 
 - At what size is a severed piece a person rather than inert tissue? [OPEN] (A)
+  - Bears on Glasgo: the part trimmed from the long-unchanged founder tip was large enough to constitute a full being ([premise ^full-being](../game/premise-and-protagonist.md#^full-being)).
 - Is the customary split age one norm, or by trade and lineage? [OPEN] (C)
 
 ## History

@@ -1,13 +1,13 @@
 # Rejected Ideas
 
-> Sources: Giglos Wiki Source, 2026-10-29; Chat H "Wiki planning and agent design follow-up", 2026-10-29; Chat J transcript, 2026-10-30; Chat L transcript, 2026-11-02; Chat M transcript, 2026-11-04
-> Raw: [Giglos Wiki Source § Rejected or superseded ideas](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Rejected%20or%20superseded%20ideas); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat G transcript](../../raw/chats/2026-10-27-chat-G.md); [Chat H transcript](../../raw/chats/2026-10-29-chat-H.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md); [Chat L transcript](../../raw/chats/2026-11-02-chat-L.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat M transcript](../../raw/chats/2026-11-04-chat-M.md)
-> Updated: 2026-11-04
+> Sources: Giglos Wiki Source, 2026-10-29; Chat H "Wiki planning and agent design follow-up", 2026-10-29; Chat J transcript, 2026-10-30; Chat L transcript, 2026-11-02; Chat M transcript, 2026-11-04; Chat N transcript, 2026-11-07
+> Raw: [Giglos Wiki Source § Rejected or superseded ideas](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Rejected%20or%20superseded%20ideas); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat G transcript](../../raw/chats/2026-10-27-chat-G.md); [Chat H transcript](../../raw/chats/2026-10-29-chat-H.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md); [Chat L transcript](../../raw/chats/2026-11-02-chat-L.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat M transcript](../../raw/chats/2026-11-04-chat-M.md); [Chat N transcript](../../raw/chats/2026-11-07-chat-N.md)
+> Updated: 2026-11-07
 > Kind: draft
 
 ## Overview
 
-Registry of [X] items. Check here before writing any new claim; a match gets flagged to Zach, not added. Rows 1–27 are seeded from the source table; rows 28–29 come from inline [X] lines and Zach's first-ingest decisions; rows 30–31 from Zach's chat J wrap-up answers; row 32 from chat L; row 33 from chat M.
+Registry of [X] items. Check here before writing any new claim; a match gets flagged to Zach, not added. Rows 1–27 are seeded from the source table; rows 28–29 come from inline [X] lines and Zach's first-ingest decisions; rows 30–31 from Zach's chat J wrap-up answers; row 32 from chat L; row 33 from chat M; rows 34–39 from chat N.
 
 ## Registry
 
@@ -46,6 +46,12 @@ Registry of [X] items. Check here before writing any new claim; a match gets fla
 | 31 | Far orbit with a small shadow cone (was [Z?]) | 11 day total cycle, ~11 day moon orbit | (J) | rejected by Zach, 2026-10-30 | [giglos-world](../world/giglos-world.md) |
 | 32 | The mouth never seals fully; exhaust stays open regardless (Claude, L45) | They can close their mouth; they must exhale unless giggling or inflating, and holding the breath stops filtration (L46) | (L) | rejected by Zach | [organs](../biology/organs.md) |
 | 33 | The outer ring "ending in open desert" (was part of a [Z] line, E) | No deserts: the atmosphere is too dense and wet; most land covered in fungi-like flora (M2) | (E, M) | rejected by Zach, 2026-11-04 (resolves [T6](tensions.md)) | [the-city](../society/the-city.md) |
+| 34 | Saturated air whose water vapor holds the plasma-equivalent (was [Z?], N2) | The foam's liquid network: plasma-equivalent in the Plateau borders, option C ([C+]; Zach, N4) | (N) | replaced by Zach | [organs](../biology/organs.md) |
+| 35 | A wall film swept only toward the exhaust (Claude's option B, N3) | Constant circulation through the body, seeded by pores locally (Zach, N4) | (N) | rejected by Zach | [organs](../biology/organs.md) |
+| 36 | Pores exchange both ways, leaking waste locally; the mouth only vents excess pressure (Claude, N5) | Pores as an active intake that sucks in air as circulating air rushes past (Zach, N6) | (N) | rejected by Zach | [organs](../biology/organs.md) |
+| 37 | Self-limiting intake: holding the breath plateaus once pore suction stalls (Claude, N7) | Holding your breath inflates you until the body forces a giggle (Zach, N8) | (N) | rejected by Zach | [organs](../biology/organs.md) |
+| 38 | Protagonist as the memory-holding diluted tip with a big, untrained body (Claude's misreading, N17) | The founder got the memory and experience; Glasgo got the skill (Zach, N18) | (N) | replaced by Zach | [premise-and-protagonist](../game/premise-and-protagonist.md) |
+| 39 | The founder hidden from public eye behind the bureaucracy (was [Z?], N28) | The founder could be visible; the hedons limit the visibility (Zach, N30) | (N) | replaced by Zach | [government-and-founder](../society/government-and-founder.md) |
 
 ## See Also
 

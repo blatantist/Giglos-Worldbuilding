@@ -1,13 +1,13 @@
 # Tensions
 
-> Sources: Giglos Wiki Source, 2026-10-29; Chat L transcript, 2026-11-02; Chat M transcript, 2026-11-04
-> Raw: [Giglos Wiki Source § Tensions to flag, not resolve](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Tensions%20to%20flag%2C%20not%20resolve); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat B transcript](../../raw/chats/2026-10-05-chat-B.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat L transcript](../../raw/chats/2026-11-02-chat-L.md); [Chat M transcript](../../raw/chats/2026-11-04-chat-M.md)
-> Updated: 2026-11-04
+> Sources: Giglos Wiki Source, 2026-10-29; Chat L transcript, 2026-11-02; Chat M transcript, 2026-11-04; Chat N transcript, 2026-11-07
+> Raw: [Giglos Wiki Source § Tensions to flag, not resolve](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Tensions%20to%20flag%2C%20not%20resolve); [Chat A transcript](../../raw/chats/2026-09-23-chat-A.md); [Chat B transcript](../../raw/chats/2026-10-05-chat-B.md); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat D transcript](../../raw/chats/2026-10-19-chat-D.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat F transcript](../../raw/chats/2026-10-25-chat-F.md); [Chat L transcript](../../raw/chats/2026-11-02-chat-L.md); [Chat M transcript](../../raw/chats/2026-11-04-chat-M.md); [Chat N transcript](../../raw/chats/2026-11-07-chat-N.md)
+> Updated: 2026-11-07
 > Kind: draft
 
 ## Overview
 
-Registry of contradictions. Recorded, never resolved. Only Zach marks a tension resolved, and says how. Entries T1–T8 are seeded from the source's "Tensions to flag, not resolve" list; T9–T10 come from chat L. T6 was resolved in chat M.
+Registry of contradictions. Recorded, never resolved. Only Zach marks a tension resolved, and says how. Entries T1–T8 are seeded from the source's "Tensions to flag, not resolve" list; T9–T10 come from chat L. T6 was resolved in chat M, T2 in chat N.
 
 ## T1. Protagonist premise vs later Founder lore
 
@@ -15,6 +15,7 @@ Registry of contradictions. Recorded, never resolved. Only Zach marks a tension 
 - Claim B [Z] (C): "The original founder no longer exists"; and, retagged [C] (C) on 2026-10-29 (Claude's inference, chat C turn 43): "later lore says the original founder no longer exists and the Founder is a diluted lineage tip with memory but little skill, so the protagonist is half of that diluted ruler".
 - Pages: [premise-and-protagonist](../game/premise-and-protagonist.md), [government-and-founder](../society/government-and-founder.md)
 - Note: the source asks that this be shown as a refinement of the original premise, not a contradiction to resolve silently.
+- Related (N): the protagonist, Glasgo, was created when a political feud decided the current "founder" tip had too many counter-doctrinal ideas and too much ability, and forced them to mitose into a safe figurehead [Z] (N20); the founder got the memory and experience, Glasgo got the skill [Z] (N18); the head is "the founder" in quotes, not literally the same being [Z] (N24).
 - status: unresolved
 
 ## T2. Circulation
@@ -24,7 +25,7 @@ Registry of contradictions. Recorded, never resolved. Only Zach marks a tension 
 - Related (L): chat L lays circulation out further: "pressure to circulate the diffused air" [Z] (L42), and a sealed skin region supplied by "the circulation under the surface" [Z?] (L44). Zach, 2026-11-03 ingest review: the exact biology and circulatory system still need working out.
 - Related (M): "baseline holding pressure circulated through the porous body tissue, fed by pores in skin" [Z] (M0).
 - Pages: [body-and-growth](../biology/body-and-growth.md), [organs](../biology/organs.md)
-- status: unresolved
+- status: resolved by Zach, 2026-11-07 (chat N, N0): "Tension T2 in @wiki/meta/tensions.md gets replaced by the foam channel circulatory system with pore input and mouth exhaust output". Circulation is porous tissue that air flows through in any direction, seeded by pores, with the mouth as a filtered pressure relief valve ([organs ^foam-circulation](../biology/organs.md#^foam-circulation)). Both claims stay as written; the Disputed blocks on body-and-growth are replaced by a resolution note. Claim A is marked Outdated for its no-bloodflow part (Zach, wrap-up review); G-force resistance is kept.
 
 ## T3. Memory at a split
 
@@ -84,6 +85,7 @@ Registry of contradictions. Recorded, never resolved. Only Zach marks a tension 
 - Claim A [Z?] (C): "the founder betrayed and slaughtered them at an opportune time so they could be the sole seed of the civilization"
 - Claim B [Z?] (L): "they wouldn't need to betray, the group would need to just be split from the founder so they naturally share ideals"
 - Zach note (2026-11-03 ingest review): unsure of the exact history, but there was definitely manipulation/confidence involved.
+- Related (N): Zach (N24): chat N's founding hierarchy does not resolve T10, which is about whether the founding party was originally composed of people other than the founder; either way the outcome is a city composed of only the founder's lineage [Z] (N24).
 - Pages: [government-and-founder](../society/government-and-founder.md), [history-and-timeline](../world/history-and-timeline.md)
 - status: unresolved
 

@@ -30,11 +30,11 @@ Giglian bodies: tissue, growth, mitosis, fusion, death.
 
 | Article | Summary | Updated |
 |---------|---------|---------|
-| [Body and Growth](biology/body-and-growth.md) | Frame and foam, bioelectric growth, base form, healing, smooth look. 26 [Z], 1 [Z?], 4 [C], 1 [X], 1 [OPEN] | 2026-11-04 |
+| [Body and Growth](biology/body-and-growth.md) | Frame and foam, bioelectric growth, size and mass, base form, healing, smooth look. 28 [Z], 1 [Z?], 7 [C], 1 [X], 1 [OPEN] | 2026-11-07 |
 | [Dissolution and Death](biology/dissolution-and-death.md) | Degenerate mitosis, collapse, forensics, suicide, head deforms last. 10 [Z], 7 [C], 3 [X], 3 [OPEN] | 2026-11-04 |
 | [Fusion (Merging)](biology/fusion.md) | Merging, species boundary, skill transplant basis. 2 [Z], 1 [C+], 6 [C] | 2026-11-04 |
-| [Mitosis](biology/mitosis.md) | Split mechanics, uneven psyche split, memory dilution. 12 [Z], 3 [C], 2 [X], 2 [OPEN] | 2026-10-29 |
-| [Giglian Organs](biology/organs.md) | Required organ functions; respiration (pore intake, no gills, mouth exhaust, joy-driven circulation); defense against invaders. 14 [Z], 7 [Z?], 2 [C+], 48 [C], 1 [X], 5 [OPEN] | 2026-11-04 |
+| [Mitosis](biology/mitosis.md) | Split mechanics, uneven psyche split, memory dilution, targeted trimming. 14 [Z], 2 [Z?], 3 [C], 2 [X], 2 [OPEN] | 2026-11-07 |
+| [Giglian Organs](biology/organs.md) | Required organ functions; respiration and foam circulation (pore intake, mouth relief valve, giggle homeostasis, T2 resolved); breath and speech (tank, circulation skill, valence, square-cube); defense against invaders. 40 [Z], 7 [Z?], 4 [C+], 73 [C], 5 [X], 5 [OPEN] | 2026-11-07 |
 
 ## society
 
@@ -45,7 +45,7 @@ Giglian mind, culture, city, state and resistance.
 | [Center Entrance Evaluation](society/center-entrance-evaluation.md) | Stub. What the center entrance evaluation tests. 2 [OPEN] | 2026-10-30 |
 | [Doctrine Camps](society/doctrine-camps.md) | Stub. Names and number of doctrine camps. 2 [OPEN] | 2026-10-29 |
 | [Re-education and Clean Splitting](society/education-and-clean-splitting.md) | Post-split re-education; elite clean splits. 6 [Z], 13 [C], 2 [OPEN] | 2026-10-29 |
-| [Government and the Founder](society/government-and-founder.md) | The Founder title, skill loss, council, founding origin (T10). 13 [Z], 4 [Z?], 10 [C], 1 [X], 5 [OPEN] | 2026-11-03 |
+| [Government and the Founder](society/government-and-founder.md) | The Founder title, dilution hierarchy, skill loss, council, hedons and visibility, founding origin (T10). 22 [Z], 5 [Z?], 1 [C+], 13 [C], 2 [X], 5 [OPEN] | 2026-11-07 |
 | [Identity Metaphysics and Splitting Doctrines](society/identity-doctrines.md) | Continuity vs death-and-birth; doctrine spread. 8 [Z], 8 [C], 3 [X], 4 [OPEN] | 2026-10-29 |
 | [Joy, Mood and Moral Philosophy](society/joy-and-mood.md) | Joy ethic, holding pressure (now literal), leaky, giggling. 16 [Z], 14 [C], 3 [X], 3 [OPEN] | 2026-11-03 |
 | [Law and Courts](society/law-and-courts.md) | Greedy-mitosis law, testimony, corrupt courts. 8 [Z], 14 [C], 5 [OPEN] | 2026-10-29 |
@@ -72,13 +72,13 @@ The planned RPG: premise, paths, progression, player agent.
 
 | Article | Summary | Updated |
 |---------|---------|---------|
-| [Characters](game/characters.md) | Stub. Named characters. 1 [OPEN] | 2026-10-29 |
+| [Characters](game/characters.md) | Stub. Glasgo, the "Founder", the hedons. 3 [Z], 1 [OPEN] | 2026-11-07 |
 | [Codex and Artbook](game/codex-and-artbook.md) | Stub. Visual style guide. 1 [OPEN] | 2026-10-29 |
 | [Combat](game/combat.md) | Stub. Combat design. 1 [OPEN] | 2026-10-29 |
 | [Endings](game/endings.md) | Stub. Ending list and conditions. 4 [C], 2 [OPEN] | 2026-10-29 |
 | [The Four Paths](game/paths.md) | Four paths; half choice; infiltration. 10 [Z], 3 [C], 2 [X], 2 [OPEN] | 2026-10-29 |
 | [Player Agent and Dialogue](game/player-agent-and-dialogue.md) | Player as GOAP agent; NPC models; persuasion. 10 [Z], 11 [C], 3 [OPEN] | 2026-10-29 |
-| [Premise and Protagonist](game/premise-and-protagonist.md) | Cast-off founder half as protagonist. 5 [Z], 1 [C+], 4 [C], 3 [OPEN] | 2026-10-29 |
+| [Premise and Protagonist](game/premise-and-protagonist.md) | Cast-off founder half as protagonist; Glasgo's forced, targeted split. 11 [Z], 1 [C+], 7 [C], 1 [X], 3 [OPEN] | 2026-11-07 |
 | [Progression and Skill Points](game/progression-and-skill-points.md) | Memory-gated dialogue; mitosis point economy. 14 [Z], 2 [Z?], 5 [C], 1 [X], 1 [OPEN] | 2026-10-29 |
 | [Skill Tree](game/skill-tree.md) | Stub. Actual skills. 2 [OPEN] | 2026-10-29 |
 
@@ -102,7 +102,7 @@ Wiki bookkeeping: sources, tensions, rejected ideas, glossary.
 
 | Article | Summary | Updated |
 |---------|---------|---------|
-| [Glossary](meta/glossary.md) | Term definitions for linking. 26 [Z], 1 [C+], 3 [C] | 2026-10-29 |
-| [Rejected Ideas](meta/rejected-ideas.md) | [X] registry, 33 rows. | 2026-11-04 |
-| [Sources](meta/sources.md) | Chat codes A–J, L, M and memory notes. | 2026-11-04 |
-| [Tensions](meta/tensions.md) | Contradiction registry, T1–T5, T7, T8 and T10 unresolved, T6 and T9 resolved. | 2026-11-04 |
+| [Glossary](meta/glossary.md) | Term definitions for linking. 28 [Z], 1 [C+], 3 [C] | 2026-11-07 |
+| [Rejected Ideas](meta/rejected-ideas.md) | [X] registry, 39 rows. | 2026-11-07 |
+| [Sources](meta/sources.md) | Chat codes A–J, L, M, N and memory notes. | 2026-11-07 |
+| [Tensions](meta/tensions.md) | Contradiction registry, T1, T3–T5, T7, T8 and T10 unresolved, T2, T6 and T9 resolved. | 2026-11-07 |

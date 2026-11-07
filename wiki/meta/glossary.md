@@ -1,8 +1,8 @@
 # Glossary
 
-> Sources: Giglos Wiki Source, 2026-10-29
-> Raw: [Giglos Wiki Source § Glossary](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Glossary)
-> Updated: 2026-10-29
+> Sources: Giglos Wiki Source, 2026-10-29; Chat N transcript, 2026-11-07
+> Raw: [Giglos Wiki Source § Glossary](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Glossary); [Chat N transcript](../../raw/chats/2026-11-07-chat-N.md)
+> Updated: 2026-11-07
 > Kind: draft
 
 ## Overview
@@ -25,8 +25,10 @@ Quick definitions for entity linking, copied from the source glossary. The sourc
 - **Fusion**: Merging two compatible Giglians; gene mixing, marriage analog [Z] (source glossary). See [fusion](../biology/fusion.md).
 - **Giggle**: English label for the Giglian vocalization; speech is controlled giggling [Z] (source glossary). See [joy-and-mood](../society/joy-and-mood.md).
 - **Glaggle**: Meme smiley that inspired the Giglian head and base form [Z] (source glossary). See [naming-and-terminology](../world/naming-and-terminology.md).
+- **Glasgo**: The protagonist; the part trimmed from the "founder" tip in a forced, targeted mitose, with the skill but not the memory [Z] (N). See [premise-and-protagonist](../game/premise-and-protagonist.md).
 - **GOAP / LGOAP**: Goal-oriented action planning; LGOAP adds long-horizon plan influence [Z] (source glossary). See [goap-architecture](../agents/goap-architecture.md).
 - **Greedy mitosis**: Deliberately unequal split; presumed intentional in law [Z] (source glossary). See [law-and-courts](../society/law-and-courts.md).
+- **Hedons**: Zach's word for the hedonistic lazy elites, who pretend to be skilled because of their large tanks [Z] (N). See [government-and-founder](../society/government-and-founder.md).
 - **Holding pressure**: Maintained healthy baseline; cultural metaphor [Z] (source glossary). See [joy-and-mood](../society/joy-and-mood.md).
 - **Jev**: Zach's separate decision model over up to 255 labeled options [Z] (source glossary). See [jev](../agents/jev.md).
 - **Joy**: Core moral tenet; outward-growing healthy baseline [Z] (source glossary). See [joy-and-mood](../society/joy-and-mood.md).
