@@ -1,13 +1,13 @@
 # Rejected Ideas
 
-> Sources: Giglos Wiki Source, 2026-10-29; Chat H "Wiki planning and agent design follow-up", 2026-10-29; Chat J transcript, 2026-10-30; Chat L transcript, 2026-11-02; Chat M transcript, 2026-11-04; Chat N transcript, 2026-11-07
-> Raw: [Giglos Wiki Source § Rejected or superseded ideas](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Rejected%20or%20superseded%20ideas); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat G transcript](../../raw/chats/2026-10-27-chat-G.md); [Chat H transcript](../../raw/chats/2026-10-29-chat-H.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md); [Chat L transcript](../../raw/chats/2026-11-02-chat-L.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat M transcript](../../raw/chats/2026-11-04-chat-M.md); [Chat N transcript](../../raw/chats/2026-11-07-chat-N.md)
-> Updated: 2026-11-07
+> Sources: Giglos Wiki Source, 2026-10-29; Chat H "Wiki planning and agent design follow-up", 2026-10-29; Chat J transcript, 2026-10-30; Chat L transcript, 2026-11-02; Chat M transcript, 2026-11-04; Chat N transcript, 2026-11-07; Chat O transcript, 2026-11-09
+> Raw: [Giglos Wiki Source § Rejected or superseded ideas](../../raw/giglos/2026-10-29-giglos-wiki-source.md#Rejected%20or%20superseded%20ideas); [Chat C transcript](../../raw/chats/2026-10-12-chat-C.md); [Chat G transcript](../../raw/chats/2026-10-27-chat-G.md); [Chat H transcript](../../raw/chats/2026-10-29-chat-H.md); [Chat J transcript](../../raw/chats/2026-10-30-chat-J.md); [Chat L transcript](../../raw/chats/2026-11-02-chat-L.md); [Chat E transcript](../../raw/chats/2026-10-22-chat-E.md); [Chat M transcript](../../raw/chats/2026-11-04-chat-M.md); [Chat N transcript](../../raw/chats/2026-11-07-chat-N.md); [Chat O transcript](../../raw/chats/2026-11-09-chat-O.md)
+> Updated: 2026-11-09
 > Kind: draft
 
 ## Overview
 
-Registry of [X] items. Check here before writing any new claim; a match gets flagged to Zach, not added. Rows 1–27 are seeded from the source table; rows 28–29 come from inline [X] lines and Zach's first-ingest decisions; rows 30–31 from Zach's chat J wrap-up answers; row 32 from chat L; row 33 from chat M; rows 34–39 from chat N.
+Registry of [X] items. Check here before writing any new claim; a match gets flagged to Zach, not added. Rows 1–27 are seeded from the source table; rows 28–29 come from inline [X] lines and Zach's first-ingest decisions; rows 30–31 from Zach's chat J wrap-up answers; row 32 from chat L; row 33 from chat M; rows 34–39 from chat N; row 40 from chat O.
 
 ## Registry
 
@@ -52,6 +52,7 @@ Registry of [X] items. Check here before writing any new claim; a match gets fla
 | 37 | Self-limiting intake: holding the breath plateaus once pore suction stalls (Claude, N7) | Holding your breath inflates you until the body forces a giggle (Zach, N8) | (N) | rejected by Zach | [organs](../biology/organs.md) |
 | 38 | Protagonist as the memory-holding diluted tip with a big, untrained body (Claude's misreading, N17) | The founder got the memory and experience; Glasgo got the skill (Zach, N18) | (N) | replaced by Zach | [premise-and-protagonist](../game/premise-and-protagonist.md) |
 | 39 | The founder hidden from public eye behind the bureaucracy (was [Z?], N28) | The founder could be visible; the hedons limit the visibility (Zach, N30) | (N) | replaced by Zach | [government-and-founder](../society/government-and-founder.md) |
+| 40 | A brown or small red dwarf as Giglos's host, Jupiter-sized but glowing, with room for planets between it and the main star (Zach, O6) | The existing planet, unchanged: "even tho they can be the right size, theyre still higher mass" (O8) | (O) | rejected by Zach | [giglos-world](../world/giglos-world.md) |
 
 ## See Also
 

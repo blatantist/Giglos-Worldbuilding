@@ -119,3 +119,14 @@
 ## [2026-11-07] lint | changed pages after chat N ingest
 - 0 evidence errors, 0 unreferenced raw files; fidelity suspects are review and resolution dates only
 - check_evidence.py still fails on the system Python 3.9 (`str | None` annotation); ran it with postponed annotations. Reported, not fixed
+
+## [2026-11-09] ingest | Chat O "Shepherd moons and ring layout" (Claude Code session)
+- Disposition: Update (session wrap-up; drafted on session/2026-11-09-O, verified, Zach approved all items as drafted)
+- Raw: raw/chats/2026-11-09-chat-O.md (turns O0–O22)
+- world/giglos-world: +3 [Z], +3 [Z?], +1 [C+], +30 [C], +1 [X], +1 [OPEN]; ^ring-layout kept as [Z] with a "Refined in Chat O" note; closed belt [OPEN] gets a "Revisited 2026-11-09" sub-bullet
+- Meta: sources adds O; rejected-ideas row 40 (brown or red dwarf host)
+- No new tensions; no [X] collisions
+
+## [2026-11-09] lint | changed pages after chat O ingest
+- 0 evidence errors, 0 unreferenced raw files; fidelity suspects are review and resolution dates only
+- check_evidence.py still fails on the system Python 3.9 (`str | None` annotation); ran it with postponed annotations. Reported, not fixed

@@ -16,7 +16,7 @@ The setting beyond Giglian bodies: names, planet, ecology.
 | Article | Summary | Updated |
 |---------|---------|---------|
 | [Ecology and Deep-Time Evolution](world/ecology-and-evolution.md) | Speciation by mergeability, fungal flora, genome as vocabulary, no deserts. 7 [Z], 1 [C+], 17 [C], 1 [OPEN], 1 closed | 2026-11-04 |
-| [Giglos as a World](world/giglos-world.md) | Astronomy (tidal lock, 11-day cycle, 30° tilt, ring and moons), exonym, dense damp atmosphere, weather, size and 0.66 g gravity, heat spread. 31 [Z], 3 [Z?], 11 [C+], 135 [C], 2 [X], 5 [OPEN], 9 closed | 2026-11-04 |
+| [Giglos as a World](world/giglos-world.md) | Astronomy (tidal lock, 11-day cycle, 30° tilt, ring and moons, shepherd moons and main ring), exonym, dense damp atmosphere, weather, size and 0.66 g gravity, heat spread. 34 [Z], 6 [Z?], 12 [C+], 165 [C], 3 [X], 6 [OPEN], 9 closed | 2026-11-09 |
 | [History and Timeline](world/history-and-timeline.md) | Stub. Eras and founding events. 2 [OPEN] | 2026-11-03 |
 | [Naming and Terminology](world/naming-and-terminology.md) | Placeholder name, glaggle origin, Giglos exonym, fixed terms. 19 [Z], 1 [C+], 1 [C], 1 [X] | 2026-10-30 |
 | [Other Cities and Unincorporated Lands](world/other-cities.md) | Stub. Other founder-seeded cities, unincorporated land, the mainland. 2 [Z?], 4 [C], 3 [OPEN] | 2026-11-03 |
@@ -103,6 +103,6 @@ Wiki bookkeeping: sources, tensions, rejected ideas, glossary.
 | Article | Summary | Updated |
 |---------|---------|---------|
 | [Glossary](meta/glossary.md) | Term definitions for linking. 28 [Z], 1 [C+], 3 [C] | 2026-11-07 |
-| [Rejected Ideas](meta/rejected-ideas.md) | [X] registry, 39 rows. | 2026-11-07 |
+| [Rejected Ideas](meta/rejected-ideas.md) | [X] registry, 40 rows. | 2026-11-09 |
 | [Sources](meta/sources.md) | Chat codes A–J, L, M, N and memory notes. | 2026-11-07 |
 | [Tensions](meta/tensions.md) | Contradiction registry, T1, T3–T5, T7, T8 and T10 unresolved, T2, T6 and T9 resolved. | 2026-11-07 |
